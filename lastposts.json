@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-11T10:35:02.235Z",
+  "updated": "2026-04-11T18:56:48.867Z",
   "blogs": [
+    {
+      "name": "Aleteia",
+      "url": "https://es.aleteia.org",
+      "lastPosts": [
+        {
+          "title": "&#8220;¡Que acabe la locura de la guerra!&#8221;, imploró León XIV durante el rosario por la paz",
+          "url": "https://es.aleteia.org/2026/04/11/que-acabe-la-locura-de-la-guerra-imploro-leon-xiv-durante-el-rosario-por-la-paz/",
+          "date": "11/04/2026"
+        },
+        {
+          "title": "Países que nunca han sido visitados por un pontífice",
+          "url": "https://es.aleteia.org/2026/04/11/paises-que-nunca-han-sido-visitados-por-un-pontifice/",
+          "date": "11/04/2026"
+        },
+        {
+          "title": "Familia: una pequeña Iglesia para hacer oración en común",
+          "url": "https://es.aleteia.org/2026/04/11/familia-una-pequena-iglesia-para-hacer-oracion-en-comun/",
+          "date": "11/04/2026"
+        }
+      ]
+    },
     {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
@@ -42,32 +63,6 @@
           "date": "09/04/2026"
         }
       ]
-    },
-    {
-      "name": "Aleteia",
-      "url": "https://es.aleteia.org",
-      "lastPosts": [
-        {
-          "title": "¿Sientes que no encajas? Santa Gemma Galgani puede ayudarte",
-          "url": "https://es.aleteia.org/2026/04/11/sientes-que-no-encajas-santa-gemma-galgani-puede-ayudarte/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "¿Sabías que Galilea tenía un gran significado para Jesús?",
-          "url": "https://es.aleteia.org/2026/04/10/sabias-que-galilea-tenia-un-gran-significado-para-jesus/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "Antes del silbatazo, una bendición: el rostro espiritual del Mundial",
-          "url": "https://es.aleteia.org/2026/04/10/antes-del-silbatazo-una-bendicion-el-rostro-espiritual-del-mundial/",
-          "date": "10/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com",
-      "lastPosts": []
     }
   ]
 }
