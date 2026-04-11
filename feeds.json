@@ -8,5 +8,15 @@
     "name": "Catholic Link",
     "url": "https://catholic-link.com",
     "feed": "https://catholic-link.com/feed/"
+  },
+  {
+    "name": "Profesorado de Religión",
+    "url": "https://profesoradoreligion.blogspot.com/",
+    "feed": "https://profesoradoreligion.blogspot.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "name": "Enciclopedia Católica",
+    "url": "https://www.wikitolica.com/",
+    "feed": "https://www.wikitolica.com/rss.xml"
   }
 ]
