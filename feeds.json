@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Aleteia",
+    "url": "https://es.aleteia.org",
+    "feed": "https://es.aleteia.org/feed/"
+  },
+  {
+    "name": "Catholic Link",
+    "url": "https://catholic-link.com",
+    "feed": "https://catholic-link.com/feed/"
+  }
+]
