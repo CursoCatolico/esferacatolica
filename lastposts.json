@@ -1,0 +1,31 @@
+{
+  "updated": "2026-04-11T10:05:02.580Z",
+  "blogs": [
+    {
+      "name": "Aleteia",
+      "url": "https://es.aleteia.org",
+      "lastPosts": [
+        {
+          "title": "¿Sientes que no encajas? Santa Gemma Galgani puede ayudarte",
+          "url": "https://es.aleteia.org/2026/04/11/sientes-que-no-encajas-santa-gemma-galgani-puede-ayudarte/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "¿Sabías que Galilea tenía un gran significado para Jesús?",
+          "url": "https://es.aleteia.org/2026/04/10/sabias-que-galilea-tenia-un-gran-significado-para-jesus/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "Antes del silbatazo, una bendición: el rostro espiritual del Mundial",
+          "url": "https://es.aleteia.org/2026/04/10/antes-del-silbatazo-una-bendicion-el-rostro-espiritual-del-mundial/",
+          "date": "10/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com",
+      "lastPosts": []
+    }
+  ]
+}
