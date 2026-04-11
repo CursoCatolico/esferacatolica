@@ -5,11 +5,6 @@
     "feed": "https://es.aleteia.org/feed/"
   },
   {
-    "name": "Catholic Link",
-    "url": "https://catholic-link.com",
-    "feed": "https://catholic-link.com/feed/"
-  },
-  {
     "name": "Profesorado de Religión",
     "url": "https://profesoradoreligion.blogspot.com/",
     "feed": "https://profesoradoreligion.blogspot.com/feeds/posts/default?alt=rss"
