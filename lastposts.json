@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-11T10:05:02.580Z",
+  "updated": "2026-04-11T10:35:02.235Z",
   "blogs": [
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "lastPosts": [
+        {
+          "title": "Tema himno",
+          "url": "https://www.wikitolica.com/t/tema-himno/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "Tema hermanas",
+          "url": "https://www.wikitolica.com/t/tema-hermanas/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "Tema gregorio",
+          "url": "https://www.wikitolica.com/t/tema-gregorio/",
+          "date": "10/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Profesorado de Religión",
+      "url": "https://profesoradoreligion.blogspot.com/",
+      "lastPosts": [
+        {
+          "title": "Carlos Esteban: “Los profesores de religión están muy motivados. Resisten bien a propuestas excluyentes e intolerantes”",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/carlos-esteban-los-profesores-de.html",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "Religión y cine: Ya no perteneces al mal, he comprado tu alma, se la entrego a Dios",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/religion-y-cine-ya-no-perteneces-al-mal.html",
+          "date": "09/04/2026"
+        },
+        {
+          "title": "Juego de pistas para encontrar los huevos de Pascua",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/juego-de-pistas-para-encontrar-los.html",
+          "date": "09/04/2026"
+        }
+      ]
+    },
     {
       "name": "Aleteia",
       "url": "https://es.aleteia.org",
