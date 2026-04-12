@@ -13,5 +13,20 @@
     "name": "Enciclopedia Católica",
     "url": "https://www.wikitolica.com/",
     "feed": "https://www.wikitolica.com/rss.xml"
+  },
+  {
+    "name": "Primeros Cristianos",
+    "url": "https://www.primeroscristianos.com/",
+    "feed": "https://www.primeroscristianos.com/feed/"
+  },
+  {
+    "name": "Jovenes Católicos",
+    "url": "https://www.jovenescatolicos.es/",
+    "feed": "https://www.jovenescatolicos.com/feed/"
+  },
+  {
+    "name": "Catholic Link",
+    "url": "https://catholic-link.com/",
+    "feed": "https://catholic-link.com/feed/"
   }
 ]
