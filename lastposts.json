@@ -1,71 +1,74 @@
 {
-  "updated": "2026-04-12T07:24:55.852Z",
+  "updated": "2026-04-12T18:39:20.962Z",
   "blogs": [
     {
-      "name": "Aleteia",
-      "url": "https://es.aleteia.org/",
+      "name": "Primeros Cristianos",
+      "url": "https://www.primeroscristianos.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAkFBMVEX///+c2ekAqtmH0+UAqND4//8AptgAqs4Ar9gAqtWX1en4/f7a7/W/6vGv4+u35e/k9fnr+vyv3ul+z+Ch1ehcw99Uwtmk3upkx93s9vvO7fOi4+550eVuzNxeyuMAr80Ptc5Iw98yudrY8/VDs9RCw9dxyOCN2+jI5vFJttyGzeRnwN+v3/B01+fQ9flVu9s90SazAAABXElEQVQokWWO2ZKCMBBFG8KSoIghE8ywBNOBRIbF//+7QX1Sz0PXTU511wWAwzE/FWf4hJdC/JSSfInqctynUPGXgd+6aTv6tVIS3V+Nwsh+iMZUJ3s8F9HnrXQYwQkAWR7eheSZV91tsczzN3GHmhaycueuzd9FXE98sEt9+Xsv9geW1HSZXdvj7Vkg5ucdIFJqv+TBup1Mciduvk/TMFEG2ORMkNEMCQ11i143ym0nv4HpI8LCjXjRJrlJ44DFN11lDhbJOCIEzC5JPCMvI+DU7mUva1+nyoreuYhIgzrSLXWOQoWIsk/QJAleKUWaImq633hkY1KNrbqJoFBzZkXDrIQVD57oYkEX1HcOKcuhxQoy6MZfoSq7eFWsUwxVWsOPVhCAGg+dUrzcFB8MBz8eoVgzmMFMEpEiow8QB5pWeu9GIQxD9vihbA+vB3sEcNI54oNL8CLLMvLkHx+6IwPMvwiPAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "¡Que acabe la locura de la guerra! , imploró León XIV durante el rosario por la paz",
-          "url": "https://es.aleteia.org/2026/04/11/que-acabe-la-locura-de-la-guerra-imploro-leon-xiv-durante-el-rosario-por-la-paz/",
-          "date": "11/04/2026"
+          "title": "Hallan un bloque de mármol único en Hippos que podría reescribir la historia del bautismo cristiano",
+          "url": "https://www.primeroscristianos.com/encuentran-bloque-en-hippos/",
+          "date": "12/04/2026"
         },
         {
-          "title": "Países que nunca han sido visitados por un pontífice",
-          "url": "https://es.aleteia.org/2026/04/11/paises-que-nunca-han-sido-visitados-por-un-pontifice/",
-          "date": "11/04/2026"
+          "title": "Domingo de la Divina Misericordia - 2º domingo de Pascua",
+          "url": "https://www.primeroscristianos.com/domingo-de-la-divina-misericordia-2o-domingo-de-pascua/",
+          "date": "12/04/2026"
         },
         {
-          "title": "Familia: una pequeña Iglesia para hacer oración en común",
-          "url": "https://es.aleteia.org/2026/04/11/familia-una-pequena-iglesia-para-hacer-oracion-en-comun/",
-          "date": "11/04/2026"
+          "title": "Wikitólica se suma a primeroscristianos.com para que conozcas a las figuras del cristianismo primitivo",
+          "url": "https://www.primeroscristianos.com/wikitolica-se-suma-a-primeroscristianos-com-para-que-conozcas-a-las-figuras-del-cristianismo-primitivo/",
+          "date": "08/04/2026"
         },
         {
-          "title": "(VIDEO) Viaje Apostólico a África, la ruta del Papa",
-          "url": "https://es.aleteia.org/2026/04/11/video-viaje-apostolico-a-africa-la-ruta-del-papa/",
-          "date": "11/04/2026"
+          "title": "Los orígenes del Tiempo Pascual",
+          "url": "https://www.primeroscristianos.com/los-origenes-del-tiempo-pascual/",
+          "date": "07/04/2026"
         },
         {
-          "title": "Decisiones en pareja: ¿por qué son tan difíciles?",
-          "url": "https://es.aleteia.org/2026/04/11/decisiones-en-pareja-por-que-son-tan-dificiles/",
-          "date": "11/04/2026"
+          "title": "¿Cómo fue sellado el Sepulcro de Jesús?",
+          "url": "https://www.primeroscristianos.com/como-fue-sellado-el-sepulcro-de-jesus/",
+          "date": "07/04/2026"
         }
       ]
     },
     {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com/",
+      "name": "Aleteia",
+      "url": "https://es.aleteia.org/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
-          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
-          "date": "10/04/2026"
+          "title": "Regina Cæli: León XIV destaca la importancia de la Eucaristía",
+          "url": "https://es.aleteia.org/2026/04/12/regina-caeli-leon-xi-destaca-la-importancia-de-la-eucaristia/",
+          "date": "12/04/2026"
         },
         {
-          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
-          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
-          "date": "09/04/2026"
+          "title": "Cuando amar es soltar la cuerda sin dejar de comprender",
+          "url": "https://es.aleteia.org/2026/04/12/cuando-amar-es-soltar-la-cuerda-sin-dejar-de-comprender/",
+          "date": "12/04/2026"
         },
         {
-          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
-          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
-          "date": "07/04/2026"
+          "title": "(VIDEO) El futuro del trabajo ante la automatización",
+          "url": "https://es.aleteia.org/2026/04/12/video-el-futuro-del-trabajo-ante-la-automatizacion/",
+          "date": "12/04/2026"
         },
         {
-          "title": "«Forevergreen»: 3 lecciones del cortometraje cristiano nominado al Óscar",
-          "url": "https://catholic-link.com/forevergreen-cortometraje-oscar/",
-          "date": "06/04/2026"
+          "title": "Cómo san Agustín se convirtió en una figura central de Argelia",
+          "url": "https://es.aleteia.org/2026/04/12/como-san-agustin-se-convirtio-en-una-figura-central-de-argelia/",
+          "date": "12/04/2026"
         },
         {
-          "title": "Sábado Santo: una meditación para consolar a María en su dolor",
-          "url": "https://youtu.be/DM5YL9geqvY#new_tab",
-          "date": "04/04/2026"
+          "title": "Sin cometer un pecado grave, se puede estar lejos de Dios",
+          "url": "https://es.aleteia.org/2026/04/12/sin-cometer-un-pecado-grave-se-puede-estar-lejos-de-dios/",
+          "date": "12/04/2026"
         }
       ]
     },
     {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAqFBMVEVHcExvUDtVLRdfOyJTMBhaMRZZMBZXMBpcNhwuAABYLxism41dNh1dNx07AABeOR5aNBfBtKVbNRxYLxRAAABxUj2Tfm1fOh9jQDL//x7/+uv/++3///JeOR7///hUKQP18OJYLw/Guare1ceWgHJbNRjj28+woZL48+WgjH2lk4P69eeCaFbXzL5KFwDp4tZIEgDRxrliQC97X01PIACNdmTs6NpmST8HFUPTAAAAGXRSTlMA/TGXCVckE0GVGf2nuWl16/z01FrE3YPXRLRntQAAAQlJREFUKJG9kdlywyAMRb3jNXGSbhPLGDB4j7cs/f8/K+B2ppP39r4gzUG6EhjGP8kNgmCHVOS8qND5Aa+XqjyYgWHsjlE5VW/W9/3ingEAZh92BxgyqG97DfZFe1bC5YLVmbHR1s3eb7UGULINLHOsDB17ZJnMm74ze6JAOSahBCieLxLA4TMXaw0SVPTkSRAmc6kqCOnMRldMZqrm8k55lWnzetg8HgP1JbBScwJtHl03QHihgE+HR9+AnJ+1WC50bki3AWFyziNGgBDol6jl/EpdBXJRSK1XhvEyrCqmuVrdzbUEpfdWULFlsVzdsbwQIc+3U1ocY9dDKPQs9Pvx/SRx//Z7n/UF4w0gUxDAbVQAAAAASUVORK5CYII=",
       "lastPosts": [
         {
           "title": "Videojuego Custodio Animae",
@@ -97,6 +100,7 @@
     {
       "name": "Profesorado de Religión",
       "url": "https://profesoradoreligion.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
       "lastPosts": [
         {
           "title": "Carlos Esteban: “Los profesores de religión están muy motivados. Resisten bien a propuestas excluyentes e intolerantes”",
@@ -126,39 +130,15 @@
       ]
     },
     {
-      "name": "Primeros Cristianos",
-      "url": "https://www.primeroscristianos.com/",
-      "lastPosts": [
-        {
-          "title": "Wikitólica se suma a primeroscristianos.com para que conozcas a las figuras del cristianismo primitivo",
-          "url": "https://www.primeroscristianos.com/wikitolica-se-suma-a-primeroscristianos-com-para-que-conozcas-a-las-figuras-del-cristianismo-primitivo/",
-          "date": "08/04/2026"
-        },
-        {
-          "title": "Los orígenes del Tiempo Pascual",
-          "url": "https://www.primeroscristianos.com/los-origenes-del-tiempo-pascual/",
-          "date": "07/04/2026"
-        },
-        {
-          "title": "¿Cómo fue sellado el Sepulcro de Jesús?",
-          "url": "https://www.primeroscristianos.com/como-fue-sellado-el-sepulcro-de-jesus/",
-          "date": "07/04/2026"
-        },
-        {
-          "title": "Regina Coeli - Antífona de la Pascua",
-          "url": "https://www.primeroscristianos.com/regina-coeli/",
-          "date": "07/04/2026"
-        },
-        {
-          "title": "¿Qué significa la expresión Aleluya ?",
-          "url": "https://www.primeroscristianos.com/que-significa-la-expresion-aleluya/",
-          "date": "06/04/2026"
-        }
-      ]
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEVHcEzyYiHxYyHyYiHzYh/xYiHxYyHyYiDyYiHyYSHxYyHxYyLxYyLxYyHxYyLxYR3xXRP0e0z//PvzbTX4tZ36y7r2mXb6wq7/8+71imL71MX9597xVwL+6+P3ponwTgD94daR94rFAAAADnRSTlMAodVVGb3xJY8+eMfo3LcWKuoAAAEUSURBVCiRdVLbdoQwCIzrfbcVQm4mJrr//5VVULt9KC85MISBAaXE+rF6dF1bjY36tGb4mk77Hj7i4+MIYRbo1V/xJ/uow/mpq8989kAvNl8IEzVcZ9ocrRlAkPYABilkiBY0ZkJ2n3uf0k+MFMi5OWlGXo0wQHyb2VsK65IMJ/aqYoJEltLmUvakmadWLQNlXopFncDPAgyqO57sZm32jpO/gEoAjOQ2xMkEewOtTO3Iau+sDXcpJkdf/LukaOxVqpZ291IeYdrnC8WAtMsDgkm0HFbIwjmgSAJmDeu62hAnOCVRPYuY0xJjDDPCLeIpirbOueBFw+ZjUXjkosTrv6u97He1O88/x8DnM7T7+Qz9dT4/KXAdXZQQ80sAAAAASUVORK5CYII=",
+      "lastPosts": []
     },
     {
       "name": "Jovenes Católicos",
       "url": "https://www.jovenescatolicos.es/",
+      "favicon": "",
       "lastPosts": []
     }
   ]
