@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T19:23:50.678Z",
+  "updated": "2026-04-12T07:24:55.852Z",
   "blogs": [
     {
       "name": "Aleteia",
@@ -19,6 +19,47 @@
           "title": "Familia: una pequeña Iglesia para hacer oración en común",
           "url": "https://es.aleteia.org/2026/04/11/familia-una-pequena-iglesia-para-hacer-oracion-en-comun/",
           "date": "11/04/2026"
+        },
+        {
+          "title": "(VIDEO) Viaje Apostólico a África, la ruta del Papa",
+          "url": "https://es.aleteia.org/2026/04/11/video-viaje-apostolico-a-africa-la-ruta-del-papa/",
+          "date": "11/04/2026"
+        },
+        {
+          "title": "Decisiones en pareja: ¿por qué son tan difíciles?",
+          "url": "https://es.aleteia.org/2026/04/11/decisiones-en-pareja-por-que-son-tan-dificiles/",
+          "date": "11/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "lastPosts": [
+        {
+          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
+          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
+          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
+          "date": "09/04/2026"
+        },
+        {
+          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
+          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
+          "date": "07/04/2026"
+        },
+        {
+          "title": "«Forevergreen»: 3 lecciones del cortometraje cristiano nominado al Óscar",
+          "url": "https://catholic-link.com/forevergreen-cortometraje-oscar/",
+          "date": "06/04/2026"
+        },
+        {
+          "title": "Sábado Santo: una meditación para consolar a María en su dolor",
+          "url": "https://youtu.be/DM5YL9geqvY#new_tab",
+          "date": "04/04/2026"
         }
       ]
     },
@@ -27,19 +68,29 @@
       "url": "https://www.wikitolica.com/",
       "lastPosts": [
         {
-          "title": "Tema himno",
-          "url": "https://www.wikitolica.com/t/tema-himno/",
+          "title": "Videojuego Custodio Animae",
+          "url": "https://www.wikitolica.com/v/videojuego-custodio-animae/",
           "date": "10/04/2026"
         },
         {
-          "title": "Tema hermanas",
-          "url": "https://www.wikitolica.com/t/tema-hermanas/",
+          "title": "Portal Primeros Cristianos",
+          "url": "https://www.wikitolica.com/p/portal-primeros-cristianos/",
           "date": "10/04/2026"
         },
         {
-          "title": "Tema gregorio",
-          "url": "https://www.wikitolica.com/t/tema-gregorio/",
+          "title": "Curso Católico",
+          "url": "https://www.wikitolica.com/c/curso-catolico/",
           "date": "10/04/2026"
+        },
+        {
+          "title": "Aquila y Priscila",
+          "url": "https://www.wikitolica.com/a/aquila-y-priscila/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "Melquisedec",
+          "url": "https://www.wikitolica.com/m/melquisedec/",
+          "date": "08/04/2026"
         }
       ]
     },
@@ -61,8 +112,54 @@
           "title": "Juego de pistas para encontrar los huevos de Pascua",
           "url": "https://profesoradoreligion.blogspot.com/2026/04/juego-de-pistas-para-encontrar-los.html",
           "date": "09/04/2026"
+        },
+        {
+          "title": "Trabaja los sacramentos con esta presentación",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/trabaja-los-sacramentos-con-esta.html",
+          "date": "08/04/2026"
+        },
+        {
+          "title": "Recursos para necesidades especiales",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/recursos-para-necesidades-especiales.html",
+          "date": "08/04/2026"
         }
       ]
+    },
+    {
+      "name": "Primeros Cristianos",
+      "url": "https://www.primeroscristianos.com/",
+      "lastPosts": [
+        {
+          "title": "Wikitólica se suma a primeroscristianos.com para que conozcas a las figuras del cristianismo primitivo",
+          "url": "https://www.primeroscristianos.com/wikitolica-se-suma-a-primeroscristianos-com-para-que-conozcas-a-las-figuras-del-cristianismo-primitivo/",
+          "date": "08/04/2026"
+        },
+        {
+          "title": "Los orígenes del Tiempo Pascual",
+          "url": "https://www.primeroscristianos.com/los-origenes-del-tiempo-pascual/",
+          "date": "07/04/2026"
+        },
+        {
+          "title": "¿Cómo fue sellado el Sepulcro de Jesús?",
+          "url": "https://www.primeroscristianos.com/como-fue-sellado-el-sepulcro-de-jesus/",
+          "date": "07/04/2026"
+        },
+        {
+          "title": "Regina Coeli - Antífona de la Pascua",
+          "url": "https://www.primeroscristianos.com/regina-coeli/",
+          "date": "07/04/2026"
+        },
+        {
+          "title": "¿Qué significa la expresión Aleluya ?",
+          "url": "https://www.primeroscristianos.com/que-significa-la-expresion-aleluya/",
+          "date": "06/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Jovenes Católicos",
+      "url": "https://www.jovenescatolicos.es/",
+      "lastPosts": []
     }
   ]
 }
