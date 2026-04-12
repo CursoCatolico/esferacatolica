@@ -1,7 +1,7 @@
 // fetch-feeds.mjs
 import { readFileSync, writeFileSync } from 'fs';
 
-const MAX_PER_FEED = 3;
+const MAX_PER_FEED = 5;
 const MAX_TITLE    = 300;
 const MAX_NAME     = 100;
 const HEADERS = { 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.178 Mobile Safari/537.36' };
