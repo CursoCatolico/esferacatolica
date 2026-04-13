@@ -11,8 +11,18 @@ const RETRY_ATTEMPTS  = 3;
 const RETRY_DELAY     = 2_000;
 
 // Sin Accept-Encoding: Node/undici descomprime automáticamente
-const HEADERS = {
-  'User-Agent':      'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
+const USER_AGENTS = [
+  // Tu original (por si algún sitio requiere que te identifiques)
+  'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
+  // Chrome en Windows
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  // Safari en Mac
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15',
+  // Firefox en Windows
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0'
+];
+
+const BASE_HEADERS = {
   'Accept':          'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
   'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
   'Cache-Control':   'no-cache',
@@ -137,15 +147,28 @@ async function fetchWithRetry(url) {
   let lastErr;
   for (let i = 0; i < RETRY_ATTEMPTS; i++) {
     if (i) { await sleep(RETRY_DELAY * i); console.warn(`  ↻ reintento ${i} → ${url}`); }
+    
+    // Seleccionamos el User-Agent correspondiente al intento actual
+    const currentUA = USER_AGENTS[i % USER_AGENTS.length];
+    const headers = { ...BASE_HEADERS, 'User-Agent': currentUA };
+
     try {
-      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers: HEADERS, redirect: 'follow' });
-      if (!res.ok) throw Object.assign(new Error(`HTTP ${res.status}`), { permanent: true });
+      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers: headers, redirect: 'follow' });
+      
+      if (!res.ok) {
+        // Errores como 403 o 406 suelen ser bloqueos por User-Agent. NO los marcamos como permanentes.
+        // Errores como 404 (No encontrado) sí son permanentes, no tiene sentido reintentar.
+        const isBotBlock = res.status === 403 || res.status === 406 || res.status === 401;
+        throw Object.assign(new Error(`HTTP ${res.status}`), { permanent: !isBotBlock });
+      }
+      
       const buf = await res.arrayBuffer();
       if (buf.byteLength > MAX_XML_BYTES) throw Object.assign(new Error('Feed demasiado grande'), { permanent: true });
       return buf;
+      
     } catch (e) {
       lastErr = e;
-      if (e.permanent) break; // errores deterministas: no reintentar
+      if (e.permanent) break; // Si es un error 404 o feed muy grande, nos rendimos aquí.
     }
   }
   throw lastErr;
