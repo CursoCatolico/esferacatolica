@@ -151,7 +151,8 @@ async function fetchWithRetry(url) {
   throw lastErr;
 }
 
-async function fetchFavicon(siteUrl) {
+async function fetchFavicon(siteUrl, cachedFavicon) {
+  if (cachedFavicon) return cachedFavicon;
   try {
     const origin = new URL(siteUrl).origin;
     const url    = `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(origin)}&size=24`;
@@ -160,7 +161,7 @@ async function fetchFavicon(siteUrl) {
     const buf  = await res.arrayBuffer();
     const mime = (res.headers.get('content-type') || 'image/png').split(';')[0].trim();
     return `data:${mime};base64,${Buffer.from(buf).toString('base64')}`;
-  } catch { return ''; }
+  } catch { return cachedFavicon || ''; }
 }
 
 // ── fetchBlog ──────────────────────────────────────────────────────────────
@@ -175,7 +176,7 @@ async function fetchBlog({ name, url, feed }, cached) {
     return { name: safeName, url: safeUrl, favicon: cached?.favicon || '', lastPosts: cached?.lastPosts || [], _latest: '' };
   }
 
-  const faviconP = fetchFavicon(safeUrl);
+  const faviconP = fetchFavicon(safeUrl, cached?.favicon || '');
 
   try {
     const [buf, favicon] = await Promise.all([
