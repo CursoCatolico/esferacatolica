@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T15:31:35.750Z",
+  "updated": "2026-04-13T15:39:39.344Z",
   "blogs": [
     {
       "name": "PortaLuz",
@@ -34,6 +34,38 @@
       ]
     },
     {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "«¡Soy un fracaso!»: 5 verdades para recordar cuando te sientes invisible en el trabajo o la vida",
+          "url": "https://catholic-link.com/llamado-de-dios-proposito/",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
+          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
+          "date": "10/04/2026"
+        },
+        {
+          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
+          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
+          "date": "09/04/2026"
+        },
+        {
+          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
+          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
+          "date": "07/04/2026"
+        },
+        {
+          "title": "«Forevergreen»: 3 lecciones del cortometraje cristiano nominado al Óscar",
+          "url": "https://catholic-link.com/forevergreen-cortometraje-oscar/",
+          "date": "06/04/2026"
+        }
+      ]
+    },
+    {
       "name": "Jovenes Católicos",
       "url": "https://www.jovenescatolicos.es/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
@@ -44,12 +76,12 @@
           "date": "13/04/2026"
         },
         {
-          "title": "¿Cómo afecta la Divina Misericordia a mi vida?Sin Autor",
+          "title": "¿Cómo afecta la Divina Misericordia a mi vida?",
           "url": "https://www.jovenescatolicos.es/2026/04/13/como-afecta-la-divina-misericordia-a-mi-vida/",
           "date": "13/04/2026"
         },
         {
-          "title": "Último testimonio de fe de Justin BieberSin Autor",
+          "title": "Último testimonio de fe de Justin Bieber",
           "url": "https://www.jovenescatolicos.es/2026/04/12/ultimo-testimonio-de-fe-de-justin-bieber/",
           "date": "12/04/2026"
         },
@@ -59,7 +91,7 @@
           "date": "12/04/2026"
         },
         {
-          "title": "Mensaje del Papa a los jóvenes en la Fiesta de la ResurrecciónSin Autor",
+          "title": "Mensaje del Papa a los jóvenes en la Fiesta de la Resurrección",
           "url": "https://www.jovenescatolicos.es/2026/04/12/mensaje-del-papa-a-los-jovenes-en-la-fiesta-de-la-resurreccion/",
           "date": "12/04/2026"
         }
@@ -256,12 +288,6 @@
           "date": "09/04/2026"
         }
       ]
-    },
-    {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
-      "lastPosts": []
     }
   ]
 }
