@@ -28,5 +28,20 @@
     "name": "Catholic Link",
     "url": "https://catholic-link.com/",
     "feed": "https://catholic-link.com/feed/"
+  },
+  {
+    "name": "ChurchPop",
+    "url": "https://es.churchpop.com/",
+    "feed": "https://es.churchpop.com/feed/"
+  },
+  {
+    "name": "PortaLuz",
+    "url": "https://portaluz.org/",
+    "feed": "https://portaluz.org/feed/"
+  },
+  {
+    "name": "PortaLuz",
+    "url": "https://blogcatolicogotitasespirituales.blogspot.com/",
+    "feed": "https://blogcatolicogotitasespirituales.blogspot.com/feeds/posts/default?alt=rss"
   }
 ]
