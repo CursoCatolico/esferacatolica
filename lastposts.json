@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T14:25:19.997Z",
+  "updated": "2026-04-13T15:27:04.592Z",
   "blogs": [
     {
       "name": "PortaLuz",
@@ -30,38 +30,6 @@
           "title": "En memoria de niños como el católico Iqbal Masih: 16 de abril, día contra la esclavitud y el abuso infantil",
           "url": "https://portaluz.org/batalla-mal/en-memoria-ninos-como-catolico-iqbal-masih-16-abril-dia-esclavitud-abuso-infantil-n6910",
           "date": "10/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "«¡Soy un fracaso!»: 5 verdades para recordar cuando te sientes invisible en el trabajo o la vida",
-          "url": "https://catholic-link.com/llamado-de-dios-proposito/",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
-          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
-          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
-          "date": "09/04/2026"
-        },
-        {
-          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
-          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
-          "date": "07/04/2026"
-        },
-        {
-          "title": "«Forevergreen»: 3 lecciones del cortometraje cristiano nominado al Óscar",
-          "url": "https://catholic-link.com/forevergreen-cortometraje-oscar/",
-          "date": "06/04/2026"
         }
       ]
     },
@@ -103,11 +71,6 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
       "lastPosts": [
         {
-          "title": "Ver película Quo Vadis",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/ver-pelicula-quo-vadis.html",
-          "date": "13/04/2026"
-        },
-        {
           "title": "Consejo General de la Iglesia en Educación (CGIE): Un compromiso compartido",
           "url": "https://profesoradoreligion.blogspot.com/2026/04/consejo-general-de-la-iglesia-en.html",
           "date": "13/04/2026"
@@ -126,36 +89,73 @@
           "title": "Recursos sobre la biblia, relatos bíblicos, advocaciones, pentecostés y el papa León XIV",
           "url": "https://profesoradoreligion.blogspot.com/2026/04/recursos-sobre-la-biblia-relatos.html",
           "date": "13/04/2026"
+        },
+        {
+          "title": "80 recursos para Pascua. La resurrección de Jesús",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/80-recursos-para-pascua-la-resurreccion.html",
+          "date": "13/04/2026"
         }
       ]
     },
     {
-      "name": "PortaLuz",
+      "name": "Aleteia",
+      "url": "https://es.aleteia.org/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "León XIV a 85 mil asistentes a un concierto en Madrid: “Rezad, buscad”",
+          "url": "https://es.aleteia.org/2026/04/13/leon-xiv-a-85-mil-asistentes-a-un-concierto-en-madrid-rezad-buscad/",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "Trump sobre León XIV: las respuestas de la Iglesia y del Papa",
+          "url": "https://es.aleteia.org/2026/04/13/trump-sobre-leon-xiv-las-respuestas-de-la-iglesia-y-del-papa/",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "Regina Cæli: León XIV destaca la importancia de la Eucaristía",
+          "url": "https://es.aleteia.org/2026/04/12/regina-caeli-leon-xi-destaca-la-importancia-de-la-eucaristia/",
+          "date": "12/04/2026"
+        },
+        {
+          "title": "Cuando amar es soltar la cuerda sin dejar de comprender",
+          "url": "https://es.aleteia.org/2026/04/12/cuando-amar-es-soltar-la-cuerda-sin-dejar-de-comprender/",
+          "date": "12/04/2026"
+        },
+        {
+          "title": "Cómo san Agustín se convirtió en una figura central de Argelia",
+          "url": "https://es.aleteia.org/2026/04/12/como-san-agustin-se-convirtio-en-una-figura-central-de-argelia/",
+          "date": "12/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Gotitas Espirituales",
       "url": "https://blogcatolicogotitasespirituales.blogspot.com/",
       "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgBAQkBAQgBCgkBDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nys3Nzc3Kzc3Nzc3Nzc3Nzc3N//AABEIABAAEAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAADBP/EACcQAAECBAUDBQAAAAAAAAAAAAECAwQGBzEABQgRIRITgTJBkaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAH/xAAXEQEBAQEAAAAAAAAAAAAAAAACAQAE/9oADAMBAAIRAxEAPwAM6nJ+vsjwlJtKLVZIIVCe6XVE7KIA32Gxt6j4wCc0jtNFX06Zp6fqQ5lk3LDrSXD1KQQQFAc25/PMGawDdPJIhqWUHVLiI2Qj3S5clVjz7jYkYbKW3pn1UrmOo65Y7c6QxaShNk73+wD8YltuSOFFQ7//2Q==",
       "lastPosts": [
         {
-          "title": "SEIS PISTAS PARA LLEGAR A DIOS",
+          "title": "Seis pistas para llegar a dios",
           "url": "https://blogcatolicogotitasespirituales.blogspot.com/2026/04/seis-pistas-para-llegar-dios.html",
           "date": "12/04/2026"
         },
         {
-          "title": "VIVIR DE SU PRESENCIA-MEDITACIÓN DEL EVANGELIO DE HOY DOMINGO 12 DE ABRIL DE 2026",
+          "title": "Vivir de su presencia-meditación del evangelio de hoy domingo 12 de abril de 2026",
           "url": "https://blogcatolicogotitasespirituales.blogspot.com/2026/04/vivir-de-su-presencia-meditacion-del.html",
           "date": "12/04/2026"
         },
         {
-          "title": "HOY SE CELEBRA EL DOMINGO DE LA DIVINA MISERICORDIA",
+          "title": "Hoy se celebra el domingo de la divina misericordia",
           "url": "https://blogcatolicogotitasespirituales.blogspot.com/2026/04/hoy-se-celebra-el-domingo-de-la-divina.html",
           "date": "12/04/2026"
         },
         {
-          "title": "EL EVANGELIO DE HOY DOMINGO 12 DE ABRIL DE 2026-DOMINGO DE LA DIVINA MISERICORDIA",
+          "title": "El evangelio de hoy domingo 12 de abril de 2026-domingo de la divina misericordia",
           "url": "https://blogcatolicogotitasespirituales.blogspot.com/2026/04/el-evangelio-de-hoy-domingo-12-de-abril.html",
           "date": "12/04/2026"
         },
         {
-          "title": "FELIZ DOMINGO!!!!!",
+          "title": "Feliz domingo!!!!!",
           "url": "https://blogcatolicogotitasespirituales.blogspot.com/2026/04/feliz-domingo.html",
           "date": "12/04/2026"
         }
@@ -226,38 +226,6 @@
       ]
     },
     {
-      "name": "Aleteia",
-      "url": "https://es.aleteia.org/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Regina Cæli: León XIV destaca la importancia de la Eucaristía",
-          "url": "https://es.aleteia.org/2026/04/12/regina-caeli-leon-xi-destaca-la-importancia-de-la-eucaristia/",
-          "date": "12/04/2026"
-        },
-        {
-          "title": "Cuando amar es soltar la cuerda sin dejar de comprender",
-          "url": "https://es.aleteia.org/2026/04/12/cuando-amar-es-soltar-la-cuerda-sin-dejar-de-comprender/",
-          "date": "12/04/2026"
-        },
-        {
-          "title": "(VIDEO) El futuro del trabajo ante la automatización",
-          "url": "https://es.aleteia.org/2026/04/12/video-el-futuro-del-trabajo-ante-la-automatizacion/",
-          "date": "12/04/2026"
-        },
-        {
-          "title": "Cómo san Agustín se convirtió en una figura central de Argelia",
-          "url": "https://es.aleteia.org/2026/04/12/como-san-agustin-se-convirtio-en-una-figura-central-de-argelia/",
-          "date": "12/04/2026"
-        },
-        {
-          "title": "Sin cometer un pecado grave, se puede estar lejos de Dios",
-          "url": "https://es.aleteia.org/2026/04/12/sin-cometer-un-pecado-grave-se-puede-estar-lejos-de-dios/",
-          "date": "12/04/2026"
-        }
-      ]
-    },
-    {
       "name": "ChurchPop",
       "url": "https://es.churchpop.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVHcEztHCTtHCTtFB7tGyTtHCTtHCTtFyDtGyPtFhztFR7tHCTtHCTtHCT97e7tHCTtGyT////sAAHtFB3tDBfzf4H4u735x8jxZmn+8fL61dbwWl7tAxHuMTf86Oj2pKb73Nz1lpjvQEUUG7P8AAAAEHRSTlMAJILfFGCuNgfB84SIi7lVGSlxRwAAAKBJREFUGJVNj1kOwyAMBZ0KsiltvQCBkK29/yFrskidvzd6GBugYOww2BZuTIcH9ZUrN4vimMWU3Dr/iTl/c9hjX0TN6xTCSMrEDxWoDY5rMYERoEGJwdO0qYgODViUJRElbayM2MAbkUvbE2UpotIZRPuC26gFnQE9j5RYcHaaOxWWE/n53FVfKJ3+f+XnuftrkTM/7uua47q6gj/a+/gfSfYNBI07Mz8AAAAASUVORK5CYII=",
@@ -288,6 +256,12 @@
           "date": "09/04/2026"
         }
       ]
+    },
+    {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
+      "lastPosts": []
     }
   ]
 }
