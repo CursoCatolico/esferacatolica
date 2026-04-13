@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T06:52:52.688Z",
+  "updated": "2026-04-13T06:54:08.036Z",
   "blogs": [
     {
       "name": "Profesorado de Religión",
@@ -98,38 +98,6 @@
       ]
     },
     {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
-          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
-          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
-          "date": "09/04/2026"
-        },
-        {
-          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
-          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
-          "date": "07/04/2026"
-        },
-        {
-          "title": "«Forevergreen»: 3 lecciones del cortometraje cristiano nominado al Óscar",
-          "url": "https://catholic-link.com/forevergreen-cortometraje-oscar/",
-          "date": "06/04/2026"
-        },
-        {
-          "title": "Sábado Santo: una meditación para consolar a María en su dolor",
-          "url": "https://youtu.be/DM5YL9geqvY#new_tab",
-          "date": "04/04/2026"
-        }
-      ]
-    },
-    {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
@@ -160,6 +128,12 @@
           "date": "08/04/2026"
         }
       ]
+    },
+    {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
+      "lastPosts": []
     },
     {
       "name": "Jovenes Católicos",
