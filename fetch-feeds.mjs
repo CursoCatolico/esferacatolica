@@ -1,37 +1,31 @@
 // fetch-feeds.mjs
 import { readFileSync, writeFileSync } from 'fs';
 
-const MAX_PER_FEED  = 5;
-const MAX_TITLE     = 300;
-const MAX_NAME      = 100;
-const MAX_XML_BYTES = 2 * 1024 * 1024;
+const MAX_PER_FEED    = 5;
+const MAX_TITLE       = 300;
+const MAX_NAME        = 100;
+const MAX_XML_BYTES   = 4 * 1024 * 1024;
+const FEED_TIMEOUT    = 30_000;
+const FAVICON_TIMEOUT = 15_000;
+const RETRY_ATTEMPTS  = 3;
+const RETRY_DELAY     = 2_000;
 
+// Sin Accept-Encoding: Node/undici descomprime automáticamente
 const HEADERS = {
-  'User-Agent':      'Wikitolica Feed Reader/1.0 (+https://wikitolica.com)',
+  'User-Agent':      'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
   'Accept':          'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
-  'Accept-Language': 'es-ES,es;q=0.9',
-  'Accept-Encoding': 'gzip, deflate, br',
+  'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
   'Cache-Control':   'no-cache',
 };
 
-function sanitizeText(s, maxLen = MAX_TITLE) {
-  if (typeof s !== 'string') return '';
-  return s
-    .replace(/<[^>]*>/g, '')
-    .replace(/&(?:#\d+|#x[\da-fA-F]+|[a-zA-Z]+);/g, ' ')
-    .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, '')
-    .replace(/\s+/g, ' ')
-    .trim()
-    .slice(0, maxLen);
-}
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+// ── utils ──────────────────────────────────────────────────────────────────
 
 function decodeHTMLEntities(s) {
   return s
-    .replace(/&amp;/gi,  '&')
-    .replace(/&lt;/gi,   '<')
-    .replace(/&gt;/gi,   '>')
-    .replace(/&quot;/gi, '"')
-    .replace(/&apos;/gi, "'")
+    .replace(/&amp;/gi, '&').replace(/&lt;/gi, '<').replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"').replace(/&apos;/gi, "'")
     .replace(/&#(\d+);/g, (_, n) => {
       const cp = Number(n);
       try { return cp > 0 && cp <= 0x10FFFF ? String.fromCodePoint(cp) : ''; } catch { return ''; }
@@ -42,12 +36,22 @@ function decodeHTMLEntities(s) {
     });
 }
 
+function sanitizeText(s, maxLen = MAX_TITLE) {
+  if (typeof s !== 'string') return '';
+  return decodeHTMLEntities(s)   // decodifica antes de sanitizar
+    .replace(/<[^>]*>/g, '')
+    .replace(/&[^;]{1,8};/g, ' ') // entidades residuales
+    .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, maxLen);
+}
+
 function sanitizeURL(s) {
   if (typeof s !== 'string') return '';
   try {
     const u = new URL(decodeHTMLEntities(s.trim()));
-    if (!/^https?:$/.test(u.protocol)) return '';
-    if (/[<>"'\s]/.test(u.href)) return '';
+    if (!/^https?:$/.test(u.protocol) || /[<>"'\s]/.test(u.href)) return '';
     return u.href;
   } catch { return ''; }
 }
@@ -64,109 +68,150 @@ function isoToDisplay(iso) {
   return `${String(d.getDate()).padStart(2,'0')}/${String(d.getMonth()+1).padStart(2,'0')}/${d.getFullYear()}`;
 }
 
+// ── XML decode con charset real ────────────────────────────────────────────
+
+function bufToXml(buf) {
+  // Lee el charset del XML declaration antes de decodificar
+  const sniff = Buffer.from(buf.slice(0, 512)).toString('latin1');
+  const enc   = (sniff.match(/encoding=["']([^"']+)["']/i) || [])[1] || 'utf-8';
+  try {
+    return new TextDecoder(enc, { fatal: false }).decode(buf);
+  } catch {
+    return new TextDecoder('utf-8', { fatal: false }).decode(buf);
+  }
+}
+
+// ── RSS/Atom parser ────────────────────────────────────────────────────────
+
 function getTag(block, tag) {
-  const escaped = tag.replace(':', '\\:');
-  const m = block.match(new RegExp(`<${escaped}[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?<\\/${escaped}>`));
+  const m = block.match(
+    new RegExp(`<${tag.replace(':', '\\:')}[^>]*>\\s*(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?\\s*<\\/${tag.replace(':', '\\:')}>`)
+  );
   return m ? m[1].trim() : '';
 }
 
 function getAtomLink(block) {
-  for (const m of block.matchAll(/<link([^>]+)>/g)) {
+  for (const m of block.matchAll(/<link([^>]+?)\/?>/gi)) {
     const attrs = m[1];
-    if (/rel=["']alternate["']/.test(attrs)) {
-      const hm = attrs.match(/href="([^"]+)"/);
+    if (/rel=["']alternate["']/i.test(attrs) || !/rel=/i.test(attrs)) {
+      const hm = attrs.match(/href=["']([^"']+)["']/i);
       if (hm) return hm[1];
     }
   }
-  const fb = block.match(/<link[^>]+href="([^"]+)"/);
-  return fb ? fb[1] : '';
+  return '';
+}
+
+function getRssUrl(b) {
+  const link = getTag(b, 'link');
+  const guid = getTag(b, 'guid');
+  return sanitizeURL(link) ||
+    (guid && !/^(tag:|urn:)/.test(guid) ? sanitizeURL(guid) : '');
 }
 
 function parseRSS(xml) {
-  const isAtom  = /xmlns="http:\/\/www\.w3\.org\/2005\/Atom"/.test(xml);
+  const isAtom  = xml.includes('xmlns="http://www.w3.org/2005/Atom"');
   const itemTag = isAtom ? 'entry' : 'item';
-  const itemRx  = new RegExp(`<${itemTag}[^>]*>([\\s\\S]*?)<\\/${itemTag}>`, 'g');
+  const items   = [];
 
-  const items = [];
-  let m;
-  while ((m = itemRx.exec(xml)) !== null) {
-    const b     = m[1];
+  for (const m of xml.matchAll(new RegExp(`<${itemTag}[\\s>][\\s\\S]*?<\\/${itemTag}>`, 'gi'))) {
+    const b     = m[0];
     const title = sanitizeText(getTag(b, 'title'));
-
-    let url = '';
-    if (isAtom) {
-      url = sanitizeURL(getAtomLink(b));
-    } else {
-      const link = getTag(b, 'link');
-      const guid = getTag(b, 'guid');
-      url = sanitizeURL(link) || sanitizeURL(guid);
-    }
-
-    const raw = getTag(b, 'pubDate') || getTag(b, 'dc:date') ||
-                getTag(b, 'published') || getTag(b, 'updated') || '';
-    const iso = toISO(raw);
-
+    const url   = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
+    const iso   = toISO(
+      getTag(b, 'pubDate') || getTag(b, 'dc:date') ||
+      getTag(b, 'published') || getTag(b, 'updated')
+    );
     if (title && url) items.push({ title, url, iso });
   }
 
   items.sort((a, b) => (b.iso > a.iso ? 1 : -1));
-
   return items.slice(0, MAX_PER_FEED).map(({ iso, ...rest }) => ({
     ...rest,
     date: isoToDisplay(iso),
   }));
 }
 
+// ── fetch ──────────────────────────────────────────────────────────────────
+
+async function fetchWithRetry(url) {
+  let lastErr;
+  for (let i = 0; i < RETRY_ATTEMPTS; i++) {
+    if (i) { await sleep(RETRY_DELAY * i); console.warn(`  ↻ reintento ${i} → ${url}`); }
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers: HEADERS, redirect: 'follow' });
+      if (!res.ok) throw Object.assign(new Error(`HTTP ${res.status}`), { permanent: true });
+      const buf = await res.arrayBuffer();
+      if (buf.byteLength > MAX_XML_BYTES) throw Object.assign(new Error('Feed demasiado grande'), { permanent: true });
+      return buf;
+    } catch (e) {
+      lastErr = e;
+      if (e.permanent) break; // errores deterministas: no reintentar
+    }
+  }
+  throw lastErr;
+}
+
 async function fetchFavicon(siteUrl) {
   try {
     const origin = new URL(siteUrl).origin;
-    const apiUrl = `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(origin)}&size=24`;
-    const res = await fetch(apiUrl, { signal: AbortSignal.timeout(5000) });
+    const url    = `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(origin)}&size=24`;
+    const res    = await fetch(url, { signal: AbortSignal.timeout(FAVICON_TIMEOUT) });
     if (!res.ok) return '';
     const buf  = await res.arrayBuffer();
     const mime = (res.headers.get('content-type') || 'image/png').split(';')[0].trim();
-    const b64  = Buffer.from(buf).toString('base64');
-    return `data:${mime};base64,${b64}`;
+    return `data:${mime};base64,${Buffer.from(buf).toString('base64')}`;
   } catch { return ''; }
 }
 
-async function fetchBlog({ name, url, feed }) {
+// ── fetchBlog ──────────────────────────────────────────────────────────────
+
+async function fetchBlog({ name, url, feed }, cached) {
   const safeName = sanitizeText(name, MAX_NAME);
   const safeUrl  = sanitizeURL(url);
   const safeFeed = sanitizeURL(feed);
 
   if (!safeFeed) {
-    console.warn(`✗ ${name}: feed URL inválida`);
-    return { name: safeName, url: safeUrl, favicon: '', lastPosts: [], _latest: '' };
+    console.warn(`✗ ${safeName}: feed URL inválida`);
+    return { name: safeName, url: safeUrl, favicon: cached?.favicon || '', lastPosts: cached?.lastPosts || [], _latest: '' };
   }
 
-  const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 8000);
+  const faviconP = fetchFavicon(safeUrl);
+
   try {
-    const [res, favicon] = await Promise.all([
-      fetch(safeFeed, { signal: ctrl.signal, headers: HEADERS }),
-      fetchFavicon(safeUrl),
+    const [buf, favicon] = await Promise.all([
+      fetchWithRetry(safeFeed),
+      faviconP.then(f => f || cached?.favicon || ''),
     ]);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const buf = await res.arrayBuffer();
-    if (buf.byteLength > MAX_XML_BYTES) throw new Error('Feed demasiado grande');
-    const xml       = new TextDecoder().decode(buf);
-    const lastPosts = parseRSS(xml);
+    const lastPosts = parseRSS(bufToXml(buf));
     const latest    = lastPosts[0]?.date
-      ? toISO(lastPosts[0].date.split('/').reverse().join('-'))
-      : '';
+      ? toISO(lastPosts[0].date.split('/').reverse().join('-')) : '';
     console.log(`✓ ${safeName}: ${lastPosts.length} posts`);
     return { name: safeName, url: safeUrl, favicon, lastPosts, _latest: latest };
   } catch (e) {
     console.warn(`✗ ${safeName}: ${e.message}`);
-    return { name: safeName, url: safeUrl, favicon: '', lastPosts: [], _latest: '' };
-  } finally {
-    clearTimeout(t);
+    const favicon = await faviconP.catch(() => '') || cached?.favicon || '';
+    if (cached) {
+      const _latest = cached.lastPosts?.[0]
+        ? toISO(cached.lastPosts[0].date.split('/').reverse().join('-')) : '';
+      return { ...cached, favicon, _latest };
+    }
+    return { name: safeName, url: safeUrl, favicon, lastPosts: [], _latest: '' };
   }
 }
 
+// ── main ───────────────────────────────────────────────────────────────────
+
 const feeds = JSON.parse(readFileSync('feeds.json', 'utf8'));
-const raw   = await Promise.all(feeds.map(fetchBlog));
+
+let cachedMap = new Map();
+try {
+  const prev = JSON.parse(readFileSync('lastposts.json', 'utf8'));
+  for (const b of prev.blogs ?? []) if (b.url) cachedMap.set(b.url, b);
+} catch { /* primera ejecución */ }
+
+const raw = await Promise.all(
+  feeds.map(f => fetchBlog(f, cachedMap.get(sanitizeURL(f.url))))
+);
 
 const blogs = raw
   .sort((a, b) => (b._latest > a._latest ? 1 : -1))
