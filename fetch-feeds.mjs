@@ -176,7 +176,7 @@ function parseRSS(xml) {
   const isAtom  = xml.includes('xmlns="http://www.w3.org/2005/Atom"');
   const itemTag = isAtom ? 'entry' : 'item';
   // [\s>] evita falsos positivos como <items> o <entry-foo>
-  const itemRe  = new RegExp(`<${itemTag}[\\s>][\\s\\S]*?<\\/${itemTag}>`, 'gi');
+  const itemRe = new RegExp(`<${itemTag}\\b[\\s\\S]*?<\\/${itemTag}>`, 'gi');
   const items   = [];
 
   for (const m of xml.matchAll(itemRe)) {
@@ -187,7 +187,7 @@ function parseRSS(xml) {
     if (cats.some(c => BLOCKED_CATS.has(c))) continue;
 
     let title = sanitizeText(getTag(b, 'title'));
-    title = title.replace(/ Sin Autor$/, '').trim();
+    title = title.replace(/Sin\s+Autor$/, '').trim();
     if (isAllCaps(title)) title = toSentenceCase(title);
 
     const url = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
