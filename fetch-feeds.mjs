@@ -11,7 +11,7 @@ const RETRY_ATTEMPTS  = 4;
 const RETRY_DELAY     = 2_000;
 
 // Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
-const BLOCKED_CATS = new Set(['peliculas y videos', 'video']);
+const BLOCKED_CATS = new Set(['peliculas y videos', 'video', 'pelicula', 'peliculas', 'videos', 'descarga', 'descargar']);
 
 const USER_AGENTS = [
   'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
