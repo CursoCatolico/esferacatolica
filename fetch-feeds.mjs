@@ -7,7 +7,7 @@ const MAX_NAME        = 100;
 const MAX_XML_BYTES   = 4 * 1024 * 1024;
 const FEED_TIMEOUT    = 30_000;
 const FAVICON_TIMEOUT = 15_000;
-const RETRY_ATTEMPTS  = 3;
+const RETRY_ATTEMPTS  = 4;
 const RETRY_DELAY     = 2_000;
 
 // Sin Accept-Encoding: Node/undici descomprime automáticamente
