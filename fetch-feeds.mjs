@@ -10,54 +10,54 @@ const FAVICON_TIMEOUT = 15_000;
 const RETRY_ATTEMPTS  = 4;
 const RETRY_DELAY     = 2_000;
 
-// Sin Accept-Encoding: Node/undici descomprime automáticamente
+// Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
+const BLOCKED_CATS = new Set(['peliculas y videos', 'video']);
+
 const USER_AGENTS = [
-  // Tu original (por si algún sitio requiere que te identifiques)
   'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
-  // Chrome en Windows
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-  // Safari en Mac
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15',
-  // Firefox en Windows
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0'
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0',
 ];
 
 const BASE_HEADERS = {
-  'Accept':          'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
-  'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
-  'Cache-Control':   'no-cache',
-  'Connection': 'keep-alive',
+  'Accept':                    'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
+  'Accept-Language':           'es-ES,es;q=0.9,en;q=0.8',
+  'Cache-Control':             'no-cache',
+  'Connection':                'keep-alive',
   'Upgrade-Insecure-Requests': '1',
-  'Sec-Fetch-Dest': 'document',
-  'Sec-Fetch-Mode': 'navigate',
-  'Sec-Fetch-Site': 'none',
-  'Sec-Fetch-User': '?1',
-  'Referer': 'https://www.google.com/'
+  'Sec-Fetch-Dest':            'document',
+  'Sec-Fetch-Mode':            'navigate',
+  'Sec-Fetch-Site':            'none',
+  'Sec-Fetch-User':            '?1',
+  'Referer':                   'https://www.google.com/',
 };
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 // ── utils ──────────────────────────────────────────────────────────────────
 
+// Elimina marcadores CDATA en cualquier posición del contenido
+const stripCdata = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
+
 function decodeHTMLEntities(s) {
   return s
-    .replace(/&amp;/gi, '&').replace(/&lt;/gi, '<').replace(/&gt;/gi, '>')
+    .replace(/&amp;/gi,  '&').replace(/&lt;/gi, '<').replace(/&gt;/gi,   '>')
     .replace(/&quot;/gi, '"').replace(/&apos;/gi, "'")
-    .replace(/&#(\d+);/g, (_, n) => {
-      const cp = Number(n);
-      try { return cp > 0 && cp <= 0x10FFFF ? String.fromCodePoint(cp) : ''; } catch { return ''; }
-    })
-    .replace(/&#x([\da-fA-F]+);/gi, (_, h) => {
-      const cp = parseInt(h, 16);
+    // Fix: entidades decimales (&#123;) y hex (&#x7B;) en una sola pasada
+    .replace(/&#(x[\da-fA-F]+|\d+);/gi, (_, n) => {
+      const cp = /^x/i.test(n) ? parseInt(n.slice(1), 16) : Number(n);
       try { return cp > 0 && cp <= 0x10FFFF ? String.fromCodePoint(cp) : ''; } catch { return ''; }
     });
 }
 
 function sanitizeText(s, maxLen = MAX_TITLE) {
   if (typeof s !== 'string') return '';
-  return decodeHTMLEntities(s)   // decodifica antes de sanitizar
+  // Fix: emojis eliminados dentro del pipeline, antes de trim/slice (no como wrapper externo)
+  return decodeHTMLEntities(stripCdata(s))
     .replace(/<[^>]*>/g, '')
-    .replace(/&[^;]{1,8};/g, ' ') // entidades residuales
+    .replace(/&[^;]{1,8};/g, ' ')
+    .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}\u200D\uFE0F]/gu, '')
     .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, '')
     .replace(/\s+/g, ' ')
     .trim()
@@ -73,9 +73,26 @@ function sanitizeURL(s) {
   } catch { return ''; }
 }
 
+// Normalización para comparar categorías: elimina diacríticos + lowercase
+const normalizeForCompare = s =>
+  s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+
+// Fix: \p{L}/\p{Ll} con flag u → cubre todo Unicode (Ü, Ö, Ä, etc.)
+function isAllCaps(s) {
+  const letters = s.replace(/[^\p{L}]/gu, '');
+  if (letters.length < 4) return false;
+  return letters.replace(/\p{Ll}/gu, '').length / letters.length > 0.7;
+}
+
+// Fix: lowercase primero → luego capitaliza la primera letra real (no puntuación)
+// Ej: «FELIZ DOMINGO» → «Feliz domingo  (antes: «feliz domingo)
+const toSentenceCase = s => s.toLowerCase().replace(/\p{L}/u, c => c.toUpperCase());
+
+// ── date utils ─────────────────────────────────────────────────────────────
+
 const ES_MONTHS = {
   ene:'Jan', feb:'Feb', mar:'Mar', abr:'Apr', may:'May', jun:'Jun',
-  jul:'Jul', ago:'Aug', sep:'Sep', oct:'Oct', nov:'Nov', dic:'Dec'
+  jul:'Jul', ago:'Aug', sep:'Sep', oct:'Oct', nov:'Nov', dic:'Dec',
 };
 
 function normalizeDate(raw) {
@@ -91,16 +108,16 @@ function toISO(raw) {
   return isNaN(d) ? '' : d.toISOString();
 }
 
+// Fix: getUTCDate/Month/FullYear → evita desfase ±1 día por zona horaria
 function isoToDisplay(iso) {
   if (!iso) return '';
   const d = new Date(iso);
-  return `${String(d.getDate()).padStart(2,'0')}/${String(d.getMonth()+1).padStart(2,'0')}/${d.getFullYear()}`;
+  return `${String(d.getUTCDate()).padStart(2,'0')}/${String(d.getUTCMonth()+1).padStart(2,'0')}/${d.getUTCFullYear()}`;
 }
 
 // ── XML decode con charset real ────────────────────────────────────────────
 
 function bufToXml(buf) {
-  // Lee el charset del XML declaration antes de decodificar
   const sniff = Buffer.from(buf.slice(0, 512)).toString('latin1');
   const enc   = (sniff.match(/encoding=["']([^"']+)["']/i) || [])[1] || 'utf-8';
   try {
@@ -112,11 +129,29 @@ function bufToXml(buf) {
 
 // ── RSS/Atom parser ────────────────────────────────────────────────────────
 
+// Fix: caché de RegExp compilados — evita new RegExp() en cada ítem × campo
+const _reSingle = new Map();
+const _reGlobal  = new Map();
+
+function _tagRe(tag, global) {
+  const map = global ? _reGlobal : _reSingle;
+  if (!map.has(tag)) {
+    const esc = tag.replace(':', '\\:');
+    // Fix: captura contenido crudo sin intentar parsear CDATA en el regex;
+    // stripCdata cubre cualquier posición del marcador (incluso contenido mixto).
+    map.set(tag, new RegExp(`<${esc}[^>]*>([\\s\\S]*?)<\\/${esc}>`, global ? 'gi' : 'i'));
+  }
+  return map.get(tag);
+}
+
 function getTag(block, tag) {
-  const m = block.match(
-    new RegExp(`<${tag.replace(':', '\\:')}[^>]*>\\s*(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?\\s*<\\/${tag.replace(':', '\\:')}>`)
-  );
-  return m ? m[1].trim() : '';
+  const m = block.match(_tagRe(tag, false));
+  return m ? stripCdata(m[1]).trim() : '';
+}
+
+// Devuelve todos los valores (p.ej. múltiples <category>), con CDATA eliminado
+function getTags(block, tag) {
+  return [...block.matchAll(_tagRe(tag, true))].map(m => stripCdata(m[1]).trim());
 }
 
 function getAtomLink(block) {
@@ -140,14 +175,23 @@ function getRssUrl(b) {
 function parseRSS(xml) {
   const isAtom  = xml.includes('xmlns="http://www.w3.org/2005/Atom"');
   const itemTag = isAtom ? 'entry' : 'item';
+  // [\s>] evita falsos positivos como <items> o <entry-foo>
+  const itemRe  = new RegExp(`<${itemTag}[\\s>][\\s\\S]*?<\\/${itemTag}>`, 'gi');
   const items   = [];
 
-  for (const m of xml.matchAll(new RegExp(`<${itemTag}[\\s>][\\s\\S]*?<\\/${itemTag}>`, 'gi'))) {
-    const b     = m[0];
+  for (const m of xml.matchAll(itemRe)) {
+    const b = m[0];
+
+    // Filtrar por categoría — getTags→stripCdata cubre CDATA en <category>
+    const cats = getTags(b, 'category').map(c => normalizeForCompare(sanitizeText(c, 100)));
+    if (cats.some(c => BLOCKED_CATS.has(c))) continue;
+
     let title = sanitizeText(getTag(b, 'title'));
-    title = title.replace(/ Sin Autor$/, "").trim();
-    const url   = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
-    const iso   = toISO(
+    title = title.replace(/ Sin Autor$/, '').trim();
+    if (isAllCaps(title)) title = toSentenceCase(title);
+
+    const url = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
+    const iso = toISO(
       getTag(b, 'pubDate') || getTag(b, 'dc:date') ||
       getTag(b, 'published') || getTag(b, 'updated')
     );
@@ -167,29 +211,20 @@ async function fetchWithRetry(url) {
   let lastErr;
   for (let i = 0; i < RETRY_ATTEMPTS; i++) {
     if (i) { await sleep(RETRY_DELAY * i); console.warn(`  ↻ reintento ${i} → ${url}`); }
-    
-    // Seleccionamos el User-Agent correspondiente al intento actual
-    const urlObj = new URL(url);
-    const currentUA = USER_AGENTS[i % USER_AGENTS.length];
-    const headers = { ...BASE_HEADERS, 'User-Agent': currentUA, 'Host': urlObj.host };
-
+    const { host } = new URL(url);
+    const headers  = { ...BASE_HEADERS, 'User-Agent': USER_AGENTS[i % USER_AGENTS.length], 'Host': host };
     try {
-      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers: headers, redirect: 'follow' });
-      
+      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers, redirect: 'follow' });
       if (!res.ok) {
-        // Errores como 403 o 406 suelen ser bloqueos por User-Agent. NO los marcamos como permanentes.
-        // Errores como 404 (No encontrado) sí son permanentes, no tiene sentido reintentar.
-        const isBotBlock = res.status === 403 || res.status === 406 || res.status === 401;
+        const isBotBlock = res.status === 401 || res.status === 403 || res.status === 406;
         throw Object.assign(new Error(`HTTP ${res.status}`), { permanent: !isBotBlock });
       }
-      
       const buf = await res.arrayBuffer();
       if (buf.byteLength > MAX_XML_BYTES) throw Object.assign(new Error('Feed demasiado grande'), { permanent: true });
       return buf;
-      
     } catch (e) {
       lastErr = e;
-      if (e.permanent) break; // Si es un error 404 o feed muy grande, nos rendimos aquí.
+      if (e.permanent) break;
     }
   }
   throw lastErr;
