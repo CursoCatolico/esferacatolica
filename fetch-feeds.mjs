@@ -132,7 +132,8 @@ function parseRSS(xml) {
 
   for (const m of xml.matchAll(new RegExp(`<${itemTag}[\\s>][\\s\\S]*?<\\/${itemTag}>`, 'gi'))) {
     const b     = m[0];
-    const title = sanitizeText(getTag(b, 'title'));
+    let title = sanitizeText(getTag(b, 'title'));
+    title = title.replace(/ Sin Autor$/, "").trim();
     const url   = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
     const iso   = toISO(
       getTag(b, 'pubDate') || getTag(b, 'dc:date') ||
