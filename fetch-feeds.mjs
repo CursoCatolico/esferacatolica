@@ -155,7 +155,7 @@ async function fetchFavicon(siteUrl, cachedFavicon) {
   if (cachedFavicon) return cachedFavicon;
   try {
     const origin = new URL(siteUrl).origin;
-    const url    = `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(origin)}&size=24`;
+    const url    = `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(origin)}&size=16`;
     const res    = await fetch(url, { signal: AbortSignal.timeout(FAVICON_TIMEOUT) });
     if (!res.ok) return '';
     const buf  = await res.arrayBuffer();
