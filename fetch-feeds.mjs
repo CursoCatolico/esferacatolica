@@ -26,6 +26,13 @@ const BASE_HEADERS = {
   'Accept':          'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
   'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
   'Cache-Control':   'no-cache',
+  'Connection': 'keep-alive',
+  'Upgrade-Insecure-Requests': '1',
+  'Sec-Fetch-Dest': 'document',
+  'Sec-Fetch-Mode': 'navigate',
+  'Sec-Fetch-Site': 'none',
+  'Sec-Fetch-User': '?1',
+  'Referer': 'https://www.google.com/'
 };
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -149,8 +156,9 @@ async function fetchWithRetry(url) {
     if (i) { await sleep(RETRY_DELAY * i); console.warn(`  ↻ reintento ${i} → ${url}`); }
     
     // Seleccionamos el User-Agent correspondiente al intento actual
+    const urlObj = new URL(url);
     const currentUA = USER_AGENTS[i % USER_AGENTS.length];
-    const headers = { ...BASE_HEADERS, 'User-Agent': currentUA };
+    const headers = { ...BASE_HEADERS, 'User-Agent': currentUA, 'Host': urlObj.host };
 
     try {
       const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers: headers, redirect: 'follow' });
