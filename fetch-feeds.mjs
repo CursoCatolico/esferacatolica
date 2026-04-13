@@ -73,9 +73,21 @@ function sanitizeURL(s) {
   } catch { return ''; }
 }
 
+const ES_MONTHS = {
+  ene:'Jan', feb:'Feb', mar:'Mar', abr:'Apr', may:'May', jun:'Jun',
+  jul:'Jul', ago:'Aug', sep:'Sep', oct:'Oct', nov:'Nov', dic:'Dec'
+};
+
+function normalizeDate(raw) {
+  return raw
+    .replace(/^[a-zA-Z]+[.,]+\s*/i, '')
+    .replace(/\b(ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)\.?\b/gi,
+      m => ES_MONTHS[m.toLowerCase().replace('.', '')] || m);
+}
+
 function toISO(raw) {
   if (!raw) return '';
-  const d = new Date(raw);
+  const d = new Date(normalizeDate(raw));
   return isNaN(d) ? '' : d.toISOString();
 }
 
