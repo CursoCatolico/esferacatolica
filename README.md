@@ -10,12 +10,10 @@
 
 > Agregador de blogs católicos en español. Reúne los últimos artículos de los mejores blogs de la blogosfera católica hispanohablante, actualizado automáticamente dos veces al día mediante GitHub Actions.
 
----
-
 ## ¿Cómo funciona?
 
 ```
-feeds.json  →  fetch-feeds.mjs  →  lastposts.json
+feeds.json     →         fetch-feeds.mjs          →   lastposts.json
    (manual)       (GitHub Actions, 6h y 18h UTC)      (jsDelivr CDN)
 ```
 
@@ -29,21 +27,16 @@ Disponible vía CDN en:
 https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts.json
 ```
 
----
-
 ## Participar
 
 Próximamente...
-
----
 
 ## Licencia
 
 El código y los datos de este repositorio se publican bajo licencia  
 **[Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)**.
 
----
 
 <p align="center">
-  Un proyecto de <a href="https://wikitolica.com"><strong>Wikitólica</strong></a> — Enciclopedia Católica en español
+  Un proyecto de <a href="https://wikitolica.com"><strong>Wikitólica</strong></a> — La Enciclopedia Católica en español
 </p>
