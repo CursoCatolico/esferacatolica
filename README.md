@@ -18,9 +18,11 @@ Disponible vía CDN en:
 https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts.json
 ```
 
-## 📅 Participar
+## 🌐 Participar
 
-Próximamente...
+Esfera Católica es una comunidad de colaboración caritativa entre sitios y blogs católicos en internet. Funciona mediante un widget que permite el descubrimiento mutuo: cuando pones el widget en tu web, tus visitantes descubren otras páginas católicas de calidad, y tras una breve validación, tu sitio aparece automáticamente en el widget de todos los demás participantes.
+
+Para instalar el widget de Esfera Católica acude a: [Widget Esfera Católica](https://www.wikitolica.com/e/esfera-catolica/)
 
 ## 🙏 Sobre el proyecto
 
