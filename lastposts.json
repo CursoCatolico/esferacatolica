@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T16:11:39.543Z",
+  "updated": "2026-04-15T16:13:05.522Z",
   "blogs": [
     {
       "name": "Jovenes Católicos",
@@ -98,6 +98,38 @@
       ]
     },
     {
+      "name": "Aleteia",
+      "url": "https://es.aleteia.org/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Los excelentes consejos de Victor Glover para los estudiantes",
+          "url": "https://es.aleteia.org/2026/04/15/los-excelentes-consejos-de-victor-glover-para-los-estudiantes/",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "¿Eres un people pleaser? El precio de querer agradar a todos",
+          "url": "https://es.aleteia.org/2026/04/15/eres-un-people-pleaser-el-precio-de-querer-agradar-a-todos/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Quién es el Arquitecto de Paz del Papa León XIV?",
+          "url": "https://es.aleteia.org/2026/04/15/quien-es-el-arquitecto-de-paz-del-papa-leon-xiv/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Agradeces a Dios en todo momento o solo cuando te va bien?",
+          "url": "https://es.aleteia.org/2026/04/14/agradeces-a-dios-en-todo-momento-o-solo-cuando-te-va-bien/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "Cáncer: por qué las personas casadas tendrían menos riesgo",
+          "url": "https://es.aleteia.org/2026/04/14/cancer-por-que-las-personas-casadas-tendrian-menos-riesgo/",
+          "date": "14/04/2026"
+        }
+      ]
+    },
+    {
       "name": "ChurchPop",
       "url": "https://es.churchpop.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVHcEztHCTtHCTtFB7tGyTtHCTtHCTtFyDtGyPtFhztFR7tHCTtHCTtHCT97e7tHCTtGyT////sAAHtFB3tDBfzf4H4u735x8jxZmn+8fL61dbwWl7tAxHuMTf86Oj2pKb73Nz1lpjvQEUUG7P8AAAAEHRSTlMAJILfFGCuNgfB84SIi7lVGSlxRwAAAKBJREFUGJVNj1kOwyAMBZ0KsiltvQCBkK29/yFrskidvzd6GBugYOww2BZuTIcH9ZUrN4vimMWU3Dr/iTl/c9hjX0TN6xTCSMrEDxWoDY5rMYERoEGJwdO0qYgODViUJRElbayM2MAbkUvbE2UpotIZRPuC26gFnQE9j5RYcHaaOxWWE/n53FVfKJ3+f+XnuftrkTM/7uua47q6gj/a+/gfSfYNBI07Mz8AAAAASUVORK5CYII=",
@@ -157,38 +189,6 @@
         {
           "title": "Comunidad de San Egidio",
           "url": "https://www.wikitolica.com/c/comunidad-de-san-egidio/",
-          "date": "14/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Aleteia",
-      "url": "https://es.aleteia.org/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "¿Eres un people pleaser? El precio de querer agradar a todos",
-          "url": "https://es.aleteia.org/2026/04/15/eres-un-people-pleaser-el-precio-de-querer-agradar-a-todos/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "¿Quién es el Arquitecto de Paz del Papa León XIV?",
-          "url": "https://es.aleteia.org/2026/04/15/quien-es-el-arquitecto-de-paz-del-papa-leon-xiv/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "¿Agradeces a Dios en todo momento o solo cuando te va bien?",
-          "url": "https://es.aleteia.org/2026/04/14/agradeces-a-dios-en-todo-momento-o-solo-cuando-te-va-bien/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "Cáncer: por qué las personas casadas tendrían menos riesgo",
-          "url": "https://es.aleteia.org/2026/04/14/cancer-por-que-las-personas-casadas-tendrian-menos-riesgo/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "Una antiguo saludo para usar durante el tiempo de Pascua",
-          "url": "https://es.aleteia.org/2026/04/14/una-antiguo-saludo-para-usar-durante-el-tiempo-de-pascua/",
           "date": "14/04/2026"
         }
       ]
