@@ -184,16 +184,16 @@ function parseRSS(xml) {
 
   for (const m of xml.matchAll(itemRe)) {
     const b = m[0];
-
+    
+    let title = sanitizeText(getTag(b, 'title'));
+    title = title.replace(/Sin\s+Autor$/, '').trim();
+    if (isAllCaps(title)) title = toSentenceCase(title);
+    
     // Filtrar por categoría — getTags→stripCdata cubre CDATA en <category>
     const cats = getTags(b, 'category').map(c => normalizeForCompare(sanitizeText(c, 100)));
     console.log('Post:', title, '| Categorías encontradas:', cats);
     if (cats.some(c => BLOCKED_CATS.has(c))) continue;
-
-    let title = sanitizeText(getTag(b, 'title'));
-    title = title.replace(/Sin\s+Autor$/, '').trim();
-    if (isAllCaps(title)) title = toSentenceCase(title);
-
+    
     const url = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
     const iso = toISO(
       getTag(b, 'pubDate') || getTag(b, 'dc:date') ||
