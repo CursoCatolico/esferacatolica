@@ -1,11 +1,21 @@
 {
-  "updated": "2026-04-14T19:57:40.028Z",
+  "updated": "2026-04-15T03:54:22.195Z",
   "blogs": [
     {
       "name": "ChurchPop",
       "url": "https://es.churchpop.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVHcEztHCTtHCTtFB7tGyTtHCTtHCTtFyDtGyPtFhztFR7tHCTtHCTtHCT97e7tHCTtGyT////sAAHtFB3tDBfzf4H4u735x8jxZmn+8fL61dbwWl7tAxHuMTf86Oj2pKb73Nz1lpjvQEUUG7P8AAAAEHRSTlMAJILfFGCuNgfB84SIi7lVGSlxRwAAAKBJREFUGJVNj1kOwyAMBZ0KsiltvQCBkK29/yFrskidvzd6GBugYOww2BZuTIcH9ZUrN4vimMWU3Dr/iTl/c9hjX0TN6xTCSMrEDxWoDY5rMYERoEGJwdO0qYgODViUJRElbayM2MAbkUvbE2UpotIZRPuC26gFnQE9j5RYcHaaOxWWE/n53FVfKJ3+f+XnuftrkTM/7uua47q6gj/a+/gfSfYNBI07Mz8AAAAASUVORK5CYII=",
       "lastPosts": [
+        {
+          "title": "¿Por qué seguimos sufriendo si Cristo ha resucitado? Una mirada desde la fe",
+          "url": "https://es.churchpop.com/por-que-seguimos-sufriendo-si-cristo-ha-resucitado-una-mirada-desde-la-fe/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Qué es el Vía Lucis? Guía práctica para rezarlo paso a paso",
+          "url": "https://es.churchpop.com/que-es-el-via-lucis-guia-practica-para-rezarlo-paso-a-paso/",
+          "date": "14/04/2026"
+        },
         {
           "title": "De abogado a cardenal y runner: la historia del Arzobispo Vesco de Argelia",
           "url": "https://es.churchpop.com/de-abogado-a-cardenal-y-runner-la-historia-del-arzobispo-vesco-de-argelia/",
@@ -20,16 +30,6 @@
           "title": "“¡León, eres el mejor!”: La divertida reacción de un medallista olímpico ante la broma del Papa con su medalla",
           "url": "https://es.churchpop.com/leon-eres-el-mejor-la-divertida-reaccion-de-un-medallista-olimpico-ante-la-broma-del-papa-con-su-medalla/",
           "date": "13/04/2026"
-        },
-        {
-          "title": "“Lo dejó en un lugar seguro”: el profundo mensaje de sacerdote que halló a un bebé en la puerta de su casa",
-          "url": "https://es.churchpop.com/lo-dejo-en-un-lugar-seguro-el-profundo-mensaje-de-sacerdote-que-hallo-a-un-bebe-en-la-puerta-de-su-casa/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "En una comunidad que pasaba meses sin Misa, Dios le llamó para ayudar como sacerdote en su viña",
-          "url": "https://es.churchpop.com/en-una-comunidad-que-pasaba-meses-sin-misa-dios-le-llamo-para-ayudar-como-sacerdote-en-su-vina/",
-          "date": "10/04/2026"
         }
       ]
     },
@@ -71,6 +71,11 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
+          "title": "La devoción del momento presente",
+          "url": "https://www.jovenescatolicos.es/2026/04/14/la-devocion-del-momento-presente/",
+          "date": "14/04/2026"
+        },
+        {
           "title": "¿Quién es tu Dios?",
           "url": "https://www.jovenescatolicos.es/2026/04/14/quien-es-tu-dios/",
           "date": "14/04/2026"
@@ -88,11 +93,6 @@
         {
           "title": "«Caer y levantarse. 12 razones para seguir». Pater Pablo",
           "url": "https://www.jovenescatolicos.es/2026/04/13/caer-y-levantarse-12-razones-para-seguir-pater-pablo/",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "¿Cómo afecta la Divina Misericordia a mi vida?",
-          "url": "https://www.jovenescatolicos.es/2026/04/13/como-afecta-la-divina-misericordia-a-mi-vida/",
           "date": "13/04/2026"
         }
       ]
@@ -167,6 +167,21 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACu0lEQVQ4jXWST2hUVxTGf+e+l+dLxnHiTP6Ok2iMMcaoNTGaGrFNwZpgi8QouFBK3fhnKe6Vbrou3RaCuBAUg/0jFSqEgojWWogYUoijUxyJBKIIImYy797jIpMwsfjB2dxzv+/c7ztXEpuPkmlI8Tg3nXFOt6lq0jpnACgUQRVWBIgRjJFIkBnjmfH5d3MvGxtrEJL78OJVA87p96q6CagAEKCjrYlwRcDDyRzWOQAFCiJyz/PMOWvdIwlahpqLkf1ZVbtYhCrJ1XFuXLxAbSrB4PHzPMlNgzFLV4zIaBgG3xjrXJeqtlMO5+jb0UF9bTXp+iQDn3cvWCmDoruKRdtsUFJAUN40FT4H9/cycuUW45NPOXygj9jKquUiSpWqJsxSYGXT29alaW9dw5VfbvPrH3/R80kbXVtawWkZH7HWmuXkkv/B/m5yz2bI/jfNzbF/KMxHDA18CkY+sAHmQ/LKeIzBL3bw570JwjAg/2KW++NTfL1vJ+n61P+y8Jc/X+ne2kpn+1qGI8v+vdtRoC6VoKWpgf7dW7k8Oga+9xEBIxwa3M31m3f5ceQ3PM+gqiTiMS79cJYjX+3h2u93mC9GZZRFW5GlqSFFz7Y2Lo+O8WTqGVPZPI+zz3nwYJIbt+6zt7eTzRsyUBIQEYyI2IoKn67tGzl7aphMY4p0upZNnS2IMcTiVfT0dBA5R01yFedOD9O7q5PKMFAB62l8YzoeCw+dOPpl0LymlvyLWVrXNhKGAX8/zFJXU83JYwPU1VTzbzaPMUK6IcX4xNOZN6/f/CRBy1B9MbJXRfhsMWCRhR250oEprW9ZHxmpDIMznq1c/9b3/QmnmlHVOBCpUlAoUCrVhQLmBGYFue555rv5on0lmZ3f8jw/QxgLV1nr1qlqIrLOlP7JEkREPGOsCC9938tFkZvr79vCe91nF2GQFPcqAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
+          "title": "¿Eres un people pleaser? El precio de querer agradar a todos",
+          "url": "https://es.aleteia.org/2026/04/15/eres-un-people-pleaser-el-precio-de-querer-agradar-a-todos/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Quién es el Arquitecto de Paz del Papa León XIV?",
+          "url": "https://es.aleteia.org/2026/04/15/quien-es-el-arquitecto-de-paz-del-papa-leon-xiv/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Agradeces a Dios en todo momento o solo cuando te va bien?",
+          "url": "https://es.aleteia.org/2026/04/14/agradeces-a-dios-en-todo-momento-o-solo-cuando-te-va-bien/",
+          "date": "14/04/2026"
+        },
+        {
           "title": "Cáncer: por qué las personas casadas tendrían menos riesgo",
           "url": "https://es.aleteia.org/2026/04/14/cancer-por-que-las-personas-casadas-tendrian-menos-riesgo/",
           "date": "14/04/2026"
@@ -174,21 +189,6 @@
         {
           "title": "Una antiguo saludo para usar durante el tiempo de Pascua",
           "url": "https://es.aleteia.org/2026/04/14/una-antiguo-saludo-para-usar-durante-el-tiempo-de-pascua/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "La petición de Esther horas antes de su martirio en Argel",
-          "url": "https://es.aleteia.org/2026/04/14/la-peticion-de-esther-horas-antes-de-su-martirio-en-argel/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "Annaba: el día de León XIV siguiendo los pasos de su maestro espiritual",
-          "url": "https://es.aleteia.org/2026/04/14/annaba-el-dia-de-leon-xiv-siguiendo-los-pasos-de-su-maestro-espiritual/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "León XIV convocó a todos los cardenales a Roma para un consistorio en junio",
-          "url": "https://es.aleteia.org/2026/04/14/leon-xiv-convoco-a-todos-los-cardenales-a-roma-para-un-consistorio-en-junio/",
           "date": "14/04/2026"
         }
       ]
