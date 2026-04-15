@@ -7,17 +7,18 @@ const MAX_NAME        = 100;
 const MAX_XML_BYTES   = 4 * 1024 * 1024;
 const FEED_TIMEOUT    = 30_000;
 const FAVICON_TIMEOUT = 15_000;
-const RETRY_ATTEMPTS  = 4;
+const RETRY_ATTEMPTS  = 5;
 const RETRY_DELAY     = 2_000;
 
 // Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
 const BLOCKED_CATS = new Set(['peliculas y videos', 'video', 'pelicula', 'peliculas', 'videos', 'descarga', 'descargar', 'videos recomendados', 'pelicula recomendada']);
 
 const USER_AGENTS = [
-  'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0',
+  'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)'
 ];
 
 const BASE_HEADERS = {
@@ -31,6 +32,8 @@ const BASE_HEADERS = {
   'Sec-Fetch-Site':            'none',
   'Sec-Fetch-User':            '?1',
   'Referer':                   'https://www.google.com/',
+  'DNT':                       '1',
+  'Priority':                  'u=0, i'
 };
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -184,6 +187,7 @@ function parseRSS(xml) {
 
     // Filtrar por categoría — getTags→stripCdata cubre CDATA en <category>
     const cats = getTags(b, 'category').map(c => normalizeForCompare(sanitizeText(c, 100)));
+    console.log('Post:', title, '| Categorías encontradas:', cats);
     if (cats.some(c => BLOCKED_CATS.has(c))) continue;
 
     let title = sanitizeText(getTag(b, 'title'));
@@ -214,7 +218,7 @@ async function fetchWithRetry(url) {
     const { host } = new URL(url);
     const headers  = { ...BASE_HEADERS, 'User-Agent': USER_AGENTS[i % USER_AGENTS.length], 'Host': host };
     try {
-      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers, redirect: 'follow' });
+      const res = await fetch(url, { signal: AbortSignal.timeout(FEED_TIMEOUT), headers, redirect: 'follow', referrerPolicy: 'strict-origin-when-cross-origin' });
       if (!res.ok) {
         const isBotBlock = res.status === 401 || res.status === 403 || res.status === 406;
         throw Object.assign(new Error(`HTTP ${res.status}`), { permanent: !isBotBlock });
