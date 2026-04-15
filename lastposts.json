@@ -1,6 +1,102 @@
 {
-  "updated": "2026-04-15T08:19:39.432Z",
+  "updated": "2026-04-15T14:23:33.190Z",
   "blogs": [
+    {
+      "name": "Jovenes Católicos",
+      "url": "https://www.jovenescatolicos.es/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Mariela se ha bautizado en la Vigilia Pascual",
+          "url": "https://www.jovenescatolicos.es/2026/04/15/mariela-se-ha-bautizado-en-la-vigilia-pascual/",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "La devoción del momento presente",
+          "url": "https://www.jovenescatolicos.es/2026/04/14/la-devocion-del-momento-presente/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "¿Quién es tu Dios?",
+          "url": "https://www.jovenescatolicos.es/2026/04/14/quien-es-tu-dios/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "A Paloma, concursante de Masterchef, le cambió la vida un retiro de Effetá",
+          "url": "https://www.jovenescatolicos.es/2026/04/13/a-paloma-concursante-de-masterchef-le-cambio-la-vida-un-retiro-de-effeta/",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "Unión, Perdón y Triunfo",
+          "url": "https://www.jovenescatolicos.es/2026/04/13/union-perdon-y-triunfo/",
+          "date": "13/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Primeros Cristianos",
+      "url": "https://www.primeroscristianos.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEX///8AsNvs+vyk2umT1+aW1eiF0+Kk3Of3//5Nvtnl9vnT7vd71OZpzuI8u9r7//48wNuQ2eS44u0YtNd2zuDV8fVgx92e2enB5u9fyt6F0ejs//6Q1+ie2uiD2OVLv+F4zOVgxOEArtu37PMAps99zeRhzeYat9up4OhLxtxt0uZixuAduOI1v9wvu94tjLVfAAAAs0lEQVQYlU3IywKCIBBA0UERtBDRUTCTkF6UmP//edUmu7t7AJKUZvAX4zkUu3/ZU1HKavtS1WmD+Qay7TQ0ZgOzk1T3B/uDITHDMRvFD6w5DaawyjWpmcro4VWTSd/IWT/pbEfGYTxfCODx2mN1BZ/cgKlRWvTkHhyRwQXAINWiPNOm9LR2Ldz7uujCgw6AWRX4Hp7d3OaMRwGCg+4bWFckgXzCBV/ruoBzfhZi+haj9/ENtqAPlk9y8z0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "¿Quién fue Esdras? - Escriba y sacerdote judío en Babilonia",
+          "url": "https://www.primeroscristianos.com/quien-fue-esdras-escriba-y-sacerdote-judio-en-babilonia/",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Vivir con alegría - El ejemplo de los primeros cristianos para la Pascua",
+          "url": "https://www.primeroscristianos.com/vivir-con-alegria-el-ejemplo-de-los-primeros-cristianos-para-la-pascua/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "\"La divina misericordia\" - Pelicula sobre la vida de santa Faustina Kowalska",
+          "url": "https://www.primeroscristianos.com/la-divina-misericordia-pelicula-sobre-la-vida-de-santa-faustina-kowalska/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "Así se persigue a los cristianos en Argelia, donde ha viajado León XIV",
+          "url": "https://www.primeroscristianos.com/persigue-cristianos-argelia-leon-xiv/",
+          "date": "14/04/2026"
+        },
+        {
+          "title": "Hallan un bloque de mármol único en Hippos que podría reescribir la historia del bautismo cristiano",
+          "url": "https://www.primeroscristianos.com/encuentran-bloque-en-hippos/",
+          "date": "12/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Profesorado de Religión",
+      "url": "https://profesoradoreligion.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Kamishibai: La hija de Jairo",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/kamishibai-la-hija-de-jairo.html",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Cuentos para trabajar en el aula",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/cuentos-para-trabajar-en-el-aula.html",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Cultura colaborativa: el cambio que tu aula necesita. Descúbrelo el 14 de abril",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/cultura-colaborativa-el-cambio-que-tu.html",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "Escuela on line de primavera",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/escuela-on-line-de-primavera.html",
+          "date": "13/04/2026"
+        },
+        {
+          "title": "Consejo General de la Iglesia en Educación (CGIE): Un compromiso compartido",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/consejo-general-de-la-iglesia-en.html",
+          "date": "13/04/2026"
+        }
+      ]
+    },
     {
       "name": "ChurchPop",
       "url": "https://es.churchpop.com/",
@@ -30,102 +126,6 @@
           "title": "“¡León, eres el mejor!”: La divertida reacción de un medallista olímpico ante la broma del Papa con su medalla",
           "url": "https://es.churchpop.com/leon-eres-el-mejor-la-divertida-reaccion-de-un-medallista-olimpico-ante-la-broma-del-papa-con-su-medalla/",
           "date": "13/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Catholic Link",
-      "url": "https://catholic-link.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "El Papa le respondió a Trump… pero la lección es para cada uno de nosotros",
-          "url": "https://catholic-link.com/papa-leon-xiv-responde-trump/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "«¡Soy un fracaso!»: 5 verdades para recordar cuando te sientes invisible en el trabajo o la vida",
-          "url": "https://catholic-link.com/llamado-de-dios-proposito/",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "¿Qué ve un astronauta de Artemis II al mirar la Tierra? Un mensaje especial para todos",
-          "url": "https://catholic-link.com/artemis-ii-victor-glover-mensaje-esperanza/",
-          "date": "10/04/2026"
-        },
-        {
-          "title": "3 cosas que descubrí al caminar sin auriculares (¡ejercicio recomendadísimo!)",
-          "url": "https://catholic-link.com/importancia-escucha-activa-silencio-espiritual/",
-          "date": "09/04/2026"
-        },
-        {
-          "title": "Un video precioso para descubrir lo que nuestro corazón anhela cuando siente nostalgia",
-          "url": "https://catholic-link.com/quien-soy-lugares-forman-nostalgia/",
-          "date": "07/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Jovenes Católicos",
-      "url": "https://www.jovenescatolicos.es/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "La devoción del momento presente",
-          "url": "https://www.jovenescatolicos.es/2026/04/14/la-devocion-del-momento-presente/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "¿Quién es tu Dios?",
-          "url": "https://www.jovenescatolicos.es/2026/04/14/quien-es-tu-dios/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "A Paloma, concursante de Masterchef, le cambió la vida un retiro de Effetá",
-          "url": "https://www.jovenescatolicos.es/2026/04/13/a-paloma-concursante-de-masterchef-le-cambio-la-vida-un-retiro-de-effeta/",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Unión, Perdón y Triunfo",
-          "url": "https://www.jovenescatolicos.es/2026/04/13/union-perdon-y-triunfo/",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "«Caer y levantarse. 12 razones para seguir». Pater Pablo",
-          "url": "https://www.jovenescatolicos.es/2026/04/13/caer-y-levantarse-12-razones-para-seguir-pater-pablo/",
-          "date": "13/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Primeros Cristianos",
-      "url": "https://www.primeroscristianos.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEX///8AsNvs+vyk2umT1+aW1eiF0+Kk3Of3//5Nvtnl9vnT7vd71OZpzuI8u9r7//48wNuQ2eS44u0YtNd2zuDV8fVgx92e2enB5u9fyt6F0ejs//6Q1+ie2uiD2OVLv+F4zOVgxOEArtu37PMAps99zeRhzeYat9up4OhLxtxt0uZixuAduOI1v9wvu94tjLVfAAAAs0lEQVQYlU3IywKCIBBA0UERtBDRUTCTkF6UmP//edUmu7t7AJKUZvAX4zkUu3/ZU1HKavtS1WmD+Qay7TQ0ZgOzk1T3B/uDITHDMRvFD6w5DaawyjWpmcro4VWTSd/IWT/pbEfGYTxfCODx2mN1BZ/cgKlRWvTkHhyRwQXAINWiPNOm9LR2Ldz7uujCgw6AWRX4Hp7d3OaMRwGCg+4bWFckgXzCBV/ruoBzfhZi+haj9/ENtqAPlk9y8z0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Vivir con alegría - El ejemplo de los primeros cristianos para la Pascua",
-          "url": "https://www.primeroscristianos.com/vivir-con-alegria-el-ejemplo-de-los-primeros-cristianos-para-la-pascua/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "\"La divina misericordia\" - Pelicula sobre la vida de santa Faustina Kowalska",
-          "url": "https://www.primeroscristianos.com/la-divina-misericordia-pelicula-sobre-la-vida-de-santa-faustina-kowalska/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "Así se persigue a los cristianos en Argelia, donde ha viajado León XIV",
-          "url": "https://www.primeroscristianos.com/persigue-cristianos-argelia-leon-xiv/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "Hallan un bloque de mármol único en Hippos que podría reescribir la historia del bautismo cristiano",
-          "url": "https://www.primeroscristianos.com/encuentran-bloque-en-hippos/",
-          "date": "12/04/2026"
-        },
-        {
-          "title": "Domingo de la Divina Misericordia - 2º domingo de Pascua",
-          "url": "https://www.primeroscristianos.com/domingo-de-la-divina-misericordia-2o-domingo-de-pascua/",
-          "date": "12/04/2026"
         }
       ]
     },
@@ -226,38 +226,6 @@
       ]
     },
     {
-      "name": "Profesorado de Religión",
-      "url": "https://profesoradoreligion.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Cultura colaborativa: el cambio que tu aula necesita. Descúbrelo el 14 de abril",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/cultura-colaborativa-el-cambio-que-tu.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Escuela on line de primavera",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/escuela-on-line-de-primavera.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Consejo General de la Iglesia en Educación (CGIE): Un compromiso compartido",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/consejo-general-de-la-iglesia-en.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Organizador gráfico de ideas: El diagrama de Ishikawa",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/organizador-grafico-de-ideas-el.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Huevos de Pascua",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/huevos-de-pascua.html",
-          "date": "13/04/2026"
-        }
-      ]
-    },
-    {
       "name": "Gotitas Espirituales",
       "url": "https://blogcatolicogotitasespirituales.blogspot.com/",
       "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgBAQkBAQgBCgkBDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nys3Nzc3Kzc3Nzc3Nzc3Nzc3N//AABEIABAAEAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAADBP/EACcQAAECBAUDBQAAAAAAAAAAAAECAwQGBzEABQgRIRITgTJBkaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAH/xAAXEQEBAQEAAAAAAAAAAAAAAAACAQAE/9oADAMBAAIRAxEAPwAM6nJ+vsjwlJtKLVZIIVCe6XVE7KIA32Gxt6j4wCc0jtNFX06Zp6fqQ5lk3LDrSXD1KQQQFAc25/PMGawDdPJIhqWUHVLiI2Qj3S5clVjz7jYkYbKW3pn1UrmOo65Y7c6QxaShNk73+wD8YltuSOFFQ7//2Q==",
@@ -288,6 +256,12 @@
           "date": "12/04/2026"
         }
       ]
+    },
+    {
+      "name": "Catholic Link",
+      "url": "https://catholic-link.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVHcEzxYyLxYyHxYiHxYiHxYyLxYyHxYyLxYyHxYyH2XxzzYSDyYR/yYh/xYyHxXRPxWAP5wKv2o4X97eb70cP2nn7zdUD0imL839T3rJH/+ffzgFJV4eKwAAAADnRSTlMA7/Neb6SNxLh9CA8ODP0UknIAAACVSURBVBiVNU8JDsMgDKNdN8S6QQIJ1/7/z2FaIiFhgx3bmDFfZ/fdHm9zj/Peh3H8cWELzCD8E/g1LiRC68+J99x71gxqGoSolRP3PIgHHCil7iVzDHDZQLRCqpOwZh8STURF5SIgYa6i8ZbAtNVfKSWVANPPjFVFaqO5FsFCrI1TWOEtmvwyrehX+Dlu1T2d3ba7/h+LpQxmPO3enQAAAABJRU5ErkJggg==",
+      "lastPosts": []
     }
   ]
 }
