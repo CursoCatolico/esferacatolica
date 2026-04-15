@@ -7,17 +7,16 @@ const MAX_NAME        = 100;
 const MAX_XML_BYTES   = 4 * 1024 * 1024;
 const FEED_TIMEOUT    = 30_000;
 const FAVICON_TIMEOUT = 15_000;
-const RETRY_ATTEMPTS  = 5;
+const RETRY_ATTEMPTS  = 4;
 const RETRY_DELAY     = 2_000;
 
 // Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
 const BLOCKED_CATS = new Set(['peliculas y videos', 'video', 'pelicula', 'peliculas', 'videos', 'descarga', 'descargar', 'videos recomendados', 'pelicula recomendada']);
 
 const USER_AGENTS = [
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0',
+  'Feedly/1.0 (http://www.feedly.com)',
+  'Mozilla/5.0 (compatible; feedly-nikon/1.1; +https://feedly.com; 1 subscriber)',
+  'FlipboardProxy/1.1; +http://flipboard.com/browserproxy',
   'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)'
 ];
 
