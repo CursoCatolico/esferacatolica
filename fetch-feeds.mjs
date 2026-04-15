@@ -7,7 +7,7 @@ const MAX_NAME        = 100;
 const MAX_XML_BYTES   = 4 * 1024 * 1024;
 const FEED_TIMEOUT    = 30_000;
 const FAVICON_TIMEOUT = 15_000;
-const RETRY_ATTEMPTS  = 4;
+const RETRY_ATTEMPTS  = 8;
 const RETRY_DELAY     = 2_000;
 
 // Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
@@ -17,22 +17,30 @@ const USER_AGENTS = [
   'Feedly/1.0 (http://www.feedly.com)',
   'Mozilla/5.0 (compatible; feedly-nikon/1.1; +https://feedly.com; 1 subscriber)',
   'FlipboardProxy/1.1; +http://flipboard.com/browserproxy',
-  'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)'
+  'Mozilla/5.0 (compatible; Wikitolica/1.0; +https://wikitolica.com)',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0'
 ];
 
 const BASE_HEADERS = {
-  'Accept':                    'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
-  'Accept-Language':           'es-ES,es;q=0.9,en;q=0.8',
-  'Cache-Control':             'no-cache',
-  'Connection':                'keep-alive',
-  'Upgrade-Insecure-Requests': '1',
-  'Sec-Fetch-Dest':            'document',
-  'Sec-Fetch-Mode':            'navigate',
-  'Sec-Fetch-Site':            'none',
-  'Sec-Fetch-User':            '?1',
-  'Referer':                   'https://www.google.com/',
-  'DNT':                       '1',
-  'Priority':                  'u=0, i'
+  'Accept':                      'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7',
+  'Accept-Language':             'es-ES,es;q=0.9,en;q=0.8',
+  'Cache-Control':               'no-cache',
+  'Connection':                  'keep-alive',
+  'Upgrade-Insecure-Requests':   '1',
+  'Sec-Fetch-Dest':              'document',
+  'Sec-Fetch-Mode':              'navigate',
+  'Sec-Fetch-Site':              'none',
+  'Sec-Fetch-User':              '?1',
+  'Referer':                     'https://www.google.com/',
+  'DNT':                         '1',
+  'Priority':                    'u=0, i',
+  'sec-ch-ua':                   '"Chromium";v="134", "Google Chrome";v="134", "Not-A.Brand";v="99"',
+  'sec-ch-ua-mobile':            '?0',
+  'sec-ch-ua-platform':          '"Windows"',
+  'sec-ch-ua-full-version-list': '"Chromium";v="134.0.0.0", "Google Chrome";v="134.0.0.0", "Not-A.Brand";v="99.0.0.0"'
 };
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
