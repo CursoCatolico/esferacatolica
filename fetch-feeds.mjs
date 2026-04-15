@@ -190,7 +190,6 @@ function parseRSS(xml) {
     
     // Filtrar por categoría — getTags→stripCdata cubre CDATA en <category>
     const cats = getTags(b, 'category').map(c => normalizeForCompare(sanitizeText(c, 100)));
-    console.log('Post:', title, '| Categorías encontradas:', cats);
     if (cats.some(c => BLOCKED_CATS.has(c))) continue;
     
     const url = isAtom ? sanitizeURL(getAtomLink(b)) : getRssUrl(b);
