@@ -1,6 +1,70 @@
 {
-  "updated": "2026-04-16T08:19:46.021Z",
+  "updated": "2026-04-16T14:31:41.336Z",
   "blogs": [
+    {
+      "name": "Jovenes Católicos",
+      "url": "https://www.jovenescatolicos.es/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Aprender ciencia",
+          "url": "https://www.jovenescatolicos.es/2026/04/16/aprender-ciencia/",
+          "date": "16/04/2026"
+        },
+        {
+          "title": "Rezamos por M4RIA Princesa Futbolera Guerrera #RezamosContigo",
+          "url": "https://www.jovenescatolicos.es/2026/04/16/rezamos-por-m4ria-princesa-futbolera-guerrera-rezamoscontigo/",
+          "date": "16/04/2026"
+        },
+        {
+          "title": "El regalo de la enfermedad: testimonio de Virginia Pérez de Santana",
+          "url": "https://www.jovenescatolicos.es/2026/04/15/el-regalo-de-la-enfermedad-testimonio-de-virginia-perez-de-santana/",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "La conversión y batalla por la vida de Mayra Rodríguez",
+          "url": "https://www.jovenescatolicos.es/2026/04/15/la-conversion-y-batalla-por-la-vida-de-mayra-rodriguez/",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Mariela se ha bautizado en la Vigilia Pascual",
+          "url": "https://www.jovenescatolicos.es/2026/04/15/mariela-se-ha-bautizado-en-la-vigilia-pascual/",
+          "date": "15/04/2026"
+        }
+      ]
+    },
+    {
+      "name": "Profesorado de Religión",
+      "url": "https://profesoradoreligion.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "El primer templo cristiano del mundo",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/el-primer-templo-cristiano-del-mundo.html",
+          "date": "16/04/2026"
+        },
+        {
+          "title": "La tumba está vacía: comienza la Pascua",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/la-tumba-esta-vacia-comienza-la-pascua.html",
+          "date": "16/04/2026"
+        },
+        {
+          "title": "Kamishibai: La hija de Jairo",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/kamishibai-la-hija-de-jairo.html",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Cuentos para trabajar en el aula",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/cuentos-para-trabajar-en-el-aula.html",
+          "date": "15/04/2026"
+        },
+        {
+          "title": "Cultura colaborativa: el cambio que tu aula necesita. Descúbrelo el 14 de abril",
+          "url": "https://profesoradoreligion.blogspot.com/2026/04/cultura-colaborativa-el-cambio-que-tu.html",
+          "date": "13/04/2026"
+        }
+      ]
+    },
     {
       "name": "ChurchPop",
       "url": "https://es.churchpop.com/",
@@ -34,38 +98,6 @@
       ]
     },
     {
-      "name": "Jovenes Católicos",
-      "url": "https://www.jovenescatolicos.es/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcEwQjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy8Qjy86c9ymAAAADnRSTlMAsR11NwiY7g9Y179miXjV3WkAAABkSURBVBiVdY7RDoAgCEUvIGhp/P/nhi2zWp0H2D2DAfAD0fLIzd3TXdQQEp1Pq5GdIDlKhxcfGFjIJ8RYZ8pN+3weWcYF5nLMlcdfX0KLTrGFAJnQECluYE1W+dqpDbYlU7zZAYG4BLE7mhJgAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "El regalo de la enfermedad: testimonio de Virginia Pérez de Santana",
-          "url": "https://www.jovenescatolicos.es/2026/04/15/el-regalo-de-la-enfermedad-testimonio-de-virginia-perez-de-santana/",
-          "date": "15/04/2026"
-        },
-        {
-          "title": "La conversión y batalla por la vida de Mayra Rodríguez",
-          "url": "https://www.jovenescatolicos.es/2026/04/15/la-conversion-y-batalla-por-la-vida-de-mayra-rodriguez/",
-          "date": "15/04/2026"
-        },
-        {
-          "title": "Mariela se ha bautizado en la Vigilia Pascual",
-          "url": "https://www.jovenescatolicos.es/2026/04/15/mariela-se-ha-bautizado-en-la-vigilia-pascual/",
-          "date": "15/04/2026"
-        },
-        {
-          "title": "La devoción del momento presente",
-          "url": "https://www.jovenescatolicos.es/2026/04/14/la-devocion-del-momento-presente/",
-          "date": "14/04/2026"
-        },
-        {
-          "title": "¿Quién es tu Dios?",
-          "url": "https://www.jovenescatolicos.es/2026/04/14/quien-es-tu-dios/",
-          "date": "14/04/2026"
-        }
-      ]
-    },
-    {
       "name": "Primeros Cristianos",
       "url": "https://www.primeroscristianos.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEX///8AsNvs+vyk2umT1+aW1eiF0+Kk3Of3//5Nvtnl9vnT7vd71OZpzuI8u9r7//48wNuQ2eS44u0YtNd2zuDV8fVgx92e2enB5u9fyt6F0ejs//6Q1+ie2uiD2OVLv+F4zOVgxOEArtu37PMAps99zeRhzeYat9up4OhLxtxt0uZixuAduOI1v9wvu94tjLVfAAAAs0lEQVQYlU3IywKCIBBA0UERtBDRUTCTkF6UmP//edUmu7t7AJKUZvAX4zkUu3/ZU1HKavtS1WmD+Qay7TQ0ZgOzk1T3B/uDITHDMRvFD6w5DaawyjWpmcro4VWTSd/IWT/pbEfGYTxfCODx2mN1BZ/cgKlRWvTkHhyRwQXAINWiPNOm9LR2Ldz7uujCgw6AWRX4Hp7d3OaMRwGCg+4bWFckgXzCBV/ruoBzfhZi+haj9/ENtqAPlk9y8z0AAAAASUVORK5CYII=",
@@ -94,38 +126,6 @@
           "title": "Hallan un bloque de mármol único en Hippos que podría reescribir la historia del bautismo cristiano",
           "url": "https://www.primeroscristianos.com/encuentran-bloque-en-hippos/",
           "date": "12/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "Profesorado de Religión",
-      "url": "https://profesoradoreligion.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX///8AAABOJgDY09FYWFi3qqRQKABUKAGDg4MuLi5DQ0M9PT1PT09bW1t5eXm0qKNKCwBPJwA9BwA7AABpaWmPj48yAABSJACEcmmWl5eUlJRzU0W6k2jUm1pULwArLzEkJCSfhnJOMiNoVEN8e3qkgWrokFxtSTB3b23k4+Kwd0U9DwCHenQ8NDJHjtMcWIIARGkdISxOKA26zd0Ag90LYZJ5TzkcBwBPHQCZs8sAoP+trblxWE9oPADYw7uSVAB+RwBrNQBfSzW4uLmnqasFuWAMAAAAtklEQVQYlVWO1w7CMAxFnTYtTZqkjARI2Zuy997w/99EAAm1x/LL0ZV9Aey061qWlTFruW4KwM6iGB+RQ9gjUlCp/J/II4IZ4wRzjFDBiKLWQmkltBdqVYJypVrzmc9ZnRLGagVoNFvSwyJscy8UyohOt4cIxbxPKWOfo9FgiHw8GnMpsfh+mUxn88W/RxWWqzXabP9iB/vVQQWBY8bgOAEcT+cI4lyuNzshnPP9kYg8X5Edj7wBEVgOZI8ze5YAAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Kamishibai: La hija de Jairo",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/kamishibai-la-hija-de-jairo.html",
-          "date": "15/04/2026"
-        },
-        {
-          "title": "Cuentos para trabajar en el aula",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/cuentos-para-trabajar-en-el-aula.html",
-          "date": "15/04/2026"
-        },
-        {
-          "title": "Cultura colaborativa: el cambio que tu aula necesita. Descúbrelo el 14 de abril",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/cultura-colaborativa-el-cambio-que-tu.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Escuela on line de primavera",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/escuela-on-line-de-primavera.html",
-          "date": "13/04/2026"
-        },
-        {
-          "title": "Consejo General de la Iglesia en Educación (CGIE): Un compromiso compartido",
-          "url": "https://profesoradoreligion.blogspot.com/2026/04/consejo-general-de-la-iglesia-en.html",
-          "date": "13/04/2026"
         }
       ]
     },
