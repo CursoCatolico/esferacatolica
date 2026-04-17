@@ -1,47 +1,12 @@
 [
   {
-    "name": "Aleteia",
-    "url": "https://es.aleteia.org",
-    "feed": "https://es.aleteia.org/feed/"
-  },
-  {
-    "name": "Profesorado de Religión",
-    "url": "https://profesoradoreligion.blogspot.com/",
-    "feed": "https://profesoradoreligion.blogspot.com/feeds/posts/default?alt=rss"
+    "name": "Una historia de tres",
+    "url": "https://www.unahistoriadetres.com/",
+    "feed": "https://www.unahistoriadetres.com/feed.xml"
   },
   {
     "name": "Enciclopedia Católica",
     "url": "https://www.wikitolica.com/",
     "feed": "https://www.wikitolica.com/rss.xml"
-  },
-  {
-    "name": "Primeros Cristianos",
-    "url": "https://www.primeroscristianos.com/",
-    "feed": "https://www.primeroscristianos.com/feed/"
-  },
-  {
-    "name": "Jovenes Católicos",
-    "url": "https://www.jovenescatolicos.es/",
-    "feed": "https://www.jovenescatolicos.es/feed/atom/"
-  },
-  {
-    "name": "Catholic Link",
-    "url": "https://catholic-link.com/",
-    "feed": "https://catholic-link.com/feed/"
-  },
-  {
-    "name": "ChurchPop",
-    "url": "https://es.churchpop.com/",
-    "feed": "https://es.churchpop.com/feed/"
-  },
-  {
-    "name": "PortaLuz",
-    "url": "https://portaluz.org/",
-    "feed": "https://portaluz.org/feed/"
-  },
-  {
-    "name": "Gotitas Espirituales",
-    "url": "https://blogcatolicogotitasespirituales.blogspot.com/",
-    "feed": "https://blogcatolicogotitasespirituales.blogspot.com/feeds/posts/default?alt=rss"
   }
 ]
