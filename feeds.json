@@ -8,5 +8,10 @@
     "name": "Enciclopedia Católica",
     "url": "https://www.wikitolica.com/",
     "feed": "https://www.wikitolica.com/rss.xml"
+  },
+  {
+    "name": "El Observador de la Actualidad",
+    "url": "https://elobservadorenlinea.com/",
+    "feed": "https://elobservadorenlinea.com/feed/"
   }
 ]
