@@ -1,6 +1,38 @@
 {
-  "updated": "2026-04-19T04:00:15.886Z",
+  "updated": "2026-04-19T05:14:39.819Z",
   "blogs": [
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "El Papa: estoy en África para animar a los católicos, no para debatir con Trump",
+          "url": "https://elobservadorenlinea.com/2026/04/el-papa-estoy-en-africa-para-animar-a-los-catolicos-no-para-debatir-con-trump/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-estoy-en-africa-para-animar-a-los-catolicos-no-para-debatir-con-trump",
+          "date": "18/04/2026"
+        },
+        {
+          "title": "La lógica de la comunión con Cristo",
+          "url": "https://elobservadorenlinea.com/2026/04/la-logica-de-la-comunion-con-cristo/?utm_source=rss&utm_medium=rss&utm_campaign=la-logica-de-la-comunion-con-cristo",
+          "date": "18/04/2026"
+        },
+        {
+          "title": "“No me lo esperaba de ti”",
+          "url": "https://elobservadorenlinea.com/2026/04/no-me-lo-esperaba-de-ti/?utm_source=rss&utm_medium=rss&utm_campaign=no-me-lo-esperaba-de-ti",
+          "date": "18/04/2026"
+        },
+        {
+          "title": "Diez desafíos para la educación y la transmisión de la fe a las nuevas generaciones (2)",
+          "url": "https://elobservadorenlinea.com/2026/04/diez-desafios-para-la-educacion-y-la-transmision-de-la-fe-a-las-nuevas-generaciones-2/?utm_source=rss&utm_medium=rss&utm_campaign=diez-desafios-para-la-educacion-y-la-transmision-de-la-fe-a-las-nuevas-generaciones-2",
+          "date": "18/04/2026"
+        },
+        {
+          "title": "La liturgia en los pueblos originarios",
+          "url": "https://elobservadorenlinea.com/2026/04/la-liturgia-en-los-pueblos-originarios/?utm_source=rss&utm_medium=rss&utm_campaign=la-liturgia-en-los-pueblos-originarios",
+          "date": "18/04/2026"
+        }
+      ]
+    },
     {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
