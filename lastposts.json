@@ -1,6 +1,38 @@
 {
-  "updated": "2026-04-19T17:28:15.981Z",
+  "updated": "2026-04-19T17:29:52.296Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León XIV en homilía en Angola, 19-4-2026: «Mantengan la mirada fija en Jesús en la Palabra y en la Eucaristía; el Señor Resucitado camina a nuestro lado y, unidos a Él, vencemos la muerte y vivimos como resucitados»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/04/papa-leon-xiv-en-homilia-en-angola-19-4.html",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Papa León XIV en el Regina Caeli en Angola, 19-4-2026: «Que callen las armas en Ucrania y se siga el camino del diálogo y continuar los diálogos de paz, para hacer permanente el cese de las hostilidades en todo el Medio Oriente»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/04/papa-leon-xiv-en-el-regina-caeli-en.html",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Santa Misa de hoy, III Domingo de Pascua, presidida por el Papa León XIV, en Angola, 19-4-202",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/04/santa-misa-de-hoy-iii-domingo-de-pascua_19.html",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Aideé Citlali Manzano, psicóloga de 42 años: «Había sido Testigo de Jehová, me alejé de Dios, me detectaron un tumor y vi que necesitaba tener la guía de Dios... el respaldo de la Iglesia Católica y me he bautizado»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/04/aidee-citlali-manzano-psicologa-de-42.html",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Sor Carine Tangirir ante el Papa en Camerún: «Fuimos secuestradas tres días y lo que mantuvo viva nuestra esperanza fue el rosario que rezamos sin cesar durante todos estos día»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/04/sor-carine-tangirir-ante-el-papa-en.html",
+          "date": "19/04/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
@@ -96,12 +128,6 @@
           "date": "28/05/2023"
         }
       ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": []
     }
   ]
 }
