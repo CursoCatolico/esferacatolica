@@ -13,5 +13,10 @@
     "name": "El Observador de la Actualidad",
     "url": "https://elobservadorenlinea.com/",
     "feed": "https://elobservadorenlinea.com/feed/"
-  }
+  },
+  {
+    "name": "Camino Católico",
+    "url": "https://escucharlavozdelamor.blogspot.com/",
+    "feed": "https://escucharlavozdelamor.blogspot.com/feeds/posts/default"
+  },
 ]
