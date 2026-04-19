@@ -1,11 +1,26 @@
 {
-  "updated": "2026-04-19T07:58:18.863Z",
+  "updated": "2026-04-19T13:50:45.510Z",
   "blogs": [
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
+        {
+          "title": "Si vamos hablando de Dios…",
+          "url": "https://elobservadorenlinea.com/2026/04/si-vamos-hablando-de-dios/?utm_source=rss&utm_medium=rss&utm_campaign=si-vamos-hablando-de-dios",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Compartir lo que sabemos sobre Dios",
+          "url": "https://elobservadorenlinea.com/2026/04/compartir-lo-que-sabemos-sobre-dios/?utm_source=rss&utm_medium=rss&utm_campaign=compartir-lo-que-sabemos-sobre-dios",
+          "date": "19/04/2026"
+        },
+        {
+          "title": "Resistir el día malo",
+          "url": "https://elobservadorenlinea.com/2026/04/resistir-el-dia-malo/?utm_source=rss&utm_medium=rss&utm_campaign=resistir-el-dia-malo",
+          "date": "19/04/2026"
+        },
         {
           "title": "El Papa: estoy en África para animar a los católicos, no para debatir con Trump",
           "url": "https://elobservadorenlinea.com/2026/04/el-papa-estoy-en-africa-para-animar-a-los-catolicos-no-para-debatir-con-trump/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-estoy-en-africa-para-animar-a-los-catolicos-no-para-debatir-con-trump",
@@ -15,21 +30,6 @@
           "title": "La lógica de la comunión con Cristo",
           "url": "https://elobservadorenlinea.com/2026/04/la-logica-de-la-comunion-con-cristo/?utm_source=rss&utm_medium=rss&utm_campaign=la-logica-de-la-comunion-con-cristo",
           "date": "18/04/2026"
-        },
-        {
-          "title": "“No me lo esperaba de ti”",
-          "url": "https://elobservadorenlinea.com/2026/04/no-me-lo-esperaba-de-ti/?utm_source=rss&utm_medium=rss&utm_campaign=no-me-lo-esperaba-de-ti",
-          "date": "18/04/2026"
-        },
-        {
-          "title": "Diez desafíos para la educación y la transmisión de la fe a las nuevas generaciones (2)",
-          "url": "https://elobservadorenlinea.com/2026/04/diez-desafios-para-la-educacion-y-la-transmision-de-la-fe-a-las-nuevas-generaciones-2/?utm_source=rss&utm_medium=rss&utm_campaign=diez-desafios-para-la-educacion-y-la-transmision-de-la-fe-a-las-nuevas-generaciones-2",
-          "date": "18/04/2026"
-        },
-        {
-          "title": "La liturgia en los pueblos originarios",
-          "url": "https://elobservadorenlinea.com/2026/04/la-liturgia-en-los-pueblos-originarios/?utm_source=rss&utm_medium=rss&utm_campaign=la-liturgia-en-los-pueblos-originarios",
-          "date": "18/04/2026"
         }
       ]
     },
@@ -38,6 +38,11 @@
       "url": "https://www.wikitolica.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
+        {
+          "title": "Los discípulos de Emaús",
+          "url": "https://www.wikitolica.com/l/los-discipulos-de-emaus/",
+          "date": "19/04/2026"
+        },
         {
           "title": "Verdad trascendental",
           "url": "https://www.wikitolica.com/v/verdad-trascendental/",
@@ -57,11 +62,6 @@
           "title": "Belleza trascendental",
           "url": "https://www.wikitolica.com/b/belleza-trascendental/",
           "date": "18/04/2026"
-        },
-        {
-          "title": "Sectas",
-          "url": "https://www.wikitolica.com/s/sectas/",
-          "date": "17/04/2026"
         }
       ]
     },
