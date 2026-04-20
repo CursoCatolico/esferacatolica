@@ -1,14 +1,14 @@
 // fetch-feeds.mjs
 import { readFileSync, writeFileSync } from 'fs';
 
-const MAX_PER_FEED    = 5;
+const MAX_PER_FEED    = 3;
 const MAX_TITLE       = 300;
 const MAX_NAME        = 100;
 const MAX_XML_BYTES   = 4 * 1024 * 1024;
 const FEED_TIMEOUT    = 30_000;
 const FAVICON_TIMEOUT = 15_000;
 const RETRY_ATTEMPTS  = 8;
-const RETRY_DELAY     = 2_000;
+const RETRY_DELAY     = 3_000;
 
 // Categorías bloqueadas (normalizadas sin acentos ni mayúsculas)
 const BLOCKED_CATS = new Set(['peliculas y videos', 'video', 'pelicula', 'peliculas', 'videos', 'descarga', 'descargar', 'videos recomendados', 'pelicula recomendada']);
