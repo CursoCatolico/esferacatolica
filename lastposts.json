@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-23T19:59:06.127Z",
+  "updated": "2026-04-24T04:12:07.423Z",
   "blogs": [
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Venga a Nosotros Tu Reino – Capítulo 37 «El Reuno ya está entre nosotros»",
+          "url": "https://elobservadorenlinea.com/2026/04/venga-a-nosotros-tu-reino-capitulo-37-el-reuno-ya-esta-entre-nosotros/?utm_source=rss&utm_medium=rss&utm_campaign=venga-a-nosotros-tu-reino-capitulo-37-el-reuno-ya-esta-entre-nosotros",
+          "date": "24/04/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "Papa León XIV en homilía en Guinea Ecuatorial, 23-4-2026: «Celebrando juntos la Eucaristía, que deis testimonio con vuestras vidas de la fe que salva, para que la Palabra de Dios se convierta en pan bueno para todos»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/04/papa-leon-xiv-en-homilia-en-guinea_0903314328.html",
-          "date": "23/04/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Así se fomenta el conocimiento y la hermandad en línea entre católicos: el ejemplo de Wikitólica",
-          "url": "https://elobservadorenlinea.com/2026/04/asi-se-fomenta-el-conocimiento-y-la-hermandad-en-linea-entre-catolicos-el-ejemplo-de-wikitolica/?utm_source=rss&utm_medium=rss&utm_campaign=asi-se-fomenta-el-conocimiento-y-la-hermandad-en-linea-entre-catolicos-el-ejemplo-de-wikitolica",
           "date": "23/04/2026"
         }
       ]
