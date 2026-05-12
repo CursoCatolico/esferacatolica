@@ -191,10 +191,12 @@ function parseRSS(xml) {
 
   for (const m of xml.matchAll(itemRe)) {
     const b = m[0];
-    
+
     let title = sanitizeText(getTag(b, 'title'));
     title = title.replace(/Sin\s+Autor$/, '').trim();
     if (isAllCaps(title)) title = toSentenceCase(title);
+    title = title.replace(/\p{Lu}{2,}(?:\s+\p{Lu}{2,})*/gu, s => toSentenceCase(s));
+    title = title.replace(/https?:\/\/\S+/g, '').replace(/\s+/g, ' ').trim();
     
     // Filtrar por categoría — getTags→stripCdata cubre CDATA en <category>
     const cats = getTags(b, 'category').map(c => normalizeForCompare(sanitizeText(c, 100)));
