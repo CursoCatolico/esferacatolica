@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T04:29:24.132Z",
+  "updated": "2026-05-12T07:56:14.544Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,7 +9,7 @@
         {
           "title": "María Benedicta O’Brien trabajó 11 años de enfermera pediátrica y ahora es monja: «Mi vocación era casarme y tener una familia, fui a rezar en la Abadía de Santa Walburga y el Señor me dijo: ‘¿Me seguirás aquí?’»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/05/maria-benedicta-obrien-trabajo-11-anos.html",
-          "date": "11/05/2026"
+          "date": "12/05/2026"
         }
       ]
     },
@@ -22,6 +22,18 @@
           "title": "Un domingo cualquiera",
           "url": "https://elobservadorenlinea.com/2026/05/un-domingo-cualquiera/?utm_source=rss&utm_medium=rss&utm_campaign=un-domingo-cualquiera",
           "date": "11/05/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "CUANDO SE ARRODILLA EL ALMA // Pablo Sanz - Concierto en directo presentación del álbum https://www.youtube.com/watch?v=HJU68UfDFsw",
+          "url": "https://blogelpuente.blogspot.com/2026/05/cuando-se-arrodilla-el-alma-pablo-sanz.html",
+          "date": "09/05/2026"
         }
       ]
     },
