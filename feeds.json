@@ -18,5 +18,10 @@
     "name": "Camino Católico",
     "url": "https://escucharlavozdelamor.blogspot.com/",
     "feed": "https://escucharlavozdelamor.blogspot.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "name": "El Puente",
+    "url": "https://blogelpuente.blogspot.com/",
+    "feed": "https://blogelpuente.blogspot.com/feeds/posts/default?alt=rss"
   }
 ]
