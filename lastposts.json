@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-13T09:32:54.190Z",
+  "updated": "2026-05-13T15:38:05.657Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Chaparrón de gracias en el mayo madrileño",
+          "url": "https://blogelpuente.blogspot.com/2026/05/chaparron-de-gracias-en-el-mayo.html",
+          "date": "13/05/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -19,9 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "El Corazón de Cristo: clave de la evangelización y de la catequesis",
-          "url": "https://elobservadorenlinea.com/2026/05/el-corazon-de-cristo-clave-de-la-evangelizacion-y-de-la-catequesis/?utm_source=rss&utm_medium=rss&utm_campaign=el-corazon-de-cristo-clave-de-la-evangelizacion-y-de-la-catequesis",
-          "date": "12/05/2026"
+          "title": "Un mensaje de Fátima directo a tu corazón este 13 de mayo",
+          "url": "https://elobservadorenlinea.com/2026/05/un-mensaje-de-fatima-directo-a-tu-corazon-este-13-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=un-mensaje-de-fatima-directo-a-tu-corazon-este-13-de-mayo",
+          "date": "13/05/2026"
         }
       ]
     },
@@ -34,18 +46,6 @@
           "title": "Subida al Monte Carmelo de San Juan de la Cruz",
           "url": "https://www.wikitolica.com/s/subida-al-monte-carmelo-de-san-juan-de-la-cruz/",
           "date": "12/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Cuando se arrodilla el alma // Pablo Sanz - Concierto en directo presentación del álbum",
-          "url": "https://blogelpuente.blogspot.com/2026/05/cuando-se-arrodilla-el-alma-pablo-sanz.html",
-          "date": "09/05/2026"
         }
       ]
     },
