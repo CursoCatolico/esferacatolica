@@ -1,14 +1,26 @@
 {
-  "updated": "2026-05-15T15:08:21.088Z",
+  "updated": "2026-05-15T20:09:02.248Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Don martín cortés, el abuelo salmantino de hernán cortés. dra. maría del carmen martínez",
+          "url": "https://blogelpuente.blogspot.com/2026/05/don-martin-cortes-el-abuelo-salmantino.html",
+          "date": "15/05/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Noah Zell se ha convertido a Cristo y ha donado un riñón a su párroco, padre José Kochuparampil: «Ofrecer mi cuerpo como sacrificio vivo, santo y agradable a Dios, lo glorifica y expresa mi amor por nuestro Señor»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/noah-zell-se-ha-convertido-cristo-y-ha.html",
+          "title": "Mary Sangalli lleva 18 años enferma de Ela: «Me sentí libre al empezar a vivir la relación con Dios, que es Padre, me creó y me da vida continuamente; mi dependencia de Dios me ha liberado de las cosas y de las personas»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/mary-sangalli-lleva-18-anos-enferma-de.html",
           "date": "15/05/2026"
         }
       ]
@@ -22,18 +34,6 @@
           "title": "Esperanza y acciones",
           "url": "https://elobservadorenlinea.com/2026/05/esperanza-y-acciones/?utm_source=rss&utm_medium=rss&utm_campaign=esperanza-y-acciones",
           "date": "14/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Chaparrón de gracias en el mayo madrileño",
-          "url": "https://blogelpuente.blogspot.com/2026/05/chaparron-de-gracias-en-el-mayo.html",
-          "date": "13/05/2026"
         }
       ]
     },
