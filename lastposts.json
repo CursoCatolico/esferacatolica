@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-16T19:53:13.031Z",
+  "updated": "2026-05-17T04:44:23.622Z",
   "blogs": [
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Subió al Cielo y está sentado a la derecha del Padre",
+          "url": "https://elobservadorenlinea.com/2026/05/subio-al-cielo-y-esta-sentado-a-la-derecha-del-padre/?utm_source=rss&utm_medium=rss&utm_campaign=subio-al-cielo-y-esta-sentado-a-la-derecha-del-padre",
+          "date": "17/05/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "Mary Sangalli lleva 18 años enferma de Ela: «Me sentí libre al empezar a vivir la relación con Dios, que es Padre, me creó y me da vida continuamente; mi dependencia de Dios me ha liberado de las cosas y de las personas»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/05/mary-sangalli-lleva-18-anos-enferma-de.html",
-          "date": "16/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "María Madre de la Iglesia, camino seguro de santificación",
-          "url": "https://elobservadorenlinea.com/2026/05/maria-madre-de-la-iglesia-camino-seguro-de-santificacion/?utm_source=rss&utm_medium=rss&utm_campaign=maria-madre-de-la-iglesia-camino-seguro-de-santificacion",
           "date": "16/05/2026"
         }
       ]
