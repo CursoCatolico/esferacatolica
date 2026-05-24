@@ -1,14 +1,26 @@
 {
-  "updated": "2026-05-24T14:18:27.197Z",
+  "updated": "2026-05-24T19:57:51.163Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Santo Toribio Mogrovejo, padre de la Hispanidad, pero casi olvidado de la memoria patria",
+          "url": "https://blogelpuente.blogspot.com/2026/05/santo-toribio-mogrovejo-padre-de-la.html",
+          "date": "24/05/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en el Regina Caeli, 24-5-2026: «Con el don de su Espíritu Santo, Dios nos concede la fe, hace comprender las escrituras, permite participar de su vida y nos ayuda a tener una experiencia de Dios personal»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/papa-leon-xiv-en-el-regina-caeli-24-5.html",
+          "title": "Papa León Xiv en homilía, 24-5-2026: «Pidamos que el Espíritu del Resucitado nos salve del mal de la guerra, libere a la humanidad de la miseria y sane del flagelo del pecado, para la redención anunciada en el nombre de Jesús»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/papa-leon-xiv-en-homilia-24-5-2026.html",
           "date": "24/05/2026"
         }
       ]
@@ -34,18 +46,6 @@
           "title": "Fundación Infinito más Uno",
           "url": "https://www.wikitolica.com/f/fundacion-infinito-mas-uno/",
           "date": "23/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Don martín cortés, el abuelo salmantino de hernán cortés. dra. maría del carmen martínez",
-          "url": "https://blogelpuente.blogspot.com/2026/05/don-martin-cortes-el-abuelo-salmantino.html",
-          "date": "15/05/2026"
         }
       ]
     },
