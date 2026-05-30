@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-30T04:41:46.295Z",
+  "updated": "2026-05-30T09:06:31.502Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Katie Holmes: «Sabía hablar de Dios, pero en realidad no lo conocía personalmente y me encontré con Dios al perder en el parto a mi primera hija, en el dolor más profundo; desde entonces, mi fe me ha sostenido cada día»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/katie-holmes-sabia-hablar-de-dios-pero.html",
+          "date": "30/05/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
@@ -21,18 +33,6 @@
         {
           "title": "La importancia de la historia en la primera encíclica del papa león",
           "url": "https://blogelpuente.blogspot.com/2026/05/la-importancia-de-la-historia-en-la.html",
-          "date": "29/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Katie Holmes: «Sabía hablar de Dios, pero en realidad no lo conocía personalmente y me encontré con Dios al perder en el parto a mi primera hija, en el dolor más profundo; desde entonces, mi fe me ha sostenido cada día»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/katie-holmes-sabia-hablar-de-dios-pero.html",
           "date": "29/05/2026"
         }
       ]
