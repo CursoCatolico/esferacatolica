@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T09:38:32.832Z",
+  "updated": "2026-05-31T14:23:52.648Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en el Rosario por la paz, 30-5-2026: «Sabemos que la paz siempre es posible porque es un don de Dios; Jesucristo es nuestra paz, vence la arrogancia con humildad y redime a toda la creación del pecado»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/papa-leon-xiv-en-el-rosario-por-la-paz.html",
+          "title": "Papa León Xiv en el Ángelus, 31-5-2026: «La vida de Dios es maravillosa, da paz al corazón; la Trinidad nos hace amar todo y a todos porque cada criatura está hecha para la comunión, la relación, el encuentro»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/papa-leon-xiv-en-el-angelus-31-5-2026.html",
+          "date": "31/05/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Perdonar el odio y sus consecuencias",
+          "url": "https://elobservadorenlinea.com/2026/05/perdonar-el-odio-y-sus-consecuencias/?utm_source=rss&utm_medium=rss&utm_campaign=perdonar-el-odio-y-sus-consecuencias",
           "date": "31/05/2026"
         }
       ]
@@ -33,18 +45,6 @@
         {
           "title": "María fuente viva de esperanza para alzar la mirada ante la visita del papa león a españa",
           "url": "https://blogelpuente.blogspot.com/2026/05/maria-fuente-viva-de-esperanza-para.html",
-          "date": "30/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Fundación Josefa Vergara: legado, atención integral y retos para crecer",
-          "url": "https://elobservadorenlinea.com/2026/05/fundacion-josefa-vergara-legado-atencion-integral-y-retos-para-crecer/?utm_source=rss&utm_medium=rss&utm_campaign=fundacion-josefa-vergara-legado-atencion-integral-y-retos-para-crecer",
           "date": "30/05/2026"
         }
       ]
