@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T12:25:55.339Z",
+  "updated": "2026-06-01T18:31:35.315Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Katie Holmes: «Sabía hablar de Dios, pero en realidad no lo conocía personalmente y me encontré con Dios al perder en el parto a mi primera hija, en el dolor más profundo; desde entonces, mi fe me ha sostenido cada día»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/05/katie-holmes-sabia-hablar-de-dios-pero.html",
+          "title": "Brian Vázquez era alcohólico y drogadicto a los 9 años y ahora, a los 15, ayuda a otros a dejarlo: «Pedí a Dios ayuda, perdón por las cosas malas que había hecho y rezo para poder perdonarme a mí mismo»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/brian-vazquez-era-alcoholico-y.html",
+          "date": "01/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Al encuentro de un corazón de verdad (1 de junio)",
+          "url": "https://elobservadorenlinea.com/2026/06/al-encuentro-de-un-corazon-de-verdad-1-de-junio-2/?utm_source=rss&utm_medium=rss&utm_campaign=al-encuentro-de-un-corazon-de-verdad-1-de-junio-2",
           "date": "01/06/2026"
         }
       ]
@@ -33,18 +45,6 @@
         {
           "title": "Homenaje de la academia nacional de la historia del perú a santo toribio alfonso de mogrovejo armando nieto vélez s.j. 2006",
           "url": "https://blogelpuente.blogspot.com/2026/05/homenaje-de-la-academia-nacional-de-la.html",
-          "date": "31/05/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Perdonar el odio y sus consecuencias",
-          "url": "https://elobservadorenlinea.com/2026/05/perdonar-el-odio-y-sus-consecuencias/?utm_source=rss&utm_medium=rss&utm_campaign=perdonar-el-odio-y-sus-consecuencias",
           "date": "31/05/2026"
         }
       ]
