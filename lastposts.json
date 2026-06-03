@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T11:48:35.237Z",
+  "updated": "2026-06-03T17:53:29.371Z",
   "blogs": [
     {
       "name": "El Puente",
@@ -19,8 +19,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Raúl Berzosa, pintor de arte sacro: «Pinto rezando; ’pedid y se os dará’; Jesús siempre me reconforta y me da esperanza; Cuanto más rezamos, más tiempo queremos estar con Él que te escucha siempre»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/raul-berzosa-pintor-de-arte-sacro-pinto.html",
+          "title": "José Antonio Sau, periodista y escritor: «No podría vivir sin rezar porque estoy continuamente haciéndolo, nos hace mejores personas y es la forma en la que Dios se manifiesta a los demás y hace su voluntad»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/jose-antonio-sau-periodista-y-escritor.html",
+          "date": "03/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Al encuentro de un Corazón de verdad (3 de junio)",
+          "url": "https://elobservadorenlinea.com/2026/06/al-encuentro-de-un-corazon-de-verdad-3-de-junio-2/?utm_source=rss&utm_medium=rss&utm_campaign=al-encuentro-de-un-corazon-de-verdad-3-de-junio-2",
           "date": "03/06/2026"
         }
       ]
@@ -34,18 +46,6 @@
           "title": "Religión en Libertad",
           "url": "https://www.wikitolica.com/r/religion-en-libertad/",
           "date": "03/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Al encuentro de un Corazón de verdad (2 de junio)",
-          "url": "https://elobservadorenlinea.com/2026/06/al-encuentro-de-un-corazon-de-verdad-2-de-junio-2/?utm_source=rss&utm_medium=rss&utm_campaign=al-encuentro-de-un-corazon-de-verdad-2-de-junio-2",
-          "date": "02/06/2026"
         }
       ]
     },
