@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-08T05:20:22.836Z",
+  "updated": "2026-06-08T11:46:24.917Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "La curación de un niño que antes de nacer padecía una grave cardiopatía congénita, una tetralogía de Fallot, el milagro que estudia el Vaticano para beatificar a Gaudí: «Los médicos decían que no quedaba más que rezar»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/la-curacion-de-un-nino-que-antes-de.html",
+          "date": "08/06/2026"
+        }
+      ]
+    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "A vueltas con Punchauca. Memoria y compromiso de un encuentro fallido ante las ruinas de un emblemático monumento. J.A. Benito. Revista \"Escurialensia\", 4 (2026), 325-348",
           "url": "https://blogelpuente.blogspot.com/2026/06/a-vueltas-con-punchauca-memoria-y.html",
-          "date": "07/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv en homilía del Corpus en Madrid, 7-6-2026: «Dejarnos sacar por Cristo Eucaristía del egoísmo y la indiferencia, acoger su presencia que nos transforma y nos hace constructores de un mundo nuevo»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-en-homilia-del-corpus-en.html",
           "date": "07/06/2026"
         }
       ]
