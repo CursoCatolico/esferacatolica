@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T11:46:24.917Z",
+  "updated": "2026-06-08T16:40:58.764Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "La curación de un niño que antes de nacer padecía una grave cardiopatía congénita, una tetralogía de Fallot, el milagro que estudia el Vaticano para beatificar a Gaudí: «Los médicos decían que no quedaba más que rezar»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/la-curacion-de-un-nino-que-antes-de.html",
+          "title": "Papa León Xiv en el Congreso de los Diputados, 8-6-2026: «¿Puede llamarse justa una comunidad que deja en la sombra al niño no nacido, al anciano, al enfermo, a quien sufre en silencio o depende del cuidado de los demás?»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-en-el-congreso-de-los.html",
+          "date": "08/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Cuba, entre apagones y emergencia sanitaria: el compromiso de Sant’Egidio",
+          "url": "https://elobservadorenlinea.com/2026/06/cuba-entre-apagones-y-emergencia-sanitaria-el-compromiso-de-santegidio/?utm_source=rss&utm_medium=rss&utm_campaign=cuba-entre-apagones-y-emergencia-sanitaria-el-compromiso-de-santegidio",
           "date": "08/06/2026"
         }
       ]
@@ -21,18 +33,6 @@
         {
           "title": "A vueltas con Punchauca. Memoria y compromiso de un encuentro fallido ante las ruinas de un emblemático monumento. J.A. Benito. Revista \"Escurialensia\", 4 (2026), 325-348",
           "url": "https://blogelpuente.blogspot.com/2026/06/a-vueltas-con-punchauca-memoria-y.html",
-          "date": "07/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Centenario de una gesta histórica y heroica",
-          "url": "https://elobservadorenlinea.com/2026/06/centenario-de-una-gesta-historica-y-heroica/?utm_source=rss&utm_medium=rss&utm_campaign=centenario-de-una-gesta-historica-y-heroica",
           "date": "07/06/2026"
         }
       ]
