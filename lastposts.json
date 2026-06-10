@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T10:44:43.993Z",
+  "updated": "2026-06-10T16:28:26.240Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Homilía del P. Jesús Luis Sacristán y lecturas de la Misa de hoy, miércoles de la 10ª semana de Tiempo Ordinario, 10-6-2026",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/homilia-del-p-jesus-luis-sacristan-y_01644469395.html",
+          "title": "Papa León Xiv a los presos en «Brians 1» en Cataluña, 10-6-2026: «¡Dios te ama como eres, pero te sueña mejor! Nos permite empezar siempre de nuevo, pues ser cristiano consiste convertirse, arrepentirse, reconciliarse y perdonar»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-los-presos-en-brians-1-en.html",
+          "date": "10/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "El Papa: Los errores de la vida no determinan la identidad de una persona",
+          "url": "https://elobservadorenlinea.com/2026/06/el-papa-los-errores-de-la-vida-no-determinan-la-identidad-de-una-persona/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-los-errores-de-la-vida-no-determinan-la-identidad-de-una-persona",
           "date": "10/06/2026"
         }
       ]
@@ -21,18 +33,6 @@
         {
           "title": "Santo toribio mogrovejo, compañero de camino del papa león",
           "url": "https://blogelpuente.blogspot.com/2026/06/santo-toribio-mogrovejo-companero-de.html",
-          "date": "09/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Educación, trabajo y libertad en el tiempo de la Ia",
-          "url": "https://elobservadorenlinea.com/2026/06/educacion-trabajo-y-libertad-en-el-tiempo-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=educacion-trabajo-y-libertad-en-el-tiempo-de-la-ia",
           "date": "09/06/2026"
         }
       ]
