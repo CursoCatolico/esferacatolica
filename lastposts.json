@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-10T05:07:50.266Z",
+  "updated": "2026-06-10T10:44:43.993Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Homilía del P. Jesús Luis Sacristán y lecturas de la Misa de hoy, miércoles de la 10ª semana de Tiempo Ordinario, 10-6-2026",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/homilia-del-p-jesus-luis-sacristan-y_01644469395.html",
+          "date": "10/06/2026"
+        }
+      ]
+    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "Santo toribio mogrovejo, compañero de camino del papa león",
           "url": "https://blogelpuente.blogspot.com/2026/06/santo-toribio-mogrovejo-companero-de.html",
-          "date": "09/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv responde las preguntas más difíciles sobre el egoísmo, el suicidio y el perdón, en Barcelona, 9-6-2026: «Dios no nos abandona cuando parece ausente, debemos confiarle las cargas que llevamos, incluso gritándole a Él»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-responde-las-preguntas.html",
           "date": "09/06/2026"
         }
       ]
