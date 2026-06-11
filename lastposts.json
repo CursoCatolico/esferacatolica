@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T05:16:27.080Z",
+  "updated": "2026-06-11T11:15:24.899Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,9 +7,21 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en homilía en la Sagrada Familia en Barcelona, 10-6-2026: «Mientras alzamos la mirada hacia Él, el Crucificado Resucitado, comprometámonos a levantar el rostro de quienes yacen en el polvo»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-en-homilia-en-la-sagrada.html",
-          "date": "10/06/2026"
+          "title": "Homilía del P. Heliodoro Mira y lecturas de la Misa de hoy, jueves, San Bernabé, apóstol, 11-6-2026",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/homilia-del-p-heliodoro-mira-y-lecturas.html",
+          "date": "11/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Bula Transiturus de hoc mundo",
+          "url": "https://www.wikitolica.com/b/bula-transiturus-de-hoc-mundo/",
+          "date": "11/06/2026"
         }
       ]
     },
@@ -21,18 +33,6 @@
         {
           "title": "El Papa: Los errores de la vida no determinan la identidad de una persona",
           "url": "https://elobservadorenlinea.com/2026/06/el-papa-los-errores-de-la-vida-no-determinan-la-identidad-de-una-persona/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-los-errores-de-la-vida-no-determinan-la-identidad-de-una-persona",
-          "date": "10/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "Enciclopedia Católica",
-      "url": "https://www.wikitolica.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Ordinariato para los Católicos Orientales en España",
-          "url": "https://www.wikitolica.com/o/ordinariato-para-los-catolicos-orientales-en-espana/",
           "date": "10/06/2026"
         }
       ]
