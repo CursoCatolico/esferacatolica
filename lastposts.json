@@ -1,14 +1,26 @@
 {
-  "updated": "2026-06-14T15:01:05.970Z",
+  "updated": "2026-06-14T20:12:11.287Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Fray bartolomé de las casas: Entre la pesadilla del “cronista embustero” y el altar del “celoso misionero” ¿Gloria o vergüenza de la España del Siglo de Oro?",
+          "url": "https://blogelpuente.blogspot.com/2026/06/fray-bartolome-de-las-casas-entre-la.html",
+          "date": "14/06/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en el Ángelus, 14-6-2026: «Jesús ve, ama y sufre por nosotros; debemos llevar el consuelo de Dios a los que sufren: caridad donde hay miseria, esperanza donde hay aflicción, fe donde hay desconfianza»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-en-el-angelus-14-6-2026.html",
+          "title": "Jesús Cabello, cantautor católico al que la Virgen sanó de una leucemia: «Tuve un encuentro con Jesucristo impresionante y supe que está vivo y que tengo una misión»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2020/07/jesus-cabello-cantautor-catolico-al-que.html",
           "date": "14/06/2026"
         }
       ]
@@ -22,18 +34,6 @@
           "title": "Del estado confesional al estado anticatólico en México: 1824-1874",
           "url": "https://elobservadorenlinea.com/2026/06/del-estado-confesional-al-estado-anticatolico-en-mexico-1824-1874/?utm_source=rss&utm_medium=rss&utm_campaign=del-estado-confesional-al-estado-anticatolico-en-mexico-1824-1874",
           "date": "14/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "“Si ellos pudieron, ¿por qué yo no?” los santos propuestos y citados por el papa en su visita a españa",
-          "url": "https://blogelpuente.blogspot.com/2026/06/si-ellos-pudieron-por-que-yo-no-los.html",
-          "date": "12/06/2026"
         }
       ]
     },
