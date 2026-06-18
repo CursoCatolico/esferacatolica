@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-18T05:25:40.413Z",
+  "updated": "2026-06-18T11:02:11.142Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Desirée López, tras preguntar al Papa León Xiv ‘¿cómo puedo perdonar a mi padre?’: «Encontrarme con el Señor dio sentido a todo lo que viví; hoy no cambiaría nada, porque si lo hiciera no estaría donde estoy ahora»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/desiree-lopez-tras-preguntar-al-papa.html",
+          "date": "18/06/2026"
+        }
+      ]
+    },
     {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
@@ -10,18 +22,6 @@
           "title": "Síndrome post aborto",
           "url": "https://www.wikitolica.com/s/sindrome-post-aborto/",
           "date": "18/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv en la Audiencia General, 17-6-2026: «¡Alcemos la mirada! Aprendamos de Jesús a mirar al prójimo, la gente, el mundo, ‘con los ojos de Dios’, es decir, con amor, respeto y compasión»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/06/papa-leon-xiv-en-la-audiencia-general.html",
-          "date": "17/06/2026"
         }
       ]
     },
