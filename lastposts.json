@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-19T11:09:03.539Z",
+  "updated": "2026-06-19T15:54:27.044Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Bateas novohispanas: El brillo de una encrucijada cultural en el Museo de América",
+          "url": "https://blogelpuente.blogspot.com/2026/06/bateas-novohispanas-el-brillo-de-una.html",
+          "date": "19/06/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -19,9 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Una mirada de fe ante el progreso tecnológico según Magnifica humanitas",
-          "url": "https://elobservadorenlinea.com/2026/06/una-mirada-de-fe-ante-el-progreso-tecnologico-segun-magnifica-humanitas/?utm_source=rss&utm_medium=rss&utm_campaign=una-mirada-de-fe-ante-el-progreso-tecnologico-segun-magnifica-humanitas",
-          "date": "18/06/2026"
+          "title": "La semana del Papa León Xiv",
+          "url": "https://elobservadorenlinea.com/2026/06/la-semana-del-papa-leon-xiv-22/?utm_source=rss&utm_medium=rss&utm_campaign=la-semana-del-papa-leon-xiv-22",
+          "date": "19/06/2026"
         }
       ]
     },
@@ -34,18 +46,6 @@
           "title": "Síndrome post aborto",
           "url": "https://www.wikitolica.com/s/sindrome-post-aborto/",
           "date": "18/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Fray bartolomé de las casas: Entre la pesadilla del “cronista embustero” y el altar del “celoso misionero” ¿Gloria o vergüenza de la España del Siglo de Oro?",
-          "url": "https://blogelpuente.blogspot.com/2026/06/fray-bartolome-de-las-casas-entre-la.html",
-          "date": "14/06/2026"
         }
       ]
     },
