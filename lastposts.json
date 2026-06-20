@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T09:54:20.409Z",
+  "updated": "2026-06-20T14:57:30.615Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,6 +9,18 @@
         {
           "title": "Christophe Flippo ha sido 21 años masón y ha vuelto al catolicismo al pedírselo su esposa Claire : «En la fe cristiana, eres salvado por la redención de Jesucristo. En la masonería y la alquimia, intentas salvarte a ti mismo»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/06/christophe-flippo-ha-sido-21-anos-mason.html",
+          "date": "20/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "¡No tengan miedo!",
+          "url": "https://elobservadorenlinea.com/2026/06/no-tengan-miedo-2/?utm_source=rss&utm_medium=rss&utm_campaign=no-tengan-miedo-2",
           "date": "20/06/2026"
         }
       ]
@@ -33,18 +45,6 @@
         {
           "title": "Siete apartados selectos de la encíclica \"Magnifica humanitas\" presentados por Fabrice Hadjadj",
           "url": "https://blogelpuente.blogspot.com/2026/06/siete-apartados-selectos-de-la.html",
-          "date": "19/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "El Observador 1615",
-          "url": "https://elobservadorenlinea.com/2026/06/el-observador-1615/?utm_source=rss&utm_medium=rss&utm_campaign=el-observador-1615",
           "date": "19/06/2026"
         }
       ]
