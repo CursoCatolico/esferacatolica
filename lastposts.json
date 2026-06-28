@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T09:48:53.104Z",
+  "updated": "2026-06-28T14:29:08.169Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,6 +9,18 @@
         {
           "title": "Tito Unda: «Tenía formación cristiana, pero me he encontrado con Cristo a los 36 años en un retiro carismático; la Gracia tocó mi corazón y me sentí amado por Dios de un modo que nunca había experimentado»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/06/tito-unda-tenia-formacion-cristiana.html",
+          "date": "28/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Un hombre llamado Juan",
+          "url": "https://elobservadorenlinea.com/2026/06/un-hombre-llamado-juan/?utm_source=rss&utm_medium=rss&utm_campaign=un-hombre-llamado-juan",
           "date": "28/06/2026"
         }
       ]
@@ -33,18 +45,6 @@
         {
           "title": "Huellas de la tremenda guerra que ayudan a alzar la mirada desde el alto de los leones",
           "url": "https://blogelpuente.blogspot.com/2026/06/huellas-de-la-tremenda-guerra-que.html",
-          "date": "27/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Obispos de Venezuela convocan Jornada de Oración por las víctimas del terremoto",
-          "url": "https://elobservadorenlinea.com/2026/06/obispos-de-venezuela-convocan-jornada-de-oracion-por-las-victimas-del-terremoto/?utm_source=rss&utm_medium=rss&utm_campaign=obispos-de-venezuela-convocan-jornada-de-oracion-por-las-victimas-del-terremoto",
           "date": "27/06/2026"
         }
       ]
