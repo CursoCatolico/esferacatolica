@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-28T20:02:59.459Z",
+  "updated": "2026-06-29T05:20:22.763Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Oasis en alto del león",
+          "url": "https://blogelpuente.blogspot.com/2026/06/oasis-en-alto-del-leon.html",
+          "date": "28/06/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -34,18 +46,6 @@
           "title": "El catolicismo en América del Sur",
           "url": "https://www.wikitolica.com/e/el-catolicismo-en-america-del-sur/",
           "date": "28/06/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Huellas de la tremenda guerra que ayudan a alzar la mirada desde el alto de los leones",
-          "url": "https://blogelpuente.blogspot.com/2026/06/huellas-de-la-tremenda-guerra-que.html",
-          "date": "27/06/2026"
         }
       ]
     },
