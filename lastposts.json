@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T05:12:42.802Z",
+  "updated": "2026-07-01T10:34:49.928Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,7 +9,7 @@
         {
           "title": "Mattie Karr, dejó su trabajo y se dedica al arte sacro:: «Sufrí una depresión y Dios me sanó; sé que Jesús es realmente bueno, me ama y quiere estar presente en cada aspecto de mi vida»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/06/mattie-karr-dejo-su-trabajo-y-se-dedica.html",
-          "date": "30/06/2026"
+          "date": "01/07/2026"
         }
       ]
     },
@@ -26,18 +26,6 @@
       ]
     },
     {
-      "name": "Enciclopedia Católica",
-      "url": "https://www.wikitolica.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Solemnidad de la Preciosísima Sangre de Cristo",
-          "url": "https://www.wikitolica.com/s/solemnidad-de-la-preciosisima-sangre-de-cristo/",
-          "date": "29/06/2026"
-        }
-      ]
-    },
-    {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
@@ -46,6 +34,18 @@
           "title": "Oasis en alto del león",
           "url": "https://blogelpuente.blogspot.com/2026/06/oasis-en-alto-del-leon.html",
           "date": "28/06/2026"
+        }
+      ]
+    },
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Acta Sanctae Sedis",
+          "url": "https://www.wikitolica.com/a/acta-sanctae-sedis/",
+          "date": "24/06/2026"
         }
       ]
     },
