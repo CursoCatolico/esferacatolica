@@ -1,14 +1,26 @@
 {
-  "updated": "2026-07-04T09:11:15.130Z",
+  "updated": "2026-07-04T14:20:34.776Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Madrid, Corazón de los andes: El legado de perú resplandece en el museo de américa",
+          "url": "https://blogelpuente.blogspot.com/2026/07/httpswwwculturagobesmuseodeamericavisit.html",
+          "date": "04/07/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Katie Flanagan: «Oraba con las Escrituras y escuche la llamada de Dios: 'deberías ser monja'; trabajaba de profesora pero me acompañaban esas palabras; ante el Santísimo Sacramento acepté la voluntad de Dios y soy religiosa»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/katie-flanagan-oraba-con-las-escrituras.html",
+          "title": "Papa León Xiv en homilía en Lampedusa, 4-7-2026: «No hay amor de Dios sin amor al prójimo y no hay prójimo si yo no me acerco; llorar ante el dolor de otros como Jesús es entrar en el movimiento del amor, en el que Dios se ha revelado»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/papa-leon-xiv-en-homilia-en-lampedusa-4.html",
           "date": "04/07/2026"
         }
       ]
@@ -19,21 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Infiernos hospitalarios: negligencia, impunidad y violencia institucional en los sistemas de salud",
-          "url": "https://elobservadorenlinea.com/2026/07/infiernos-hospitalarios-negligencia-impunidad-y-violencia-institucional-en-los-sistemas-de-salud/?utm_source=rss&utm_medium=rss&utm_campaign=infiernos-hospitalarios-negligencia-impunidad-y-violencia-institucional-en-los-sistemas-de-salud",
-          "date": "03/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "12 Protagonistas magníficos (8 mujeres, 4 varones) en la historia de la humanidad",
-          "url": "https://blogelpuente.blogspot.com/2026/07/12-protagonistas-magnificos-8-mujeres-4.html",
-          "date": "02/07/2026"
+          "title": "España: encontrarse con un fundamento no ideológico, la clave",
+          "url": "https://elobservadorenlinea.com/2026/07/espana-encontrarse-con-un-fundamento-no-ideologico-la-clave/?utm_source=rss&utm_medium=rss&utm_campaign=espana-encontrarse-con-un-fundamento-no-ideologico-la-clave",
+          "date": "04/07/2026"
         }
       ]
     },
