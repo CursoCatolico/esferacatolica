@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-05T04:46:28.342Z",
+  "updated": "2026-07-05T09:32:12.727Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Katie Flanagan: «Oraba con las Escrituras y escuche la llamada de Dios: 'deberías ser monja'; trabajaba de profesora pero me acompañaban esas palabras; ante el Santísimo Sacramento acepté la voluntad de Dios y soy religiosa»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/katie-flanagan-oraba-con-las-escrituras.html",
+          "date": "05/07/2026"
+        }
+      ]
+    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "Madrid, Corazón de los andes: El legado de perú resplandece en el museo de américa",
           "url": "https://blogelpuente.blogspot.com/2026/07/httpswwwculturagobesmuseodeamericavisit.html",
-          "date": "04/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv en homilía en Lampedusa, 4-7-2026: «No hay amor de Dios sin amor al prójimo y no hay prójimo si yo no me acerco; llorar ante el dolor de otros como Jesús es entrar en el movimiento del amor, en el que Dios se ha revelado»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/papa-leon-xiv-en-homilia-en-lampedusa-4.html",
           "date": "04/07/2026"
         }
       ]
