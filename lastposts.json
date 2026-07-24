@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T14:29:40.747Z",
+  "updated": "2026-07-24T20:06:41.591Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Dos nuevos milagros atribuidos a San Charbel en 2026: La abogada Georgianne Walker de Eeuu sanada de una seria infección en el abdomen y la libanesa Racha Charbel de un tumor en la columna vertebral",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/01/dos-nuevos-milagros-atribuidos-san.html",
+          "title": "Muere Ann Teresa O’Neill, con 78 años, curada de leucemia cuando tenía 4; este milagro hizo santa a Isabel Ana Seton: «‘¡La sangre se ha normalizado! ¡Está bien! ¡Está mejor que la mía!’»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/muere-ann-teresa-oneill-con-78-anos.html",
+          "date": "24/07/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Venezuela: cuando la tierra tembló y la Iglesia sostuvo la esperanza",
+          "url": "https://elobservadorenlinea.com/2026/07/venezuela-cuando-la-tierra-temblo-y-la-iglesia-sostuvo-la-esperanza/?utm_source=rss&utm_medium=rss&utm_campaign=venezuela-cuando-la-tierra-temblo-y-la-iglesia-sostuvo-la-esperanza",
           "date": "24/07/2026"
         }
       ]
@@ -21,18 +33,6 @@
         {
           "title": "Don Pedro de la Gasca, pacificador del Perú",
           "url": "https://blogelpuente.blogspot.com/2026/07/don-pedro-de-la-gasca-pacificador-del.html",
-          "date": "23/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Lo crucial de la formación",
-          "url": "https://elobservadorenlinea.com/2026/07/lo-crucial-de-la-formacion/?utm_source=rss&utm_medium=rss&utm_campaign=lo-crucial-de-la-formacion",
           "date": "23/07/2026"
         }
       ]
