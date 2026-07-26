@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-26T04:18:45.433Z",
+  "updated": "2026-07-26T09:05:39.970Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Alza la mirada, escala la cumbre. Campamento de Gredos 2026",
+          "url": "https://blogelpuente.blogspot.com/2026/07/alza-la-mirada-escala-la-cumbre.html",
+          "date": "26/07/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,7 +21,7 @@
         {
           "title": "Olivier-Pierre Dionga, futbolista: «Había hecho un ídolo del fútbol, pero en la Jmj de Panamá puse a Dios en el centro de mi vida, y dije: 'Aquí estoy Señor, te encomiendo mi vida, ¡te toca a Ti!'»",
           "url": "https://escucharlavozdelamor.blogspot.com/2024/09/olivier-pierre-dionga-futbolista-habia.html",
-          "date": "25/07/2026"
+          "date": "26/07/2026"
         }
       ]
     },
@@ -22,18 +34,6 @@
           "title": "Dios mismo es el tesoro oculto",
           "url": "https://elobservadorenlinea.com/2026/07/dios-mismo-es-el-tesoro-oculto/?utm_source=rss&utm_medium=rss&utm_campaign=dios-mismo-es-el-tesoro-oculto",
           "date": "25/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Don Pedro de la Gasca, pacificador del Perú",
-          "url": "https://blogelpuente.blogspot.com/2026/07/don-pedro-de-la-gasca-pacificador-del.html",
-          "date": "23/07/2026"
         }
       ]
     },
