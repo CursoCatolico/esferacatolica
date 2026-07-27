@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-27T04:28:12.986Z",
+  "updated": "2026-07-27T10:29:58.120Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Olivier-Pierre Dionga, futbolista: «Había hecho un ídolo del fútbol, pero en la Jmj de Panamá puse a Dios en el centro de mi vida, y dije: 'Aquí estoy Señor, te encomiendo mi vida, ¡te toca a Ti!'»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2024/09/olivier-pierre-dionga-futbolista-habia.html",
+          "date": "27/07/2026"
+        }
+      ]
+    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "Siervo de Dios Gregorio López (Madrid 1542-México 1596), primer ermitaño de América",
           "url": "https://blogelpuente.blogspot.com/2026/07/siervo-de-dios-gregorio-lopez-madrid.html",
-          "date": "26/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv en el Ángelus, 26-7-2026: «Debemos aprender a captar lo que realmente importa: el tesoro de la relación con Dios, que nos abre a la alegría y nos ayuda a vivir mejor las relaciones entre nosotros»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/07/papa-leon-xiv-en-el-angelus-26-7-2026.html",
           "date": "26/07/2026"
         }
       ]
