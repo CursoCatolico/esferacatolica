@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-28T03:52:31.268Z",
+  "updated": "2026-07-28T09:28:26.853Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Tres horas atrapado con 'La Odisea' de Nolan",
+          "url": "https://blogelpuente.blogspot.com/2026/07/tres-horas-atrapado-con-la-odisea-de.html",
+          "date": "28/07/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,7 +21,7 @@
         {
           "title": "Íñigo María Prieto Delic, el bebé milagro que nació sin riñones: «La única opción fue abortar o esperar a que falleciera; la fe nos ha ayudado a vivir mirando al cielo sabiendo que la vida está en manos de Dios»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/07/inigo-maria-prieto-delic-el-bebe.html",
-          "date": "27/07/2026"
+          "date": "28/07/2026"
         }
       ]
     },
@@ -22,18 +34,6 @@
           "title": "Notas a la proclamación de fe de los lefebvristas",
           "url": "https://elobservadorenlinea.com/2026/07/notas-a-la-proclamacion-de-fe-de-los-lefebvristas/?utm_source=rss&utm_medium=rss&utm_campaign=notas-a-la-proclamacion-de-fe-de-los-lefebvristas",
           "date": "27/07/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Siervo de Dios Gregorio López (Madrid 1542-México 1596), primer ermitaño de América",
-          "url": "https://blogelpuente.blogspot.com/2026/07/siervo-de-dios-gregorio-lopez-madrid.html",
-          "date": "26/07/2026"
         }
       ]
     },
