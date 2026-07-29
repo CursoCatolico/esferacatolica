@@ -1,18 +1,6 @@
 {
-  "updated": "2026-07-29T03:56:26.711Z",
+  "updated": "2026-07-29T09:30:24.022Z",
   "blogs": [
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Tres horas atrapado con 'La Odisea' de Nolan",
-          "url": "https://blogelpuente.blogspot.com/2026/07/tres-horas-atrapado-con-la-odisea-de.html",
-          "date": "28/07/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -21,6 +9,18 @@
         {
           "title": "Bradley Cooper, actor: «Comprendí que Dios está en todo, en cada pequeño detalle de nuestra existencia; rezar me mantiene centrado; pido la sabiduría para ser un buen hombre y padre y para no perder el camino»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/07/bradley-cooper-actor-comprendi-que-dios.html",
+          "date": "29/07/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Tres horas atrapado con 'La Odisea' de Nolan",
+          "url": "https://blogelpuente.blogspot.com/2026/07/tres-horas-atrapado-con-la-odisea-de.html",
           "date": "28/07/2026"
         }
       ]
@@ -43,8 +43,8 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Los siete Signos del Evangelio de San Juan",
-          "url": "https://www.wikitolica.com/l/los-siete-signos-del-evangelio-de-san-juan/",
+          "title": "Uso cristiano del maquillaje",
+          "url": "https://www.wikitolica.com/u/uso-cristiano-del-maquillaje/",
           "date": "28/07/2026"
         }
       ]
