@@ -2,7 +2,7 @@ name: Update lastposts.json
 
 on:
   schedule:
-    - cron: '0 1,7,13,19 * * *'
+    - cron: '0 1,13 * * *'
   workflow_dispatch:
 
 jobs:
