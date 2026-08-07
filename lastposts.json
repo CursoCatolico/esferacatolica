@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-06T15:11:48.498Z",
+  "updated": "2026-08-07T03:48:13.213Z",
   "blogs": [
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv a los jóvenes en Asís, 6-8-2026: «De san Francisco aprendan la radicalidad evangélica: no los vuelve ciegos ni violentos, sino sensibles, atentos, siempre en el seguimiento de Jesús, humildes y acogiendo a todos»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/papa-leon-xiv-los-jovenes-en-asis-6-8.html",
-          "date": "06/08/2026"
-        }
-      ]
-    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Ansiedad y estrés",
-          "url": "https://elobservadorenlinea.com/2026/08/ansiedad-y-estres/?utm_source=rss&utm_medium=rss&utm_campaign=ansiedad-y-estres",
-          "date": "05/08/2026"
+          "title": "El agradecimiento de los jóvenes al Papa: «Hoy nos sentimos Iglesia»",
+          "url": "https://elobservadorenlinea.com/2026/08/el-agradecimiento-de-los-jovenes-al-papa-hoy-nos-sentimos-iglesia/?utm_source=rss&utm_medium=rss&utm_campaign=el-agradecimiento-de-los-jovenes-al-papa-hoy-nos-sentimos-iglesia",
+          "date": "07/08/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Goran Tomašević, olímpico de waterpolo: «Al terminar el Camino de Santiago entregué mi vida a Cristo; hablé con Dios y le dije: ‘Estoy listo; estoy a tu servicio. Puedo llevar lo que sea necesario para ti’»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/goran-tomasevic-olimpico-de-waterpolo.html",
+          "date": "06/08/2026"
         }
       ]
     },
