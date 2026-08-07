@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-07T03:48:13.213Z",
+  "updated": "2026-08-07T14:11:48.762Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "José Ricardo González del Alba, artista sacro: «Yo oro, hablo con Dios, le pido al Espíritu Santo su inspiración y siempre pinto rezando el rosario para que sea Él quien actúe a través de mis manos»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/jose-ricardo-gonzalez-del-alba-artista.html",
+          "date": "07/08/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
@@ -14,26 +26,14 @@
       ]
     },
     {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Goran Tomašević, olímpico de waterpolo: «Al terminar el Camino de Santiago entregué mi vida a Cristo; hablé con Dios y le dije: ‘Estoy listo; estoy a tu servicio. Puedo llevar lo que sea necesario para ti’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/goran-tomasevic-olimpico-de-waterpolo.html",
-          "date": "06/08/2026"
-        }
-      ]
-    },
-    {
       "name": "Enciclopedia Católica",
       "url": "https://www.wikitolica.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Profeta Balaam",
-          "url": "https://www.wikitolica.com/p/profeta-balaam/",
-          "date": "04/08/2026"
+          "title": "Santa Mama Antula (María Antonia de Paz y Figueroa)",
+          "url": "https://www.wikitolica.com/s/santa-mama-antula-maria-antonia-de-paz-y-figueroa/",
+          "date": "06/08/2026"
         }
       ]
     },
