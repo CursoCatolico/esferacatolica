@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-09T03:00:52.049Z",
+  "updated": "2026-08-09T13:46:56.870Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "De Connecticut a Chiclayo: El Legado inquebrantable de Monseñor Juan Tomis Stack",
+          "url": "https://blogelpuente.blogspot.com/2026/08/de-connecticut-chiclayo-el-legado.html",
+          "date": "09/08/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,7 +21,7 @@
         {
           "title": "José Ricardo González del Alba, artista sacro: «Yo oro, hablo con Dios, le pido al Espíritu Santo su inspiración y siempre pinto rezando el rosario para que sea Él quien actúe a través de mis manos»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/08/jose-ricardo-gonzalez-del-alba-artista.html",
-          "date": "08/08/2026"
+          "date": "09/08/2026"
         }
       ]
     },
@@ -19,9 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "El mal no puede tanto. La ética del bien posible",
-          "url": "https://elobservadorenlinea.com/2026/08/el-mal-no-puede-tanto-la-etica-del-bien-posible/?utm_source=rss&utm_medium=rss&utm_campaign=el-mal-no-puede-tanto-la-etica-del-bien-posible",
-          "date": "08/08/2026"
+          "title": "A 15 años de la primavera árabe la iglesia sigue firme en Siria: “Queremos quedarnos”",
+          "url": "https://elobservadorenlinea.com/2026/08/a-15-anos-de-la-primavera-arabe-la-iglesia-sigue-firme-en-siria-queremos-quedarnos/?utm_source=rss&utm_medium=rss&utm_campaign=a-15-anos-de-la-primavera-arabe-la-iglesia-sigue-firme-en-siria-queremos-quedarnos",
+          "date": "09/08/2026"
         }
       ]
     },
@@ -34,18 +46,6 @@
           "title": "Verificabilidad de los hechos de la Biblia",
           "url": "https://www.wikitolica.com/v/verificabilidad-de-los-hechos-de-la-biblia/",
           "date": "08/08/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Tres horas atrapado con 'La Odisea' de Nolan",
-          "url": "https://blogelpuente.blogspot.com/2026/07/tres-horas-atrapado-con-la-odisea-de.html",
-          "date": "28/07/2026"
         }
       ]
     },
