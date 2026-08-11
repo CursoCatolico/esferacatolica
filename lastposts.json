@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-10T14:18:43.271Z",
+  "updated": "2026-08-11T03:02:49.012Z",
   "blogs": [
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "“La Iglesia seguirá atenta a ayudar”: el obispo de Pereira ante la devastación del terremoto en Colombia",
+          "url": "https://elobservadorenlinea.com/2026/08/la-iglesia-seguira-atenta-a-ayudar-el-obispo-de-pereira-ante-la-devastacion-del-terremoto-en-colombia/?utm_source=rss&utm_medium=rss&utm_campaign=la-iglesia-seguira-atenta-a-ayudar-el-obispo-de-pereira-ante-la-devastacion-del-terremoto-en-colombia",
+          "date": "11/08/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -9,18 +21,6 @@
         {
           "title": "José Ricardo González del Alba, artista sacro: «Yo oro, hablo con Dios, le pido al Espíritu Santo su inspiración y siempre pinto rezando el rosario para que sea Él quien actúe a través de mis manos»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/08/jose-ricardo-gonzalez-del-alba-artista.html",
-          "date": "10/08/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Nicaragua: La libertad religiosa es coartada y la democracia derrumbada",
-          "url": "https://elobservadorenlinea.com/2026/08/nicaragua-la-libertad-religiosa-es-coartada-y-la-democracia-derrumbada/?utm_source=rss&utm_medium=rss&utm_campaign=nicaragua-la-libertad-religiosa-es-coartada-y-la-democracia-derrumbada",
           "date": "10/08/2026"
         }
       ]
