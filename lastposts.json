@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-12T14:19:01.312Z",
+  "updated": "2026-08-13T03:25:14.517Z",
   "blogs": [
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Karina Plasencia: «Mi vida se desmoronaba y empecé en la Nueva Era, pero fui liberada en un retiro ante el Santísimo donde dije: ‘Jesús si existes muéstramelo, ven a buscarme y pido perdón por pensar que yo era Dios'»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2024/02/karina-plasencia-mi-vida-se-desmoronaba.html",
-          "date": "12/08/2026"
-        }
-      ]
-    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Testigos del Reino – «La fuerza de Dios en la debilidad»",
-          "url": "https://elobservadorenlinea.com/2026/08/testigos-del-reino-la-fuerza-de-dios-en-la-debilidad/?utm_source=rss&utm_medium=rss&utm_campaign=testigos-del-reino-la-fuerza-de-dios-en-la-debilidad",
-          "date": "11/08/2026"
+          "title": "¿Qué espera el Vaticano de la Iglesia en México? | Entrevista con el Cardenal Pietro Parolin",
+          "url": "https://elobservadorenlinea.com/2026/08/que-espera-el-vaticano-de-la-iglesia-en-mexico-entrevista-con-el-cardenal-pietro-parolin/?utm_source=rss&utm_medium=rss&utm_campaign=que-espera-el-vaticano-de-la-iglesia-en-mexico-entrevista-con-el-cardenal-pietro-parolin",
+          "date": "13/08/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en la Audiencia General, 12-8-2026: «Llamados a santificar el domingo con la celebración de la Eucaristía de manera presencial, atentos a la escucha de la Palabra y la comunión del Cuerpo de Cristo»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/papa-leon-xiv-en-la-audiencia-general.html",
+          "date": "12/08/2026"
         }
       ]
     },
