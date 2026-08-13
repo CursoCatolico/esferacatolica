@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-13T03:25:14.517Z",
+  "updated": "2026-08-13T14:21:06.662Z",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Devin Hays: «Me alejé de la fe en la secundaria, me diagnosticaron cáncer y me entregué a Dios: ‘Sea cual sea tu voluntad, es tu voluntad. Solo ayúdame a superar la parte mental’ y ahora atiendo a niños hospitalizados»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/devin-hays-me-aleje-de-la-fe-en-la.html",
+          "date": "13/08/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
@@ -10,18 +22,6 @@
           "title": "¿Qué espera el Vaticano de la Iglesia en México? | Entrevista con el Cardenal Pietro Parolin",
           "url": "https://elobservadorenlinea.com/2026/08/que-espera-el-vaticano-de-la-iglesia-en-mexico-entrevista-con-el-cardenal-pietro-parolin/?utm_source=rss&utm_medium=rss&utm_campaign=que-espera-el-vaticano-de-la-iglesia-en-mexico-entrevista-con-el-cardenal-pietro-parolin",
           "date": "13/08/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv en la Audiencia General, 12-8-2026: «Llamados a santificar el domingo con la celebración de la Eucaristía de manera presencial, atentos a la escucha de la Palabra y la comunión del Cuerpo de Cristo»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/papa-leon-xiv-en-la-audiencia-general.html",
-          "date": "12/08/2026"
         }
       ]
     },
