@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:40:59.535Z",
+  "updated": "2026-08-20T02:15:26.240Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -7,8 +7,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Patrick Bruen, sacerdote con 67 años, tras 40 casado y 3 hijos: «Mi matrimonio me enseñó lo que significa amar de verdad, y quiero poner el amor al servicio de Cristo y de su pueblo que me da una nueva misión que cumplir»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/patrick-bruen-sacerdote-con-67-anos.html",
+          "title": "Papa León Xiv en la Audiencia General, 19-8-2026: «Cantar, en la liturgia, significa rezar, las voces y los corazones sintonizan entre ellos y con Dios; cantar es propio del que ama y abre el corazón a dejarse modelar por Dios»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/08/papa-leon-xiv-en-la-audiencia-general_01327593133.html",
+          "date": "19/08/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "‘La guerra ha levantado una frontera dentro de las familias’: la voz de la Iglesia católica en Rusia",
+          "url": "https://elobservadorenlinea.com/2026/08/la-guerra-ha-levantado-una-frontera-dentro-de-las-familias-la-voz-de-la-iglesia-catolica-en-rusia/?utm_source=rss&utm_medium=rss&utm_campaign=la-guerra-ha-levantado-una-frontera-dentro-de-las-familias-la-voz-de-la-iglesia-catolica-en-rusia",
           "date": "19/08/2026"
         }
       ]
@@ -22,18 +34,6 @@
           "title": "Cómo rezar el acto de contrición",
           "url": "https://www.wikitolica.com/c/como-rezar-el-acto-de-contricion/",
           "date": "19/08/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "La salvación y la conciencia",
-          "url": "https://elobservadorenlinea.com/2026/08/la-salvacion-y-la-conciencia/?utm_source=rss&utm_medium=rss&utm_campaign=la-salvacion-y-la-conciencia",
-          "date": "18/08/2026"
         }
       ]
     },
