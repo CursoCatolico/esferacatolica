@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:52:14.306Z",
+  "updated": "2026-08-27T10:53:12.353Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,6 +9,18 @@
         {
           "title": "Nuria del Canal: «Me eduqué en un colegio del Opus Dei, me alejé de la fe, tenía atracción hacia el mundo demoníaco, hice muchas prácticas esotéricas, pero un día escuché la voz de Dios, me arrepentí y confesé»",
           "url": "https://escucharlavozdelamor.blogspot.com/2024/12/nuria-del-canal-me-eduque-en-un-colegio.html",
+          "date": "27/08/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "“Creer en sus historias”: la Iglesia ante el grito de las madres buscadoras en México",
+          "url": "https://elobservadorenlinea.com/2026/08/creer-en-sus-historias-la-iglesia-ante-el-grito-de-las-madres-buscadoras-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=creer-en-sus-historias-la-iglesia-ante-el-grito-de-las-madres-buscadoras-en-mexico",
           "date": "26/08/2026"
         }
       ]
@@ -22,18 +34,6 @@
           "title": "Colores litúrgicos",
           "url": "https://www.wikitolica.com/c/colores-liturgicos/",
           "date": "26/08/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Iglesia investiga posible manifestación eucarística en Cuilapa Guatemala",
-          "url": "https://elobservadorenlinea.com/2026/08/iglesia-investiga-posible-manifestacion-eucaristica-en-cuilapa-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=iglesia-investiga-posible-manifestacion-eucaristica-en-cuilapa-guatemala",
-          "date": "25/08/2026"
         }
       ]
     },
