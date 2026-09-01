@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-01T06:00:01.340Z",
+  "updated": "2026-09-01T17:08:29.236Z",
   "blogs": [
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "El escándalo del amor total",
-          "url": "https://elobservadorenlinea.com/2026/08/el-escandalo-del-amor-total/?utm_source=rss&utm_medium=rss&utm_campaign=el-escandalo-del-amor-total",
-          "date": "01/09/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Itzel quedó poseída al practicar la Wicca: «La voz ordenaba que me golpearan y clamé: ‘Me pongo en tus manos, Virgencita’. Fui a Guadalupe y oré a Cristo Rey. He renacido»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2023/08/itzel-quedo-poseida-al-practicar-la.html",
-          "date": "31/08/2026"
+          "title": "Pablo De Maio: «Estaba abocado a la lujuria, a las relaciones informales, y fue como si san Miguel me clavara su espada y me extirpara un tumor maligno; me hizo una cirugía espiritual; fue el inicio de mi conversión»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/pablo-de-maio-estaba-abocado-la-lujuria.html",
+          "date": "01/09/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Cuando un ateo empieza a creer",
+          "url": "https://elobservadorenlinea.com/2026/09/cuando-un-ateo-empieza-a-creer/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-un-ateo-empieza-a-creer",
+          "date": "01/09/2026"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Vita Consecrata",
-          "url": "https://www.wikitolica.com/v/vita-consecrata/",
-          "date": "31/08/2026"
+          "title": "Tertio Millennio Adveniente",
+          "url": "https://www.wikitolica.com/t/tertio-millennio-adveniente/",
+          "date": "01/09/2026"
         }
       ]
     },
