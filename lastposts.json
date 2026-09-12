@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-11T16:54:13.591Z",
+  "updated": "2026-09-12T05:23:08.690Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Riccardi, Andrea La Iglesia arde (La crisis del cristianismo hoy: entre la agonía y el resurgimiento), Arpa, Barcelona, 2022, 278 pp",
+          "url": "https://blogelpuente.blogspot.com/2026/09/riccardi-andrea-la-iglesia-arde-la.html",
+          "date": "11/09/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -46,18 +58,6 @@
           "title": "Tercer secreto de Fátima",
           "url": "https://www.wikitolica.com/t/tercer-secreto-de-fatima/",
           "date": "11/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Celestino García Marcos, luchador por la libertad, hijo ilustre de Rollán (+ 15.8.2026)",
-          "url": "https://blogelpuente.blogspot.com/2026/09/celestino-garcia-marcos-luchador-por-la.html",
-          "date": "04/09/2026"
         }
       ]
     },
