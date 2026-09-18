@@ -1,15 +1,27 @@
 {
-  "updated": "2026-09-18T05:32:07.899Z",
+  "updated": "2026-09-18T16:55:14.269Z",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Perdonar",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/09/18/perdonar/",
+          "date": "18/09/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Fede Carranza, cantante de Jésed: «Era inseguro, me aboqué en la pornografía, la sexualidad y el alcohol hasta que dije: ‘Señor, ya no quiero estar lejos de ti. Extraño vivir en paz. Quiero corregir el rumbo’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2024/12/fede-carranza-cantante-de-jesed-era.html",
-          "date": "17/09/2026"
+          "title": "John Edwards era Bautista, cambió la fe por las drogas y en prisión «Jesús habló a mi corazón: `lo intentaste, ahora tienes una nueva vida y te vas a ir de aquí conmigo’»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2023/11/john-edwards-era-bautista-cambio-la-fe.html",
+          "date": "18/09/2026"
         }
       ]
     },
@@ -34,18 +46,6 @@
           "title": "Santo Domingo Savio",
           "url": "https://www.wikitolica.com/s/santo-domingo-savio/",
           "date": "17/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "La exaltación de la cruz",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/09/14/la-exaltaci%C3%B3n-de-la-cruz/",
-          "date": "14/09/2026"
         }
       ]
     },
