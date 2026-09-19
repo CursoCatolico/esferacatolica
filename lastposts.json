@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-19T05:28:39.002Z",
+  "updated": "2026-09-19T16:13:00.300Z",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Antonio Bellella cardiel (ed.) Afrontar la reducción. Caminando y habitando en el desierto. 2026",
+          "url": "https://blogelpuente.blogspot.com/2026/09/antonio-bellella-cardiel-ed-afrontar-la.html",
+          "date": "19/09/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Adnaloy Estrada se alejó de Dios, se adentró en la New age, era proaborto, odiaba a su padre, en un Curso Alpha rezó, fue a Medjugorje y «me enamoré de Jesucristo»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2019/06/adnaloy-estrada-se-alejo-de-dios-se.html",
+          "date": "19/09/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador de la Actualidad",
       "url": "https://elobservadorenlinea.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "El Observador 1628",
-          "url": "https://elobservadorenlinea.com/2026/09/el-observador-1628/?utm_source=rss&utm_medium=rss&utm_campaign=el-observador-1628",
+          "title": "Cómo abrieron las iglesias en Veracruz (Segunda parte)",
+          "url": "https://elobservadorenlinea.com/2026/09/como-abrieron-las-iglesias-en-veracruz-segunda-parte/?utm_source=rss&utm_medium=rss&utm_campaign=como-abrieron-las-iglesias-en-veracruz-segunda-parte",
+          "date": "19/09/2026"
+        }
+      ]
+    },
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Tribunal de la Rota Romana",
+          "url": "https://www.wikitolica.com/t/tribunal-de-la-rota-romana/",
           "date": "19/09/2026"
         }
       ]
@@ -22,42 +58,6 @@
           "title": "Perdonar",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/09/18/perdonar/",
           "date": "18/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "John Edwards era Bautista, cambió la fe por las drogas y en prisión «Jesús habló a mi corazón: `lo intentaste, ahora tienes una nueva vida y te vas a ir de aquí conmigo’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2023/11/john-edwards-era-bautista-cambio-la-fe.html",
-          "date": "18/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "Enciclopedia Católica",
-      "url": "https://www.wikitolica.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Santo Domingo Savio",
-          "url": "https://www.wikitolica.com/s/santo-domingo-savio/",
-          "date": "17/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Salamanca por dentro en 90 minutos",
-          "url": "https://blogelpuente.blogspot.com/2026/09/salamanca-por-dentro-en-90-minutos.html",
-          "date": "13/09/2026"
         }
       ]
     },
