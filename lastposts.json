@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-18T16:55:14.269Z",
+  "updated": "2026-09-19T05:28:39.002Z",
   "blogs": [
+    {
+      "name": "El Observador de la Actualidad",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "El Observador 1628",
+          "url": "https://elobservadorenlinea.com/2026/09/el-observador-1628/?utm_source=rss&utm_medium=rss&utm_campaign=el-observador-1628",
+          "date": "19/09/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -22,18 +34,6 @@
           "title": "John Edwards era Bautista, cambió la fe por las drogas y en prisión «Jesús habló a mi corazón: `lo intentaste, ahora tienes una nueva vida y te vas a ir de aquí conmigo’»",
           "url": "https://escucharlavozdelamor.blogspot.com/2023/11/john-edwards-era-bautista-cambio-la-fe.html",
           "date": "18/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador de la Actualidad",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "El Papa: Nuevos mártires son asesinados porque se oponen a las injusticias",
-          "url": "https://elobservadorenlinea.com/2026/09/el-papa-nuevos-martires-son-asesinados-porque-se-oponen-a-las-injusticias/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-nuevos-martires-son-asesinados-porque-se-oponen-a-las-injusticias",
-          "date": "17/09/2026"
         }
       ]
     },
