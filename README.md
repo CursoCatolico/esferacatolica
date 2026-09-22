@@ -4,18 +4,30 @@ Agregador de blogs católicos en español. Reúne los últimos artículos de los
 ## 🧩 ¿Cómo funciona?
 
 ```
-feeds.json     →         fetch-feeds.mjs          →   lastposts.json
-   (manual)       (GitHub Actions, 6h y 18h UTC)      (jsDelivr CDN)
+feeds.json     →         fetch-feeds.mjs          →   lastposts-<dominio>.json (+ lastposts.json)
+   (manual)       (GitHub Actions, 1h y 13h UTC)                (jsDelivr CDN)
 ```
 
 1. Se mantiene manualmente una lista de blogs aprobados en `feeds.json`.
 2. GitHub Actions ejecuta `fetch-feeds.mjs` dos veces al día.
-3. El resultado se publica en `lastposts.json` y queda disponible vía jsDelivr.
+3. El resultado es **un fichero por dominio** (`lastposts-<dominio>.json`, con el host
+   en minúsculas y sin `www.`, p. ej. `lastposts-elobservadorenlinea.com.json`). Cada
+   fichero contiene un máximo de 5 blogs por **reparto aleatorio y equitativo**: todos
+   los dominios aparecen un número similar de veces para un descubrimiento justo.
+4. La asignación es **estable** (no cambia a diario) y **solo se recalcula** cuando un
+   dominio entra o sale de `feeds.json`. Subir `PER_DOMAIN_SALT` a `v2` en
+   `fetch-feeds.mjs` fuerza una remezcla manual completa. Las bajas eliminan su
+   fichero automáticamente.
+5. `lastposts.json` es una réplica para compatibilidad con widgets antiguos ya
+   instalados. Todo queda disponible vía jsDelivr.
+6. El widget pide el fichero de su propio dominio y, si aún no existe, recurre al
+   global.
 
 
 Disponible vía CDN en:
 ```
 https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts.json
+https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts-<dominio>.json
 ```
 
 ## 🌐 Participar

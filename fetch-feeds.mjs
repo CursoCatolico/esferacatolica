@@ -1,5 +1,6 @@
 // fetch-feeds.mjs
-import { readFileSync, writeFileSync } from 'fs';
+import { createHash } from 'crypto';
+import { readdirSync, readFileSync, unlinkSync, writeFileSync } from 'fs';
 
 const MAX_PER_FEED    = 1;
 const MAX_TITLE       = 320;
@@ -291,6 +292,192 @@ async function fetchBlog({ name, url, feed }, cached) {
   }
 }
 
+// ── reparto por dominio ────────────────────────────────────────────────────
+// Global lastposts.json = réplica del fichero legacy (widgets viejos cacheados
+// siguen viendo lo mismo sin actualizar el .js).
+// Por dominio: lastposts-<host>.json con [W + self + 3 invitados] (W: 4
+// invitados), máx 5, ordenados por fecha como antes.
+// Invitados estables (hash permanente H|C|v1) + recálculo hill-climbing que
+// minimiza (1) pares recíprocos, (2) desbalance, (3) cambios vs previo.
+// Subir PER_DOMAIN_SALT a 'v2' fuerza una remezcla manual completa.
+
+const PER_DOMAIN_SALT = 'v1';
+const GLOBAL_MAX      = 5;
+const GUESTS_PER_FILE = 3;
+// Host cuyo fichero se replica como lastposts.json global (tiene el widget
+// viejo cacheado). Si desaparece: fallback a wikitolica, luego al primero.
+const LEGACY_HOST = 'elobservadorenlinea.com';
+
+const blogHost = url => {
+  try { return new URL(url).hostname.replace(/^www\./, '').toLowerCase(); }
+  catch { return ''; }
+};
+const WIKITOLICA_HOST = blogHost('https://www.wikitolica.com/');
+
+const hash32 = s => createHash('sha256').update(s).digest().readUInt32BE(0);
+const pairScore = (h, c) => hash32(`${h}|${c}|${PER_DOMAIN_SALT}`);
+
+const slotCount = host => (host === WIKITOLICA_HOST ? GLOBAL_MAX - 1 : GUESTS_PER_FILE);
+
+// Lee asignación previa (membresía, no orden): Map<host, Set<guestHost>>
+function loadPrevAssignment() {
+  const prev = new Map();
+  let files = [];
+  try { files = readdirSync('.'); } catch { return prev; }
+  for (const f of files) {
+    if (!/^lastposts-.+\.json$/.test(f)) continue;
+    try {
+      const data = JSON.parse(readFileSync(f, 'utf8'));
+      const owner = data.forDomain || f.slice('lastposts-'.length, -'.json'.length);
+      const set = new Set();
+      for (const b of data.blogs ?? []) {
+        const h = blogHost(b.url || '');
+        if (h && h !== WIKITOLICA_HOST && h !== owner) set.add(h);
+      }
+      if (owner) prev.set(owner, set);
+    } catch { /* fichero corrupto: se ignora y se recalculará */ }
+  }
+  return prev;
+}
+
+function prevAssignmentValid(prev, hosts) {
+  if (prev.size !== hosts.length) return false;
+  const set = new Set(hosts);
+  for (const h of hosts) {
+    const g = prev.get(h);
+    if (!g || g.size !== Math.min(slotCount(h), hosts.filter(x => x !== WIKITOLICA_HOST && x !== h).length)) return false;
+    for (const c of g) if (!set.has(c) || c === WIKITOLICA_HOST || c === h) return false;
+  }
+  return true;
+}
+
+// Métricas (W excluido de reciprocidad y balance por ser obligatorio)
+function countReciprocal(assign, hosts) {
+  const nonW = hosts.filter(h => h !== WIKITOLICA_HOST);
+  let n = 0;
+  for (let i = 0; i < nonW.length; i++)
+    for (let j = i + 1; j < nonW.length; j++) {
+      const a = nonW[i], b = nonW[j];
+      if (assign.get(a)?.has(b) && assign.get(b)?.has(a)) n++;
+    }
+  return n;
+}
+
+function appearanceSpread(assign, hosts) {
+  const nonW = hosts.filter(h => h !== WIKITOLICA_HOST);
+  let lo = Infinity, hi = -Infinity;
+  for (const d of nonW) {
+    let n = 0;
+    for (const h of hosts) if (assign.get(h)?.has(d) || h === d) n++;
+    // h===d cuenta la aparición como self; los invitados vía assign
+    if (n < lo) lo = n;
+    if (n > hi) hi = n;
+  }
+  return nonW.length ? hi - lo : 0;
+}
+
+// Hill-climbing con deltas: cada swap g->c se evalúa sin mutar ni recalcular
+// métricas completas. Solo el spread recorre el mapa de apariciones O(N);
+// recíprocos y tocados son O(1). Rápido aunque N crezca en el Action.
+function buildPerDomainAssignment(hosts, prev) {
+  const sorted = [...hosts].sort();
+  const nonW = new Set(sorted.filter(h => h !== WIKITOLICA_HOST));
+  const candidatesOf = h => sorted.filter(c => c !== WIKITOLICA_HOST && c !== h);
+  // Init: anillo sobre orden pseudo-aleatorio permanente → balance casi perfecto
+  // y recíprocos mínimos desde el inicio; el hill-climbing solo pule.
+  const ring = sorted.filter(h => h !== WIKITOLICA_HOST)
+    .sort((a, b) => hash32(`ring|${a}|${PER_DOMAIN_SALT}`) - hash32(`ring|${b}|${PER_DOMAIN_SALT}`) || (a < b ? -1 : 1));
+  const assign = new Map();
+  for (const h of sorted) {
+    if (h === WIKITOLICA_HOST) {
+      assign.set(h, new Set(
+        candidatesOf(h)
+          .sort((a, b) => pairScore(h, b) - pairScore(h, a) || (a < b ? -1 : 1))
+          .slice(0, Math.min(slotCount(h), candidatesOf(h).length))
+      ));
+    } else {
+      const guests = [];
+      const idx = ring.indexOf(h);
+      for (let k = 1; k < ring.length && guests.length < Math.min(slotCount(h), ring.length - 1); k++)
+        guests.push(ring[(idx + k) % ring.length]);
+      assign.set(h, new Set(guests));
+    }
+  }
+
+  // Estado incremental
+  let rec = 0;
+  for (const a of sorted) {
+    if (!nonW.has(a)) continue;
+    for (const b of assign.get(a))
+      if (nonW.has(b) && a < b && assign.get(b)?.has(a)) rec++;
+  }
+  const app = new Map([...nonW].map(d => [d, 1])); // 1 = aparición como self
+  for (const h of sorted) for (const g of assign.get(h)) app.set(g, (app.get(g) ?? 0) + 1);
+  const spreadOf = m => {
+    let lo = Infinity, hi = -Infinity;
+    for (const n of m.values()) { if (n < lo) lo = n; if (n > hi) hi = n; }
+    return hi - lo;
+  };
+  // ¿Difiere el set actual del fichero h respecto al previo?
+  const isDirty = (h, set) => {
+    const p = prev.get(h);
+    return !p || p.size !== set.size || [...set].some(x => !p.has(x));
+  };
+  let dirty = 0;
+  for (const h of sorted) if (isDirty(h, assign.get(h))) dirty++;
+  let spread = spreadOf(app);
+
+  const POOL = 12; // candidatos por swap: exacto con N pequeña, heurístico si N crece
+  const maxIter = 5 * sorted.length + 50;
+  for (let iter = 0; iter < maxIter; iter++) {
+    let move = null;
+    for (const h of sorted) {
+      const cur = assign.get(h);
+      if (!cur.size) continue;
+      const hNonW = nonW.has(h);
+      const wasDirty = isDirty(h, cur);
+      const p = prev.get(h);
+      const pool = candidatesOf(h).filter(x => !cur.has(x))
+        .sort((a, b) => pairScore(h, b) - pairScore(h, a))
+        .slice(0, POOL);
+      for (const g of [...cur].sort()) {
+        const losesRec = hNonW && nonW.has(g) && assign.get(g)?.has(h);
+        for (const c of pool) {
+          const gainsRec = hNonW && nonW.has(c) && assign.get(c)?.has(h);
+          const r = rec - (losesRec ? 1 : 0) + (gainsRec ? 1 : 0);
+          if (r > rec) continue; // poda: no mejora el objetivo principal
+          let lo = Infinity, hi = -Infinity;
+          for (const [d, n] of app) {
+            const v = d === g ? n - 1 : d === c ? n + 1 : n;
+            if (v < lo) lo = v;
+            if (v > hi) hi = v;
+          }
+          const s = hi - lo;
+          if (r > rec || (r === rec && s > spread)) continue;
+          // Tras el swap el set tendría el mismo tamaño: solo cambia dirty si
+          // c no estaba en el previo o algún retenido falta en el previo.
+          const nowDirty = !p || p.size !== cur.size || !p.has(c) ||
+            [...cur].some(x => x !== g && !p.has(x));
+          const d = dirty - (wasDirty ? 1 : 0) + (nowDirty ? 1 : 0);
+          if (r === rec && s === spread && d >= dirty) continue;
+          if (!move || r < move.r || (r === move.r && (s < move.s || (s === move.s && d < move.d))))
+            move = { h, g, c, r, s, d };
+        }
+      }
+    }
+    if (!move) break;
+    const cur = assign.get(move.h);
+    cur.delete(move.g);
+    cur.add(move.c);
+    rec = move.r;
+    app.set(move.g, app.get(move.g) - 1);
+    app.set(move.c, (app.get(move.c) ?? 0) + 1);
+    dirty = move.d;
+    spread = move.s;
+  }
+  return { assign, metrics: { reciprocal: rec, spread, changed: dirty } };
+}
+
 // ── main ───────────────────────────────────────────────────────────────────
 
 const feeds = JSON.parse(readFileSync('feeds.json', 'utf8'));
@@ -305,9 +492,48 @@ const raw = await Promise.all(
   feeds.map(f => fetchBlog(f, cachedMap.get(sanitizeURL(f.url))))
 );
 
-const blogs = raw
-  .sort((a, b) => (b._latest > a._latest ? 1 : -1))
-  .map(({ _latest, ...rest }) => rest);
+const withLatest = raw.sort((a, b) => (b._latest > a._latest ? 1 : -1));
+const blogs = withLatest.map(({ _latest, ...rest }) => rest);
+const rankByUrl = new Map(blogs.map((b, i) => [b.url, i]));
 
-writeFileSync('lastposts.json', JSON.stringify({ updated: new Date().toISOString(), blogs }, null, 2));
-console.log(`\n✅ lastposts.json → ${blogs.length} blogs`);
+const byHost = new Map();
+for (const b of blogs) {
+  const h = blogHost(b.url);
+  if (h && !byHost.has(h)) byHost.set(h, b);
+}
+const hosts = [...byHost.keys()].sort();
+const updated = new Date().toISOString();
+
+// Por dominio: reutilizar membresía si N no cambió; recalcular si hay altas/bajas
+const prevAssign = loadPrevAssignment();
+let assign, metrics, mode;
+if (prevAssignmentValid(prevAssign, hosts)) {
+  assign = prevAssign;
+  metrics = { reciprocal: countReciprocal(assign, hosts), spread: appearanceSpread(assign, hosts), changed: 0 };
+  mode = 'estable (N sin cambios)';
+} else {
+  ({ assign, metrics } = buildPerDomainAssignment(hosts, prevAssign));
+  mode = prevAssign.size ? 'recalculado (alta/baja)' : 'inicial';
+}
+
+const fileBlogsByHost = new Map();
+for (const h of hosts) {
+  const guests = assign.get(h) ?? new Set();
+  const wanted = new Set([WIKITOLICA_HOST, h, ...guests]);
+  const fileBlogs = [...wanted]
+    .map(x => byHost.get(x))
+    .filter(Boolean)
+    .sort((a, b) => (rankByUrl.get(a.url) ?? 0) - (rankByUrl.get(b.url) ?? 0))
+    .slice(0, GLOBAL_MAX);
+  fileBlogsByHost.set(h, fileBlogs);
+  writeFileSync(`lastposts-${h}.json`, JSON.stringify({ updated, forDomain: h, blogs: fileBlogs }, null, 2));
+}
+console.log(`✅ lastposts-<dominio>.json → ${hosts.length} ficheros (${mode}) | recíprocos=${metrics.reciprocal} desbalance=${metrics.spread} cambiados=${metrics.changed}`);
+
+// Global = réplica del fichero legacy (widgets viejos cacheados ven lo mismo)
+const legacyKey = fileBlogsByHost.has(LEGACY_HOST) ? LEGACY_HOST
+  : fileBlogsByHost.has(WIKITOLICA_HOST) ? WIKITOLICA_HOST
+  : [...fileBlogsByHost.keys()][0];
+const legacyBlogs = legacyKey ? fileBlogsByHost.get(legacyKey) : [];
+writeFileSync('lastposts.json', JSON.stringify({ updated, blogs: legacyBlogs }, null, 2));
+console.log(`✅ lastposts.json → réplica de lastposts-${legacyKey}.json (${legacyBlogs.length} blogs)`);

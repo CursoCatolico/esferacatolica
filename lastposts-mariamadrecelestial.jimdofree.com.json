@@ -1,5 +1,6 @@
 {
   "updated": "2026-09-22T10:45:48.468Z",
+  "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -38,6 +39,18 @@
       ]
     },
     {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Antonio Bellella cardiel (ed.) Afrontar la reducción. Caminando y habitando en el desierto. 2026",
+          "url": "https://blogelpuente.blogspot.com/2026/09/antonio-bellella-cardiel-ed-afrontar-la.html",
+          "date": "19/09/2026"
+        }
+      ]
+    },
+    {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
@@ -46,18 +59,6 @@
           "title": "Perdonar",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/09/18/perdonar/",
           "date": "18/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "Una historia de tres",
-      "url": "https://www.unahistoriadetres.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA4VBMVEVHcEzp1tHr3tzNysvYu8fi7OsAAADd397g3uTRurjAtLWRiozj7uvOzMy4tbqv0uHl6+jd7OTeyZ/m2N7ezdTx9/Ti3tHs8+/r9PHl5ufk8uvo08Ly1bT23M7i19z14dfn2rjl4OLm4Nnkq4DapH3j0qjx1r7s1Mbw1K/R4ezexs3j2NW+1uPn05/M3ujjto/myJPk0rPj0szl19niyLbcv6zOtr+SvdDuvZKdxdbs6+7mw6jm7uH25ufv4eXZuaTfn27AobLNv8e3lJy1tK/0zKR3prqywMXn5szf5tjn6NM0s7NAAAAAGHRSTlMA4P18/XAJSv59WTLXIif8Hvvf39jX+vf6OUHOAAAA00lEQVQYlU2P527CQBCEFzDcGQIG0q753HC3ZYroPT15/wfKYUAwv3Y+jbQzAKW6CHXhpnqPEUJe61f/wNiG/Sn0fPGxAnbOfgh5KvNZHPd+85VPiEx0BQwjW2Y+xr5LNU0DaNP5fPm9TjEezZLjrA1oRb8+Fl5RTMXi/c1BgChND95gEInPYuwo0KHU3XuKrBPfSd0OwIubV6fjiZQTOZRYfanZNuch5zwIh7vaqUjfHokoikQQWo9l00bFCkzTtMS20riM0fkJVPW7va1ms3W+/gGzRBfRR3EKZgAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Lo que aprendimos del fracaso al emprender",
-          "url": "https://www.unahistoriadetres.com/lo-que-aprendimos-del-fracaso-al-emprender/",
-          "date": "25/11/2023"
         }
       ]
     }
