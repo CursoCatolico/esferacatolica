@@ -18,8 +18,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add -A lastposts.json 'lastposts-*.json'
+          git add -A lastposts.json 'lastposts-*.json' allposts.json
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update lastposts.json + lastposts-<dominio>.json"
+            git commit -m "chore: update lastposts*.json + allposts.json"
             git push
           fi

@@ -1,6 +1,5 @@
 {
   "updated": "2026-09-22T13:05:49.331Z",
-  "forDomain": "unahistoriadetres.com",
   "blogs": [
     {
       "name": "María Madre Celestial",
@@ -10,6 +9,18 @@
         {
           "title": "Amor eucarístico",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/09/22/amor-eucar%C3%ADstico/",
+          "date": "22/09/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Lizzetta Escalante: «Me alejé de Dios, pero ante una operación en la que podía morir oré: ‘Señor, todavía no te conozco lo suficiente como para vivir una eternidad contigo, no me lleves aún, déjame conocerte’»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2024/12/lizzetta-escalante-me-aleje-de-dios.html",
           "date": "22/09/2026"
         }
       ]

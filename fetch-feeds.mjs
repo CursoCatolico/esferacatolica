@@ -537,3 +537,7 @@ const legacyKey = fileBlogsByHost.has(LEGACY_HOST) ? LEGACY_HOST
 const legacyBlogs = legacyKey ? fileBlogsByHost.get(legacyKey) : [];
 writeFileSync('lastposts.json', JSON.stringify({ updated, blogs: legacyBlogs }, null, 2));
 console.log(`✅ lastposts.json → réplica de lastposts-${legacyKey}.json (${legacyBlogs.length} blogs)`);
+
+// allposts.json = todos los blogs (el botón "ver más" del widget lo descarga bajo demanda)
+writeFileSync('allposts.json', JSON.stringify({ updated, blogs }, null, 2));
+console.log(`✅ allposts.json → ${blogs.length} blogs`);

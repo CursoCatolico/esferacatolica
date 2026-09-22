@@ -21,13 +21,15 @@ feeds.json     →         fetch-feeds.mjs          →   lastposts-<dominio>.js
 5. `lastposts.json` es una réplica para compatibilidad con widgets antiguos ya
    instalados. Todo queda disponible vía jsDelivr.
 6. El widget pide el fichero de su propio dominio y, si aún no existe, recurre al
-   global.
+   global. Su botón "Ver más webs" descarga bajo demanda `allposts.json` con todos
+   los blogs y añade los no mostrados.
 
 
 Disponible vía CDN en:
 ```
 https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts.json
 https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/lastposts-<dominio>.json
+https://cdn.jsdelivr.net/gh/CursoCatolico/esferacatolica@main/allposts.json
 ```
 
 ## 🌐 Participar
