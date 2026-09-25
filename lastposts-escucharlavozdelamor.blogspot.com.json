@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-25T05:46:38.997Z",
+  "updated": "2026-09-25T17:45:16.645Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en la Unesco en París, 25-9-2026: «El alma humana, en su relación con Dios, percibe la llamada a cultivar la paz en una alianza entre pueblos que se reconocen como hijos del mismo Padre y como hermanos»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/papa-leon-xiv-en-la-unesco-en-paris-25.html",
+          "date": "25/09/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -10,18 +22,6 @@
         {
           "title": "Queremos ser felices?",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/09/24/queremos-ser-felices/",
-          "date": "24/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Lizzetta Escalante: «Me alejé de Dios, pero ante una operación en la que podía morir oré: ‘Señor, todavía no te conozco lo suficiente como para vivir una eternidad contigo, no me lleves aún, déjame conocerte’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2024/12/lizzetta-escalante-me-aleje-de-dios.html",
           "date": "24/09/2026"
         }
       ]
