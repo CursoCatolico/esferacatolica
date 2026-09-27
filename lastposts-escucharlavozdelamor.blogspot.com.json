@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-27T06:10:58.345Z",
+  "updated": "2026-09-27T17:27:57.533Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en homilía en Lourdes, 27-9-2026: «La Virgen nos pide que hagamos penitencia, no sólo por nosotros mismos, que la necesitamos, sino también ‘por los pecadores’, por un mundo que va mal»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/papa-leon-xiv-en-homilia-en-lourdes-27.html",
+          "date": "27/09/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -10,18 +22,6 @@
         {
           "title": "Poder del nombre de jesús",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/09/26/poder-del-nombre-de-jes%C3%BAs/",
-          "date": "26/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Papa León Xiv ora ante la Virgen de Lourdes, 26-9-2026: «Te confiamos a nuestros seres queridos y a los difuntos: aparta todos los obstáculos que todavía nos separan de tu Hijo amado y haz que Él reine en todos los corazones»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/papa-leon-xiv-ora-ante-la-virgen-de.html",
           "date": "26/09/2026"
         }
       ]
