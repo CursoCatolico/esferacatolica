@@ -1,15 +1,27 @@
 {
-  "updated": "2026-09-27T17:27:57.533Z",
+  "updated": "2026-09-28T06:17:59.328Z",
   "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Tamayo, P. Manuel Toribio y León. Vidas y caminos paralelos (Cdsco, Lima, 2026, 112 pp)",
+          "url": "https://blogelpuente.blogspot.com/2026/09/tamayo-p-manuel-toribio-y-leon-vidas-y.html",
+          "date": "27/09/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en homilía en Lourdes, 27-9-2026: «La Virgen nos pide que hagamos penitencia, no sólo por nosotros mismos, que la necesitamos, sino también ‘por los pecadores’, por un mundo que va mal»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/papa-leon-xiv-en-homilia-en-lourdes-27.html",
+          "title": "Papa León Xiv en el Rosario en Lourdes, 27-9- 2026: «Virgen Inmaculada, que la luz que llevamos esta noche en nuestras manos no se apague en nuestras vidas, ilumine el futuro, abriéndonos a las promesas de la vida eterna»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/09/papa-leon-xiv-en-el-rosario-en.html",
           "date": "27/09/2026"
         }
       ]
@@ -47,18 +59,6 @@
           "title": "Wiclefismo",
           "url": "https://www.wikitolica.com/w/wiclefismo/",
           "date": "24/09/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Antonio Bellella cardiel (ed.) Afrontar la reducción. Caminando y habitando en el desierto. 2026",
-          "url": "https://blogelpuente.blogspot.com/2026/09/antonio-bellella-cardiel-ed-afrontar-la.html",
-          "date": "19/09/2026"
         }
       ]
     }
