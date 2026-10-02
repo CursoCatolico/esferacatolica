@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-01T18:40:59.123Z",
+  "updated": "2026-10-02T06:39:46.186Z",
   "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Y jesús lloró",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/01/y-jes%C3%BAs-llor%C3%B3/",
+          "date": "01/10/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -35,18 +47,6 @@
           "title": "Oración de abandono de Charles de Foucauld",
           "url": "https://www.wikitolica.com/o/oracion-de-abandono-de-charles-de-foucauld/",
           "date": "01/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Porque setiembre es el mes de la biblia",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/09/30/porque-setiembre-es-el-mes-de-la-biblia/",
-          "date": "30/09/2026"
         }
       ]
     },
