@@ -1,15 +1,27 @@
 {
-  "updated": "2026-10-03T06:00:45.077Z",
+  "updated": "2026-10-03T16:57:25.999Z",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Vivir el momento",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/03/vivir-el-momento/",
+          "date": "03/10/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Lydie se sumergió en el espiritismo para comunicarse con su abuela fallecida: «Un médium me dijo que fuera a un centro católico; Dios decidió intervenir para decirme: \"¡Sal de ahí! ¡Es muy peligroso!»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2025/07/lydie-se-sumergio-en-el-espiritismo.html",
-          "date": "02/10/2026"
+          "title": "Francisco Javier Soriano era rebelde, se escapó de casa a los 17 años, iba con malas compañías, drogas y hoy es sacerdote: «Dios lo tenía planeado; no imaginaba su misericordia y su paciencia para esperar»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/francisco-javier-soriano-era-rebelde-se.html",
+          "date": "03/10/2026"
         }
       ]
     },
@@ -22,18 +34,6 @@
           "title": "El Observador 1630",
           "url": "https://elobservadorenlinea.com/2026/10/el-observador-1630/?utm_source=rss&utm_medium=rss&utm_campaign=el-observador-1630",
           "date": "02/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Y jesús lloró",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/01/y-jes%C3%BAs-llor%C3%B3/",
-          "date": "01/10/2026"
         }
       ]
     },
