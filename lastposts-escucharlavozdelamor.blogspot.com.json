@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-04T06:36:23.100Z",
+  "updated": "2026-10-04T17:16:35.152Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en el Ángelus, 4-10-2026: «Este es el modo en que el Todopoderoso guía la historia, socorriéndonos en todas nuestras caídas: ¡Dios nunca desecha nuestra vida!»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/papa-leon-xiv-en-el-angelus-4-10-2026.html",
+          "date": "04/10/2026"
+        }
+      ]
+    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
@@ -22,18 +34,6 @@
         {
           "title": "Vivir el momento",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/10/03/vivir-el-momento/",
-          "date": "03/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Francisco Javier Soriano era rebelde, se escapó de casa a los 17 años, iba con malas compañías, drogas y hoy es sacerdote: «Dios lo tenía planeado; no imaginaba su misericordia y su paciencia para esperar»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/francisco-javier-soriano-era-rebelde-se.html",
           "date": "03/10/2026"
         }
       ]
