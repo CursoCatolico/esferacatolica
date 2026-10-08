@@ -1,28 +1,16 @@
 {
-  "updated": "2026-10-08T06:58:49.167Z",
+  "updated": "2026-10-08T19:07:59.718Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "El rosario, una oración celestial",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/07/el-rosario-una-oraci%C3%B3n-celestial/",
-          "date": "07/10/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en la Audiencia General, 7-10-2026: «Adorando a Cristo, el Justo que murió por los injustos, el creyente no puede aceptar la opresión de los pequeños y de los pobres, ni las estructuras injustas»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/papa-leon-xiv-en-la-audiencia-general-7.html",
-          "date": "07/10/2026"
+          "title": "Jim Murphy tuvo una experiencia mística que lo transformó, caminó 6.300 km con una cruz evangelizando y vuelve a Madrid a predicar: «Veía a Jesús en la Cruz y me dijo: ‘Pasé esto para ser parte de tu vida’»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/jim-murphy-tuvo-una-experiencia-mistica.html",
+          "date": "08/10/2026"
         }
       ]
     },
@@ -32,9 +20,21 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Surco (libro de San Josemaría)",
-          "url": "https://www.wikitolica.com/s/surco-libro-de-san-josemaria/",
-          "date": "06/10/2026"
+          "title": "Rahab",
+          "url": "https://www.wikitolica.com/r/rahab/",
+          "date": "08/10/2026"
+        }
+      ]
+    },
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "El rosario, una oración celestial",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/07/el-rosario-una-oraci%C3%B3n-celestial/",
+          "date": "07/10/2026"
         }
       ]
     },
