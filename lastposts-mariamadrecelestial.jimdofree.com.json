@@ -1,16 +1,28 @@
 {
-  "updated": "2026-10-09T07:06:58.729Z",
+  "updated": "2026-10-09T18:38:26.041Z",
   "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "No nos sintamos huerfanos",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/09/no-nos-sintamos-huerfanos/",
+          "date": "09/10/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Jim Murphy tuvo una experiencia mística que lo transformó, caminó 6.300 km con una cruz evangelizando y vuelve a Madrid a predicar: «Veía a Jesús en la Cruz y me dijo: ‘Pasé esto para ser parte de tu vida’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/jim-murphy-tuvo-una-experiencia-mistica.html",
-          "date": "08/10/2026"
+          "title": "Pablo García y Lola Sánchez tienen 6 hijos, 3 de ellos adoptados con necesidades especiales: «Abrazamos el plan de Dios, el plan B, de bueno; ojalá cada día podamos abandonarnos más a la voluntad del Señor»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/pablo-garcia-y-lola-sanchez-tienen-6.html",
+          "date": "09/10/2026"
         }
       ]
     },
@@ -20,9 +32,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "«Youcat Love Forever» Una guía para los jóvenes",
-          "url": "https://elobservadorenlinea.com/2026/10/youcat-love-forever-una-guia-para-los-jovenes/?utm_source=rss&utm_medium=rss&utm_campaign=youcat-love-forever-una-guia-para-los-jovenes",
-          "date": "08/10/2026"
+          "title": "Obispo de Aguascalientes responde a amenazas: ‘Estoy tranquilo, es un juego de redes sociales’",
+          "url": "https://elobservadorenlinea.com/2026/10/obispo-de-aguascalientes-responde-a-amenazas-estoy-tranquilo-es-un-juego-de-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=obispo-de-aguascalientes-responde-a-amenazas-estoy-tranquilo-es-un-juego-de-redes-sociales",
+          "date": "09/10/2026"
         }
       ]
     },
@@ -35,18 +47,6 @@
           "title": "Rahab",
           "url": "https://www.wikitolica.com/r/rahab/",
           "date": "08/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "El rosario, una oración celestial",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/07/el-rosario-una-oraci%C3%B3n-celestial/",
-          "date": "07/10/2026"
         }
       ]
     },
