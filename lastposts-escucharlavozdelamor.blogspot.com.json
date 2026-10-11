@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-11T06:47:04.624Z",
+  "updated": "2026-10-11T17:53:32.887Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en el Ángelus, 11-10-2026: «Me han detectado un nódulo en el pulmón en una fase muy temprana y he decidido operarme para removerlo; agradezco su cercanía espiritual y me encomiendo a sus oraciones»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/papa-leon-xiv-en-el-angelus-11-10-2026.html",
+          "date": "11/10/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -10,18 +22,6 @@
         {
           "title": "Maria es nuestra guia",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/10/10/maria-es-nuestra-guia/",
-          "date": "10/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Devrim era musulmana y soñó con un anciano de blanco: «Soy Juan, San Juan, todo irá bien»; era Juan Xxiii que le cambió la vida y se bautizó católica",
-          "url": "https://escucharlavozdelamor.blogspot.com/2014/04/devrim-era-musulmana-y-sono-con-un.html",
           "date": "10/10/2026"
         }
       ]
