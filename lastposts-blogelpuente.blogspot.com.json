@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:47:05.342Z",
+  "updated": "2026-10-14T17:46:03.098Z",
   "forDomain": "blogelpuente.blogspot.com",
   "blogs": [
     {
@@ -8,8 +8,20 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Santa Misa de hoy, miércoles de la 28ª semana del Tiempo Ordinario, 14-10-2026",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/santa-misa-de-hoy-miercoles-de-la-28.html",
+          "title": "Isaac Longworth: «Vivía una doble vida y, avergonzado por mis pecados, mentía al confesarme hasta que me confesé con sinceridad y experimenté la misericordia y el amor incondicional de Jesús y soy sacerdote»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/isaac-longworth-vivia-una-doble-vida-y.html",
+          "date": "14/10/2026"
+        }
+      ]
+    },
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Teoría de las dos fuentes",
+          "url": "https://www.wikitolica.com/t/teoria-de-las-dos-fuentes/",
           "date": "14/10/2026"
         }
       ]
@@ -22,18 +34,6 @@
         {
           "title": "Hogar de fiesta en la tierra y hogar de fiesta en el cielo",
           "url": "https://elobservadorenlinea.com/2026/10/hogar-de-fiesta-en-la-tierra-y-hogar-de-fiesta-en-el-cielo/?utm_source=rss&utm_medium=rss&utm_campaign=hogar-de-fiesta-en-la-tierra-y-hogar-de-fiesta-en-el-cielo",
-          "date": "13/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "Enciclopedia Católica",
-      "url": "https://www.wikitolica.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Vetus Latina",
-          "url": "https://www.wikitolica.com/v/vetus-latina/",
           "date": "13/10/2026"
         }
       ]
