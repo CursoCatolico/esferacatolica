@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-13T19:43:58.729Z",
+  "updated": "2026-10-14T05:47:05.342Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Santa Misa de hoy, miércoles de la 28ª semana del Tiempo Ordinario, 14-10-2026",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/santa-misa-de-hoy-miercoles-de-la-28.html",
+          "date": "14/10/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -10,18 +22,6 @@
         {
           "title": "No pecar",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/10/13/no-pecar/",
-          "date": "13/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "«La intervención del Papa León Xiv ha concluido con éxito, en el plazo y de la forma previstos; el Santo Padre ha regresado a su habitación», informa la Santa Sede",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/la-intervencion-del-papa-leon-xiv-ha.html",
           "date": "13/10/2026"
         }
       ]
