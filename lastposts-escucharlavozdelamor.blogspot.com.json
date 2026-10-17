@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-16T17:09:15.610Z",
+  "updated": "2026-10-17T05:18:15.509Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Misterios Gozosos del Santo Rosario, desde el Santuario de Lourdes, 17-10-2026",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/misterios-gozosos-del-santo-rosario_0436073955.html",
+          "date": "17/10/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
@@ -10,18 +22,6 @@
         {
           "title": "Santos ángeles guardianes",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/10/16/santos-%C3%A1ngeles-guardianes/",
-          "date": "16/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Primeras imágenes del Papa León Xiv en el hospital Gemelli celebrando la misa de hoy y se anuncia que el domingo dirigirá la oración del Ángelus: realiza las actividades cotidianas habituales con total autonomía",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/primeras-imagenes-del-papa-leon-xiv-en.html",
           "date": "16/10/2026"
         }
       ]
