@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-24T05:22:04.223Z",
+  "updated": "2026-10-24T16:25:29.480Z",
   "forDomain": "escucharlavozdelamor.blogspot.com",
   "blogs": [
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "María Elena Rocha perdió a su esposo y sus dos hijos en el terremoto de Venezuela: «Dios es mi gran amigo y le agradezco por la vida; no estoy sola, porque le tengo a Él, y a la Santísima Virgen María, que sabe lo que es este dolor»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/maria-elena-rocha-perdio-su-esposo-y.html",
-          "date": "23/10/2026"
-        }
-      ]
-    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
       "lastPosts": [
         {
-          "title": "Rezar por los hijos, como santa mónica",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/22/rezar-por-los-hijos-como-santa-m%C3%B3nica/",
-          "date": "22/10/2026"
+          "title": "Qué hacenuestro angel guardian cuando morimos?",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/24/qu%C3%A9-hacenuestro-angel-guardian-cuando-morimos/",
+          "date": "24/10/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Elliott Moore, hijo de un pastor presbiteriano: «Abracé el catolicismo porque estar en la presencia física del cuerpo, la sangre, el alma y la divinidad de Jesucristo en la adoración eucarística me conmovió el corazón»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/10/elliott-moore-hijo-de-un-pastor.html",
+          "date": "24/10/2026"
         }
       ]
     },
@@ -32,9 +32,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Mantel de altar",
-          "url": "https://www.wikitolica.com/m/mantel-de-altar/",
-          "date": "22/10/2026"
+          "title": "Santa María Margarita de Youville",
+          "url": "https://www.wikitolica.com/s/santa-maria-margarita-de-youville/",
+          "date": "23/10/2026"
         }
       ]
     },
