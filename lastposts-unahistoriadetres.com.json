@@ -1,16 +1,28 @@
 {
-  "updated": "2026-11-01T07:06:41.450Z",
+  "updated": "2026-11-01T18:15:00.553Z",
   "forDomain": "unahistoriadetres.com",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Oracion para hoy, primero de noviembre",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/01/oracion-para-hoy-primero-de-noviembre/",
+          "date": "01/11/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador",
       "url": "https://elobservadorenlinea.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "El Papa ejerció su derecho al voto como ciudadano de los Estados Unidos",
-          "url": "https://elobservadorenlinea.com/2026/10/el-papa-ejercio-su-derecho-al-voto-como-ciudadano-de-los-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-ejercio-su-derecho-al-voto-como-ciudadano-de-los-estados-unidos",
-          "date": "31/10/2026"
+          "title": "Eugenia: Una historia de esperanza",
+          "url": "https://elobservadorenlinea.com/2026/11/eugenia-una-historia-de-esperanza/?utm_source=rss&utm_medium=rss&utm_campaign=eugenia-una-historia-de-esperanza",
+          "date": "01/11/2026"
         }
       ]
     },
@@ -34,18 +46,6 @@
         {
           "title": "Rosell de almeida, P. Carlos Ni un ratito con el Diablo (Paulinas peru, Lima 2024, 216 pp.)",
           "url": "https://blogelpuente.blogspot.com/2026/10/rosell-de-almeida-p-carlos-ni-un-ratito.html",
-          "date": "30/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Contemplar a cristo",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/10/30/contemplar-a-cristo/",
           "date": "30/10/2026"
         }
       ]
