@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:29:37.396Z",
+  "updated": "2026-11-01T07:06:41.450Z",
   "blogs": [
     {
       "name": "Camino Católico",
@@ -9,6 +9,18 @@
         {
           "title": "Homilía de Mons. Francisco Cerro, Arzobispo de Toledo, en la Misa funeral por las víctimas del accidente ferroviario de Urda, 31-10-2026",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/10/homilia-de-mons-francisco-cerro_0282097077.html",
+          "date": "31/10/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "El Papa ejerció su derecho al voto como ciudadano de los Estados Unidos",
+          "url": "https://elobservadorenlinea.com/2026/10/el-papa-ejercio-su-derecho-al-voto-como-ciudadano-de-los-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=el-papa-ejercio-su-derecho-al-voto-como-ciudadano-de-los-estados-unidos",
           "date": "31/10/2026"
         }
       ]
@@ -45,18 +57,6 @@
         {
           "title": "Contemplar a cristo",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/10/30/contemplar-a-cristo/",
-          "date": "30/10/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "La Santa Sede ante la Onu: que la exploración del espacio beneficie a todos",
-          "url": "https://elobservadorenlinea.com/2026/10/la-santa-sede-ante-la-onu-que-la-exploracion-del-espacio-beneficie-a-todos/?utm_source=rss&utm_medium=rss&utm_campaign=la-santa-sede-ante-la-onu-que-la-exploracion-del-espacio-beneficie-a-todos",
           "date": "30/10/2026"
         }
       ]
