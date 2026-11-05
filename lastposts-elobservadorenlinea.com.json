@@ -1,28 +1,16 @@
 {
-  "updated": "2026-11-05T07:41:01.948Z",
+  "updated": "2026-11-05T20:27:34.180Z",
   "forDomain": "elobservadorenlinea.com",
   "blogs": [
-    {
-      "name": "El Observador",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Ellas son las mujeres que hacen historia en la Iglesia: nuevos nombramientos en México y el Vaticano",
-          "url": "https://elobservadorenlinea.com/2026/11/ellas-son-las-mujeres-que-hacen-historia-en-la-iglesia-nuevos-nombramientos-en-mexico-y-el-vaticano/?utm_source=rss&utm_medium=rss&utm_campaign=ellas-son-las-mujeres-que-hacen-historia-en-la-iglesia-nuevos-nombramientos-en-mexico-y-el-vaticano",
-          "date": "05/11/2026"
-        }
-      ]
-    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
       "lastPosts": [
         {
-          "title": "Yo te doy mi corazón",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/04/yo-te-doy-mi-coraz%C3%B3n/",
-          "date": "04/11/2026"
+          "title": "Que te suceda como has creido",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/05/que-te-suceda-como-has-creido/",
+          "date": "05/11/2026"
         }
       ]
     },
@@ -32,9 +20,21 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Mario Aguado, superviviente del accidente de tren de Urda: «Dios estuvo presente desde el primer minuto, en la oración, en el corazón; me puse a rezar: ‘Señor Jesús, hijo de David, ten misericordia de mí, que soy un pecador’»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/mario-aguado-superviviente-del.html",
-          "date": "04/11/2026"
+          "title": "Álex Pérez: «Mi vida se sentía vacía, salía de fiesta, bebía en exceso y maltrataba mi cuerpo hasta que mi prometida me acercó de nuevo a Dios y encontré un propósito para cuidar mejor de la persona que el Señor me creó para ser»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/alex-perez-mi-vida-se-sentia-vacia.html",
+          "date": "05/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Un santo que consuela a un alma atribulada",
+          "url": "https://elobservadorenlinea.com/2026/11/un-santo-que-consuela-a-un-alma-atribulada/?utm_source=rss&utm_medium=rss&utm_campaign=un-santo-que-consuela-a-un-alma-atribulada",
+          "date": "05/11/2026"
         }
       ]
     },
