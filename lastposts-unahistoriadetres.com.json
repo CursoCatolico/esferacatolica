@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T18:12:02.350Z",
+  "updated": "2026-11-09T07:37:55.499Z",
   "forDomain": "unahistoriadetres.com",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Abelón, Zamora: Siete mujeres,una iglesia a oscuras y un ritual olvidado",
+          "url": "https://blogelpuente.blogspot.com/2026/11/abelon-zamora-siete-mujeresuna-iglesia.html",
+          "date": "08/11/2026"
+        }
+      ]
+    },
     {
       "name": "El Observador",
       "url": "https://elobservadorenlinea.com/",
@@ -35,18 +47,6 @@
           "title": "Como orar",
           "url": "https://mariamadrecelestial.jimdofree.com/2026/11/07/como-orar/",
           "date": "07/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Los santos, el «Gps de la sociedad»: Madrid acoge las Xiii Jornadas de las Causas de los Santos",
-          "url": "https://blogelpuente.blogspot.com/2026/11/los-santos-el-gps-de-la-sociedad-madrid.html",
-          "date": "05/11/2026"
         }
       ]
     },
