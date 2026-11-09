@@ -1,51 +1,15 @@
 {
-  "updated": "2026-11-09T07:37:55.499Z",
+  "updated": "2026-11-09T22:51:21.164Z",
   "blogs": [
-    {
-      "name": "Camino Católico",
-      "url": "https://escucharlavozdelamor.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Virgen de la Almudena luces y brillas como estrella radiante para guiar a tu pueblo con valentía ante un nuevo desdén al amor de tu Hijo / Por P. Carlos García Malo",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/virgen-de-la-almudena-luces-y-brillas.html",
-          "date": "09/11/2026"
-        }
-      ]
-    },
     {
       "name": "El Puente",
       "url": "https://blogelpuente.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
       "lastPosts": [
         {
-          "title": "Abelón, Zamora: Siete mujeres,una iglesia a oscuras y un ritual olvidado",
-          "url": "https://blogelpuente.blogspot.com/2026/11/abelon-zamora-siete-mujeresuna-iglesia.html",
-          "date": "08/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Observador",
-      "url": "https://elobservadorenlinea.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Ante los primeros síntomas",
-          "url": "https://elobservadorenlinea.com/2026/11/ante-los-primeros-sintomas/?utm_source=rss&utm_medium=rss&utm_campaign=ante-los-primeros-sintomas",
-          "date": "08/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "Enciclopedia Católica",
-      "url": "https://www.wikitolica.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
-      "lastPosts": [
-        {
-          "title": "Commixtio",
-          "url": "https://www.wikitolica.com/c/commixtio/",
-          "date": "08/11/2026"
+          "title": "Agustinos ejemplares del perú. En homenaje al papa agustino León Xiv, por su vuelta a casa en 2026",
+          "url": "https://blogelpuente.blogspot.com/2026/11/agustinos-ejemplares-del-peru-en.html",
+          "date": "09/11/2026"
         }
       ]
     },
@@ -55,9 +19,45 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
       "lastPosts": [
         {
-          "title": "Como orar",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/07/como-orar/",
-          "date": "07/11/2026"
+          "title": "No despreciar el rosario",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/09/no-despreciar-el-rosario/",
+          "date": "09/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "Camino Católico",
+      "url": "https://escucharlavozdelamor.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Papa León Xiv en homilía en Argentina, 9-11-2026: «La familia está llamada a compartir la oración, la lectura de la Palabra de Dios y la comunión eucarística para hacer crecer el amor y convertirse en templo donde habita el Espíritu»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/papa-leon-xiv-en-homilia-en-argentina-9.html",
+          "date": "09/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Observador",
+      "url": "https://elobservadorenlinea.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "‘La economía debe estar al servicio de la persona’: León Xiv apuntilla desde la doctrina la crisis argentina",
+          "url": "https://elobservadorenlinea.com/2026/11/la-economia-debe-estar-al-servicio-de-la-persona-leon-xiv-apuntilla-desde-la-doctrina-la-crisis-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=la-economia-debe-estar-al-servicio-de-la-persona-leon-xiv-apuntilla-desde-la-doctrina-la-crisis-argentina",
+          "date": "09/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "Enciclopedia Católica",
+      "url": "https://www.wikitolica.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
+      "lastPosts": [
+        {
+          "title": "Transición española y la Iglesia",
+          "url": "https://www.wikitolica.com/t/transicion-espanola-y-la-iglesia/",
+          "date": "09/11/2026"
         }
       ]
     },
