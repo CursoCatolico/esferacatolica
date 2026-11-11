@@ -1,16 +1,28 @@
 {
-  "updated": "2026-11-11T07:28:57.568Z",
+  "updated": "2026-11-11T19:59:31.295Z",
   "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "Santos, Beatos, Venerables Y Siervos de dios de argentina destacados por el Papa León",
+          "url": "https://blogelpuente.blogspot.com/2026/11/santos-beatos-venerables-y-siervos-de.html",
+          "date": "11/11/2026"
+        }
+      ]
+    },
     {
       "name": "María Madre Celestial",
       "url": "https://mariamadrecelestial.jimdofree.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
       "lastPosts": [
         {
-          "title": "Las pruebas de la vida",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/10/las-pruebas-de-la-vida/",
-          "date": "10/11/2026"
+          "title": "A veces no vemos",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/11/a-veces-no-vemos/",
+          "date": "11/11/2026"
         }
       ]
     },
@@ -20,9 +32,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Papa León Xiv en homilía en Argentina, 10-11-2026: «Llamados a la santidad para alcanzar la perfecta unión con Dios, dar a conocer a los demás la belleza que hemos conocido en Cristo y enseñar la sana doctrina»",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/papa-leon-xiv-en-homilia-en-argentina.html",
-          "date": "10/11/2026"
+          "title": "Papa León Xiv en homilía en Argentina, 11-11-2026: «No tengan miedo, Dios está con nosotros; alégrense y sean fuertes, con la fuerza que viene del Señor»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/papa-leon-xiv-en-homilia-en-argentina_01554511148.html",
+          "date": "11/11/2026"
         }
       ]
     },
@@ -32,9 +44,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Ale Funk 1258: la propuesta musical y digital para dar a conocer a la beata Chiara Luce",
-          "url": "https://elobservadorenlinea.com/2026/11/ale-funk-1258-la-propuesta-musical-y-digital-para-dar-a-conocer-a-la-beata-chiara-luce/?utm_source=rss&utm_medium=rss&utm_campaign=ale-funk-1258-la-propuesta-musical-y-digital-para-dar-a-conocer-a-la-beata-chiara-luce",
-          "date": "10/11/2026"
+          "title": "En un minuto, la cuarta jornada de León Xiv en América Latina",
+          "url": "https://elobservadorenlinea.com/2026/11/en-un-minuto-la-cuarta-jornada-de-leon-xiv-en-america-latina/?utm_source=rss&utm_medium=rss&utm_campaign=en-un-minuto-la-cuarta-jornada-de-leon-xiv-en-america-latina",
+          "date": "11/11/2026"
         }
       ]
     },
@@ -47,18 +59,6 @@
           "title": "Reducciones del Paraguay",
           "url": "https://www.wikitolica.com/r/reducciones-del-paraguay/",
           "date": "10/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "Agustinos ejemplares del perú. En homenaje al papa agustino León Xiv, por su vuelta a casa en 2026",
-          "url": "https://blogelpuente.blogspot.com/2026/11/agustinos-ejemplares-del-peru-en.html",
-          "date": "09/11/2026"
         }
       ]
     }
