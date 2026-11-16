@@ -1,15 +1,27 @@
 {
-  "updated": "2026-11-16T07:37:56.618Z",
+  "updated": "2026-11-16T22:43:38.695Z",
   "blogs": [
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Lo importante es salvar el alma",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/16/lo-importante-es-salvar-el-alma/",
+          "date": "16/11/2026"
+        }
+      ]
+    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVQ4jWNkgIJ/aUz/GUgATLP+MTIwMDAwkqMZ2RBGcjXDAAuGSEQPA4NFAgMDhwBC7MIGBoYlKQwMXz5gugJDs0MBqmYGBgYGgwAGhow1WF2AaoBFAoK9IAGCf0BtVXFgYJAxIOAFmM1rChgYTixBiCcsQLiEgYGB4ckFuBRqIM74g9WZGCADYS8THmVEAcxYYGCAeGHPFFQxlxwGhpAJBAz48QESDiETMKMMpvkHqjiqAScWQKKRgQERcOjgBKo4qgErSiA0ekKC2XxiAUINFFCclCnPTDAOudkZAEkvQ+XgMBz1AAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Santa Misa de hoy, Xxxiii domingo del Tiempo Ordinario, presidida por el Papa León Xiv, en Pucallpa, Perú, 15-11-2026",
-          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/santa-misa-de-hoy-xxxiii-domingo-del_02044275405.html",
-          "date": "15/11/2026"
+          "title": "Papa León Xiv en homilía en Perú, 16-11-2026: «Con el corazón sanado por la gracia en el vínculo con la Trinidad, podremos abrirnos a cada hermano, curándolos, amándolos y sirviéndolos con la bondad del Señor»",
+          "url": "https://escucharlavozdelamor.blogspot.com/2026/11/papa-leon-xiv-en-homilia-en-peru-16-11.html",
+          "date": "16/11/2026"
         }
       ]
     },
@@ -19,21 +31,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEwgGxwcGRldW1sZFhdRYmN9e3zzExMbFxi1s7RsamsZHyDzBwcjHyAZICEaFxgPDQ0eGhsjHyAjHyAjHyCEi4wPBwp2dHQbFxiXlZXGxcUjHyAAICEAERMNBAepqKjS0dFRTk9+jI1+fHz////wYwEjHyDwBgZlY2TwAgERCgwaFRZ6eXkAICFOS0wtKSqVlJQGAAA+Ozwv7TbLAAAAJXRSTlMAypX7G/LP/ghr/Nz7MnpPYaDktPbf2eD3s2jp/OPCyUHc8uAq0XrYGwAAAKFJREFUGJVdzscWwiAQQFGaSkiP6fZyJjGkqP//cTJwsvEtWFxggJD/Wg9rE5aySCD0AywLjJqyFGAvEYpno8bE7IkcMoSt0Jra6wlAhMBAxxYkwMFAdZtnz73gA5Bef5XiFwcUYXhwzq8OMgvbUtdinWHBfMANjc1PEGSty3WmIP1HNdX4PocypJCHhNw3WHGajpMf4bGdLehMAa7k5erWfs5SEvYClySZAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "India, un país sorprendentemente cristiano",
-          "url": "https://elobservadorenlinea.com/2026/11/india-un-pais-sorprendentemente-cristiano/?utm_source=rss&utm_medium=rss&utm_campaign=india-un-pais-sorprendentemente-cristiano",
-          "date": "15/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "La conversion",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/14/la-conversion/",
-          "date": "14/11/2026"
+          "title": "El corazón misionero de León",
+          "url": "https://elobservadorenlinea.com/2026/11/el-corazon-misionero-de-leon/?utm_source=rss&utm_medium=rss&utm_campaign=el-corazon-misionero-de-leon",
+          "date": "16/11/2026"
         }
       ]
     },
