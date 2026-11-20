@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-19T21:09:30.613Z",
+  "updated": "2026-11-20T08:03:08.273Z",
   "forDomain": "blogelpuente.blogspot.com",
   "blogs": [
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "El decálogo del Papa para el Perú: diez mensajes para amar, cuidar y construir la patria (A. Pastor y P. Isaac González, Osa)",
-          "url": "https://blogelpuente.blogspot.com/2026/11/el-decalogo-del-papa-para-el-peru-diez.html",
-          "date": "19/11/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -22,6 +10,18 @@
         {
           "title": "Cristian, preso, ante el Papa León: «El consumo de drogas y alcohol me empujaban a cometer delitos para sostener mi adicción; lo perdí todo; en el penal, Jesús tocó mi corazón, me guió y quitó la venda de los ojos»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/11/cristian-preso-ante-el-papa-leon-el.html",
+          "date": "20/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
+      "lastPosts": [
+        {
+          "title": "El decálogo del Papa para el Perú: diez mensajes para amar, cuidar y construir la patria (A. Pastor y P. Isaac González, Osa)",
+          "url": "https://blogelpuente.blogspot.com/2026/11/el-decalogo-del-papa-para-el-peru-diez.html",
           "date": "19/11/2026"
         }
       ]

@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-19T21:09:30.613Z",
+  "updated": "2026-11-20T08:03:08.273Z",
   "forDomain": "elobservadorenlinea.com",
   "blogs": [
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Rezar por los sacerdotes",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/19/rezar-por-los-sacerdotes/",
-          "date": "19/11/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -22,6 +10,18 @@
         {
           "title": "Cristian, preso, ante el Papa León: «El consumo de drogas y alcohol me empujaban a cometer delitos para sostener mi adicción; lo perdí todo; en el penal, Jesús tocó mi corazón, me guió y quitó la venda de los ojos»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/11/cristian-preso-ante-el-papa-leon-el.html",
+          "date": "20/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Rezar por los sacerdotes",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/19/rezar-por-los-sacerdotes/",
           "date": "19/11/2026"
         }
       ]
