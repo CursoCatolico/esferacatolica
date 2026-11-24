@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-24T00:34:10.193Z",
+  "updated": "2026-11-24T10:39:29.697Z",
   "forDomain": "mariamadrecelestial.jimdofree.com",
   "blogs": [
     {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "name": "El Puente",
+      "url": "https://blogelpuente.blogspot.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
       "lastPosts": [
         {
-          "title": "El sacramento de la reconciliacion",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/23/el-sacramento-de-la-reconciliacion/",
-          "date": "23/11/2026"
+          "title": "Fray juan de zumárraga (1468-1548), primer arzobispo de México, ante el acontecimiento de Guadalupe",
+          "url": "https://blogelpuente.blogspot.com/2026/11/fray-juan-de-zumarraga-1468-1548-primer.html",
+          "date": "24/11/2026"
         }
       ]
     },
@@ -22,6 +22,18 @@
         {
           "title": "El padre Jean de Dieu Bukuru, sobrevivíó a la trata de personas y atiende a víctimas: «Durante el secuestro rezaba el Rosario y meditaba el Via Crucis y por la fortaleza de la oración pude escapar por la gracia de Dios»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/11/el-padre-jean-de-dieu-bukuru-sobrevivio.html",
+          "date": "24/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "El sacramento de la reconciliacion",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/23/el-sacramento-de-la-reconciliacion/",
           "date": "23/11/2026"
         }
       ]
@@ -44,21 +56,9 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Jérôme Lejeune",
-          "url": "https://www.wikitolica.com/j/jerome-lejeune/",
-          "date": "22/11/2026"
-        }
-      ]
-    },
-    {
-      "name": "El Puente",
-      "url": "https://blogelpuente.blogspot.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX6/P3////+///9///7/f64uLirra28vb2vr6+1tbbKy8yampuXl5jQ0tPIyMjc29vh4eFQUFChoaLw8fLo6uv19vdiY2Snp6d7fHyfoaJ1dnfY2NmGh4eOj4/g4ODAwcFh6rhSAAAAlUlEQVQYlZWO2Q7CMAwEbcduzjY9AqG0NP//l7jAAxJPjCVLO7KlBfjB4BdGc3BRxMfoRZLrDWCHQxa0FmVs6OkU08hJ3GyOCeUlPDJ2FQHrR1jd+gLk36K3xJiinvlNBS+hUOG8lUsZB2AgmyvO19qFm9hVe1ELDpPtartveUcV1j2OtexzbGHYFwbQwqyjEJ3V/+cJWtsGPmMz4a0AAAAASUVORK5CYII=",
-      "lastPosts": [
-        {
-          "title": "El decálogo del Papa para el Perú: diez mensajes para amar, cuidar y construir la patria (A. Pastor y P. Isaac González, Osa)",
-          "url": "https://blogelpuente.blogspot.com/2026/11/el-decalogo-del-papa-para-el-peru-diez.html",
-          "date": "19/11/2026"
+          "title": "Sínodo de Letrán (1059)",
+          "url": "https://www.wikitolica.com/s/sinodo-de-letran-1059/",
+          "date": "23/11/2026"
         }
       ]
     }
