@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-27T21:47:30.867Z",
+  "updated": "2026-11-28T08:39:38.329Z",
   "forDomain": "elobservadorenlinea.com",
   "blogs": [
-    {
-      "name": "María Madre Celestial",
-      "url": "https://mariamadrecelestial.jimdofree.com/",
-      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
-      "lastPosts": [
-        {
-          "title": "Estar preparados",
-          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/27/estar-preparados/",
-          "date": "27/11/2026"
-        }
-      ]
-    },
     {
       "name": "Camino Católico",
       "url": "https://escucharlavozdelamor.blogspot.com/",
@@ -22,6 +10,18 @@
         {
           "title": "Andrew Foote supera una adicción por «el Espíritu Santo» y pedalea 4.800 km hasta Jerusalén: «En la casa de la Virgen María en Éfeso cambió mi vida, sentí un llamado profundo y muy fuerte al sacerdocio»",
           "url": "https://escucharlavozdelamor.blogspot.com/2026/11/andrew-foote-supera-una-adiccion-por-el.html",
+          "date": "28/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "María Madre Celestial",
+      "url": "https://mariamadrecelestial.jimdofree.com/",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXp6eno6Ojm5ubn5+fu7u329vUAABHe3uDX19mnp6+EhJDz8/H4+PZqanpYWGrCwscQEB8AAAKnp6sVFS/NzdAnJz7///8EBCAAABWxsba8vMFAQFQdHTBycoEAAA2enqcvL0ZMTF/UuwigAAAAdklEQVQYlXXO6w6CMAwF4PWyDWkVUdEiOvT9X1KJwkaiJ/31JSc9zv0NIqxBlQsBjttdI1RAtW8PHks42mYGIJggLMDMtIJ4qhxkQK1Dh+fmYv0HSK5mQ92FW/wOQX9PqU025q8yDo9n7/MsUnEqedW7RdP9zgsyeQTkw4sWLQAAAABJRU5ErkJggg==",
+      "lastPosts": [
+        {
+          "title": "Estar preparados",
+          "url": "https://mariamadrecelestial.jimdofree.com/2026/11/27/estar-preparados/",
           "date": "27/11/2026"
         }
       ]
@@ -44,8 +44,8 @@
       "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcExdOB5WKw1bNx1cNhxSJRGgi3hcNx1VLRiXgG1XMBJFAACQd2RcNxxXLg5dOB5WLQv/+uv///RcNhz///KmkoFXLgz//e/w59f///lLGgC6qptsSTDj2ciNdWJRJACzopF/YUrOv7ByUjn48OBoQyfSxbbMvaxUNiQBAAAAEXRSTlMAc58IhlT9Fif6tIzd7M5N3fGpAdwAAACOSURBVBiVnY9JDsMwCEVJ46R2OqQ4eLYzdrj/DUu66bbqW6DPE0gA8A9Sze0B4KSSaT79VIhQnT2Riz2LJt4RnfeEqK1gUU0BsZixONSZV0E8NLqnGleHNHYsuoWHaU2aq7mxuLZBE70SkQ7JsrjkvBkfgjdL3gYWA2OjmaPdUw1wZGRlrZB7+N5b//zZG2p+CllhXK4xAAAAAElFTkSuQmCC",
       "lastPosts": [
         {
-          "title": "Nuestra Señora de Zapopan",
-          "url": "https://www.wikitolica.com/n/nuestra-senora-de-zapopan/",
+          "title": "Rito bracarense o de Braga",
+          "url": "https://www.wikitolica.com/r/rito-bracarense-o-de-braga/",
           "date": "27/11/2026"
         }
       ]
